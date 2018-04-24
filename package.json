@@ -1,0 +1,22 @@
+{
+  "name": "atlante-calvino-scripts",
+  "version": "1.0.0",
+  "description": "Various Scripts for the project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/densitydesign/atlante-calvino-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/densitydesign/atlante-calvino-scripts/issues"
+  },
+  "homepage": "https://github.com/densitydesign/atlante-calvino-scripts#readme",
+  "dependencies": {
+    "xls-to-json": "^0.5.0"
+  }
+}
