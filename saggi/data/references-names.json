@@ -18,7 +18,67 @@
     "name": "Alfieri Vittorio",
     "references": [
       {
-        "page": "nan",
+        "page": 1352,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1353,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1354,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1355,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1356,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1357,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1358,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1359,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1360,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1361,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1362,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1363,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1364,
         "intoNote": false,
         "noteNumber": null
       }
@@ -27,31 +87,56 @@
   {
     "name": "Algarotti Francesco",
     "references": [
-      null
+      {
+        "page": 1508,
+        "intoNote": true,
+        "noteNumber": null
+      }
     ]
   },
   {
     "name": "Alighieri Dante",
     "references": [
-      null
+      {
+        "page": 1508,
+        "intoNote": true,
+        "noteNumber": null
+      }
     ]
   },
   {
     "name": "Allen Woody",
     "references": [
-      null
+      {
+        "page": 1508,
+        "intoNote": true,
+        "noteNumber": null
+      }
     ]
   },
   {
     "name": "Almansi Guido",
     "references": [
-      null
+      {
+        "page": 1508,
+        "intoNote": true,
+        "noteNumber": null
+      }
     ]
   },
   {
     "name": "Ataturk Kemal",
     "references": [
-      null
+      {
+        "page": 284,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 285,
+        "intoNote": true,
+        "noteNumber": null
+      }
     ]
   },
   {
@@ -148,12 +233,57 @@
     "name": "Balbo Felice",
     "references": [
       {
-        "page": "nan",
+        "page": 1473,
         "intoNote": false,
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 1474,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1475,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 2892,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 2893,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 2894,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 2895,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 2896,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 2897,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 2898,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 2899,
         "intoNote": false,
         "noteNumber": null
       }
@@ -178,7 +308,17 @@
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 229,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 230,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 231,
         "intoNote": false,
         "noteNumber": null
       },
@@ -187,7 +327,16 @@
         "intoNote": false,
         "noteNumber": null
       },
-      null,
+      {
+        "page": 284,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 285,
+        "intoNote": true,
+        "noteNumber": null
+      },
       {
         "page": 288,
         "intoNote": false,
@@ -203,15 +352,53 @@
         "intoNote": false,
         "noteNumber": null
       },
-      null,
-      null,
+      {
+        "page": 302,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 303,
+        "intoNote": true,
+        "noteNumber": null
+      },
+      {
+        "page": 306,
+        "intoNote": true,
+        "noteNumber": null
+      },
       {
         "page": 389,
         "intoNote": false,
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 481,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 482,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 483,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 484,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 485,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 486,
         "intoNote": false,
         "noteNumber": null
       },
@@ -246,7 +433,12 @@
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 232,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 233,
         "intoNote": false,
         "noteNumber": null
       },
@@ -261,12 +453,32 @@
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 641,
         "intoNote": false,
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 642,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 697,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 698,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 699,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 700,
         "intoNote": false,
         "noteNumber": null
       },
@@ -306,7 +518,12 @@
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 1299,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 1300,
         "intoNote": false,
         "noteNumber": null
       },
@@ -360,7 +577,11 @@
         "intoNote": false,
         "noteNumber": null
       },
-      null,
+      {
+        "page": 2115,
+        "intoNote": true,
+        "noteNumber": null
+      },
       {
         "page": 2117,
         "intoNote": false,
@@ -392,7 +613,17 @@
     "name": "Balzac Honoré de",
     "references": [
       {
-        "page": "nan",
+        "page": 34,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 35,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 36,
         "intoNote": false,
         "noteNumber": null
       },
@@ -417,7 +648,12 @@
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 474,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 475,
         "intoNote": false,
         "noteNumber": null
       },
@@ -427,7 +663,22 @@
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 711,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 712,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 713,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 714,
         "intoNote": false,
         "noteNumber": null
       },
@@ -437,12 +688,72 @@
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 775,
         "intoNote": false,
         "noteNumber": null
       },
       {
-        "page": "nan",
+        "page": 776,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 777,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 778,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 779,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 780,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 782,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 783,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 784,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 785,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 786,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 787,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 788,
+        "intoNote": false,
+        "noteNumber": null
+      },
+      {
+        "page": 789,
         "intoNote": false,
         "noteNumber": null
       },
@@ -506,7 +817,11 @@
         "intoNote": false,
         "noteNumber": null
       },
-      null,
+      {
+        "page": 1365,
+        "intoNote": true,
+        "noteNumber": null
+      },
       {
         "page": 1390,
         "intoNote": false,
