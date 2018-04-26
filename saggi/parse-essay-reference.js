@@ -23,15 +23,17 @@ node_xj({
             if (err) {
                 console.error(err);
             } else {
+                
                 names.forEach(function(name) {
+                    console.log(name.name.toString().green)
                     name.essays = [];
                     let pages = name.pages.split(';')
                         .slice(0, -1);
                     pages.forEach(function(p) {
                         // console.log(p);
                         essays.forEach(function(essay) {
-                            if (p >= essay.pageStart && p <= essay.pageEnd) {
-                                // console.log(p, essay.title);
+                            if (p >= +essay.pageStart && p <= +essay.pageEnd) {
+                                console.log(p, essay.title);
                                 let obj = {
                                     'id': essay.id,
                                     'title': essay.title
@@ -41,14 +43,18 @@ node_xj({
                             }
                         })
                     })
+                    let countEssays = _.countBy(name.essays, 'id');
                     name.essays = _.uniqBy(name.essays, 'id');
+                    name.essays.forEach(function(essay,i){
+                        essay.onHowManyPagesAppears = countEssays[name.essays[i].id]
+                    })
                 });
 
-                fs.writeFile(`data/${namesIndex+'Essays'}.json`, JSON.stringify(names, null, 2), function(err) {
+                fs.writeFile(`data/${namesIndex} essays.json`, JSON.stringify(names, null, 2), function(err) {
                     if (err) {
                         return console.log(err);
                     }
-                    console.log(`The file “${namesIndex+'Essays'}.json” was saved!`.green);
+                    console.log(`The file “${namesIndex} essays.json” was saved!`.green);
                 });
 
                 // save CSV for creating network in table2net
@@ -64,11 +70,11 @@ node_xj({
                     tabularData += `"${d.name.replace(',','-')}","${d.occurrences}","${essays}"\n`;
                 })
 
-                fs.writeFile(`data/${namesIndex} tabular.csv`, tabularData, function(err) {
+                fs.writeFile(`data/${namesIndex} essays.csv`, tabularData, function(err) {
                     if (err) {
                         return console.log(err);
                     }
-                    console.log(`The file “${namesIndex} tabular.csv” was saved!`.green);
+                    console.log(`The file “${namesIndex}.csv” was saved!`.green);
                 });
 
             }
