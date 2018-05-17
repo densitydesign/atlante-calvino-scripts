@@ -1,11 +1,14 @@
-// Node script for parsing the pages references.
+// First run "parse-pages-references"
+// then import the generated table in the "indice generale.xlsx" with the name "indice nomi (pages)".
+// Run this script on the updated Excel file
+
 const fs = require('fs');
 const node_xj = require("xls-to-json");
 const colors = require('colors');
 const _ = require('lodash');
 
 let namesIndex = 'indice nomi (pages)';
-let essaysIndex = 'indice dei saggi';
+let essaysIndex = 'indice meridiani';
 
 node_xj({
     input: "data/indice generale.xlsx", // input xls
@@ -15,6 +18,7 @@ node_xj({
     if (err) {
         console.error(err);
     } else {
+        // console.log(names)
         node_xj({
             input: "data/indice generale.xlsx", // input xls
             output: null, // output json
@@ -23,31 +27,33 @@ node_xj({
             if (err) {
                 console.error(err);
             } else {
-                
+                // console.log(essays)
                 names.forEach(function(name) {
-                    console.log(name.name.toString().green)
+                    // console.log(name.name.toString().green)
                     name.essays = [];
                     let pages = name.pages.split(';')
                         .slice(0, -1);
+                    // console.log(pages)
                     pages.forEach(function(p) {
-                        // console.log(p);
                         essays.forEach(function(essay) {
-                            if (p >= +essay.pageStart && p <= +essay.pageEnd) {
-                                console.log(p, essay.title);
+                            if (p >= +essay["page-start"] && p <= +essay["page-end"]) {
+                                console.log('aaa',p, essay.title);
                                 let obj = {
                                     'id': essay.id,
                                     'title': essay.title
                                 }
                                 name.essays.push(obj);
-
                             }
                         })
+                        // console.log('bbb',p, name.essays);
                     })
+                    // console.log('ccc',name.essays)
                     let countEssays = _.countBy(name.essays, 'id');
                     name.essays = _.uniqBy(name.essays, 'id');
                     name.essays.forEach(function(essay,i){
                         essay.onHowManyPagesAppears = countEssays[name.essays[i].id]
                     })
+                    // console.log('ccc',name.essays)
                 });
 
                 fs.writeFile(`data/${namesIndex} essays.json`, JSON.stringify(names, null, 2), function(err) {
@@ -74,7 +80,7 @@ node_xj({
                     if (err) {
                         return console.log(err);
                     }
-                    console.log(`The file “${namesIndex}.csv” was saved!`.green);
+                    console.log(`The file “${namesIndex} essays.csv” was saved!`.green);
                 });
 
             }
