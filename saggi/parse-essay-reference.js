@@ -7,27 +7,28 @@ const node_xj = require("xls-to-json");
 const colors = require('colors');
 const _ = require('lodash');
 
-let namesIndex = 'indice nomi (pages)';
-let essaysIndex = 'indice meridiani';
+let fileName = "indice generale 005 (ID giusti e info WikiData).xlsx"
+let sheetNames = 'Nomi e pagine';
+let sheetEssays = 'Indice Meridiani';
 
 node_xj({
-    input: "data/indice generale.xlsx", // input xls
+    input: `data/${fileName}`, // input xls
     output: null, // output json
-    sheet: namesIndex // specific sheetname
+    sheet: sheetNames // specific sheetname
 }, function(err, names) {
     if (err) {
         console.error(err);
     } else {
-        // console.log(names)
+        console.log(names)
         node_xj({
-            input: "data/indice generale.xlsx", // input xls
+            input: `data/${fileName}`, // input xls
             output: null, // output json
-            sheet: essaysIndex // specific sheetname
+            sheet: sheetEssays // specific sheetname
         }, function(err, essays) {
             if (err) {
                 console.error(err);
             } else {
-                // console.log(essays)
+                console.log(essays)
                 names.forEach(function(name) {
                     // console.log(name.name.toString().green)
                     name.essays = [];
@@ -56,32 +57,32 @@ node_xj({
                     // console.log('ccc',name.essays)
                 });
 
-                fs.writeFile(`data/${namesIndex} essays.json`, JSON.stringify(names, null, 2), function(err) {
-                    if (err) {
-                        return console.log(err);
-                    }
-                    console.log(`The file “${namesIndex} essays.json” was saved!`.green);
-                });
+                // fs.writeFile(`data/${namesIndex} essays.json`, JSON.stringify(names, null, 2), function(err) {
+                //     if (err) {
+                //         return console.log(err);
+                //     }
+                //     console.log(`The file “${namesIndex} essays.json” was saved!`.green);
+                // });
 
-                // save CSV for creating network in table2net
-                let tabularData = '';
-                names.forEach(function(d) {
-                    let essays = '';
-                    d.essays.forEach(function(r) {
-                        essays += `${r.title};`;
-                    })
-                    if (tabularData == '') {
-                        tabularData += `name,occurrences,essays\n`;
-                    }
-                    tabularData += `"${d.name.replace(',','-')}","${d.occurrences}","${essays}"\n`;
-                })
+                // // save CSV for creating network in table2net
+                // let tabularData = '';
+                // names.forEach(function(d) {
+                //     let essays = '';
+                //     d.essays.forEach(function(r) {
+                //         essays += `${r.title};`;
+                //     })
+                //     if (tabularData == '') {
+                //         tabularData += `name,occurrences,essays\n`;
+                //     }
+                //     tabularData += `"${d.name.replace(',','-')}","${d.occurrences}","${essays}"\n`;
+                // })
 
-                fs.writeFile(`data/${namesIndex} essays.csv`, tabularData, function(err) {
-                    if (err) {
-                        return console.log(err);
-                    }
-                    console.log(`The file “${namesIndex} essays.csv” was saved!`.green);
-                });
+                // fs.writeFile(`data/${namesIndex} essays.csv`, tabularData, function(err) {
+                //     if (err) {
+                //         return console.log(err);
+                //     }
+                //     console.log(`The file “${namesIndex} essays.csv” was saved!`.green);
+                // });
 
             }
         });
