@@ -2,10 +2,11 @@
 const fs = require('fs');
 const node_xj = require("xls-to-json");
 
-let sheetName = 'indice nomi (meridiani)';
+let fileName = "indice generale 005 (ID giusti e info WikiData).xlsx"
+let sheetName = 'Nomi e pagine';
 
 node_xj({
-    input: "data/indice generale.xlsx", // input xls
+    input: `data/${fileName}`, // input xls
     output: null, // output json
     sheet: sheetName // specific sheetname
 }, function(err, result) {
@@ -18,23 +19,24 @@ node_xj({
 
         result.forEach(function(d) {
             let person = {
-                'name': d.name,
+                'name': d.nomeCorretto ? d.nomeCorretto : d.nomeScansione,
+                'Qid': d['Qid'],
                 'references': [],
                 'occurrences': 0
             }
 
             if (d.toSkip == '') {
                 // console.log('\x1b[30m', d.name);
-                d.references = d.references.split(',');
+                d.reference = d.reference.substring(5).split(',');
 
-                // console.log(d.references)
+                // console.log('ref: ', d.reference)
 
-                d.references.forEach(function(r) {
+                d.reference.forEach(function(r) {
 
                     let obj;
 
-                    // // if the reference is a page number, return it as it is
                     if (!isNaN(r)) {
+                        // if the reference is a page number, return it as it is
                         // console.log('\x1b[30m', `${r} is a number`)
                         obj = {
                             'page': parseInt(r),
@@ -42,9 +44,11 @@ node_xj({
                         }
                         person.references.push(obj);
                     } else if (r.indexOf('-') > -1 && r.indexOf('n') < 0) {
-                        // console.log('\x1b[30m', `${r} are consequential pages`)
-
+                        // if the reference is a sequence of numbers and do not have notes, parse and return them as page numbers
                         // E.g. "1352-64" > grab 64 and 52, and generate all numbers from 1352 to 1364
+
+                        // console.log('\x1b[30m', `${r} are consequential pages`)
+                        
                         r = r.split('-');
                         let lastDigits = r[0].toString()
                             .substr(r[0].toString()
@@ -70,6 +74,7 @@ node_xj({
                             person.references.push(obj);
                         }
                     } else if (r.indexOf('n') > -1 && r.indexOf('-') < 0) {
+                        // if the reference is within a note on a singular page, parse and return the page
                         // console.log('\x1b[30m', `${r} is in note`);
                         obj = {
                             'page': parseInt(r.split(' n')[0]),
@@ -77,7 +82,10 @@ node_xj({
                         }
                         person.references.push(obj);
                     } else if (r.indexOf('n') > -1 && r.indexOf('-') > -1) {
+                        // if the reference is on multiple pages and it is a note, handle carefully
                         if (r.indexOf('n') > r.indexOf('-')) {
+                            // if the note signifier comes after the multipage
+
                             // console.log('\x1b[31m', `COMPLEX: ${r} is on multiple pages, is in note which may be singular`);
                             // console.log('\x1b[30m', r.split(' n')[0])
 
@@ -109,6 +117,7 @@ node_xj({
                             }
 
                         } else {
+                            // if the note signifier comes before the multipage
                             // console.log('\x1b[31m', `COMPLEX: ${r} is on singular page, is in note which may be more than one`);
 
                             r = r.split(' n')[0];
@@ -121,40 +130,36 @@ node_xj({
                         }
 
                     } else {
-                        console.log(d.name)
-                        console.log('\x1b[30m', `${r} ???????????`)
+                        // Cases not recognized
+                        console.log('Reference for', d.nomeCorretto ? d.nomeCorretto : d.nomeScansione, 'not recognized:')
+                        console.log(`${r}`)
                     }
-
-                    // if (r.indexOf('-') > -1) {
-                    //  r = r.split('-');
-                    //  if(r[0]==r[1]-1){
-                    //      console.log(r[0])
-                    //      console.log(r[1])
-                    //      console.log('\n')
-                    //  }
-                    // }
                 })
                 
-                person.occurrences = person.references.length;
+                person.countReferences = person.references.length;
 
                 data.push(person);
 
-                // console.log('\x1b[30m', '')
+                // // console.log('\x1b[30m', '')
             } else {
-                console.log(d.toSkip)
+                console.log('Person to skip', d.nomeCorretto ? d.nomeCorretto : d.nomeScansione, '('+d.reference+')')
             }
 
         });
+        
+        // Name output similarly to the input excel
+        let outputName = fileName.replace('.xlsx','').replace('.xls','')
+        let jsonOutputName = `data/${outputName}.json`
+        let csvOutputName = `data/${outputName}.csv`
 
-        fs.writeFile(`data/${sheetName}.json`, JSON.stringify(data, null, 2), function(err) {
+        fs.writeFile(jsonOutputName, JSON.stringify(data, null, 2), function(err) {
             if (err) {
                 return console.log(err);
             }
-            console.log('\x1b[32m', "The file was saved!");
-            console.log('\x1b[30m');
+            console.log('-------------------\nJSON file saved!\n-------------------');
         });
 
-        // save TSV for creating network in table2net
+        // save CSV for creating network in table2net
         let tabularData = '';
         data.forEach(function(d) {
             let pages = '';
@@ -164,15 +169,14 @@ node_xj({
             if (tabularData == '') {
                 tabularData += `name,occurrences,pages\n`;
             }
-            tabularData += `${d.name.replace(',','-')},${d.occurrences},${pages}\n`;
+            tabularData += `"${d.name.replace(',','-')}","${d.occurrences}","${pages}"\n`;
         })
 
-        fs.writeFile(`data/${sheetName} tabular.csv`, tabularData, function(err) {
+        fs.writeFile(csvOutputName, tabularData, function(err) {
             if (err) {
                 return console.log(err);
             }
-            console.log('\x1b[32m', "The file was saved!");
-            console.log('\x1b[30m');
+            console.log('-------------------\nCSV file saved!\n-------------------');
         });
 
     }
