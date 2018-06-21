@@ -307,8 +307,8 @@ node_xj({
                             essays += `${r.title};`;
                         })
                         let collections = '';
-                        d.collections.forEach(function(r) {
-                            collections += `${r.collections};`;
+                        d.essays.forEach(function(r) {
+                            collections += `${r.collection};`;
                         })
                         if (tabularData == '') {
                             tabularData += `"name","qid","referencesLength","pages","essays","collections"`;
