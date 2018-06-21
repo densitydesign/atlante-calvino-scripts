@@ -10,6 +10,8 @@ let names = 'Nomi e pagine';
 let essays = 'Indice Meridiani';
 let wikidata = 'Info Wikidata';
 
+let outputName = file.replace('.xlsx', '').replace('.xls', '');
+
 node_xj({
     input: `data/${file}`, // input xls
     output: null, // output json
@@ -175,7 +177,9 @@ node_xj({
                                 // console.log('aaa', p, essay.title);
                                 let obj = {
                                     'id': essay.id,
-                                    'title': essay.title
+                                    'title': essay.title,
+                                    'year': essay.year,
+                                    'collection': essay.collection
                                 }
                                 person.essays.push(obj);
                             }
@@ -217,8 +221,6 @@ node_xj({
 
                     data.forEach(function(d) {
 
-
-
                         let filtered = wikidataset.filter(function(e) { return e.key == d.qid })
                         // console.log(filtered.length)
 
@@ -226,7 +228,6 @@ node_xj({
 
                             // console.log(filtered[0].values)
                             let propInfo = filtered[0].values.filter(function(e) { return e.key == p.key })
-
 
                             let thisValues = '';
 
@@ -249,19 +250,43 @@ node_xj({
 
                     })
 
+                    let graph = {
+                        nodes: data,
+                        links: []
+                    }
 
-
-                    // fs.writeFile('data/test.json', JSON.stringify(wikidataset, null, 2), function(err) {
-                    //     if (err) {
-                    //         return console.log(err);
-                    //     }
-                    //     console.log('-------------------\ntest file saved!\n-------------------');
-                    // });
+                    // graph.nodes.forEach(function(s){
+                    //     // console.log('\n'+s.name);
+                    //     // console.log(s.essays);
+                    //     s.essays.forEach(function(e1){
+                    //         graph.nodes.forEach(function(t){
+                    //             // console.log(t.name)
+                    //             // console.log(t.essays);
+                    //             t.essays.forEach(function(e2){
+                    //                 if (e1.id == e2.id) {
+                    //                     // console.log(s.name, t.name, e1.id == e2.id);
+                    //                     let link = {
+                    //                         source: s.qid,
+                    //                         target: t.qid
+                    //                     }
+                    //                     graph.links.push(link);
+                    //                 }
+                    //             })
+                    //         })
+                    //     })
+                    // })
 
                     // Name output similarly to the input excel
-                    let outputName = file.replace('.xlsx', '').replace('.xls', '')
                     let jsonOutputName = `data/${outputName}.json`
                     let csvOutputName = `data/${outputName}.csv`
+                    let graphOutputName = `data/${outputName}-graph.json`;
+
+                    fs.writeFile(graphOutputName, JSON.stringify(graph, null, 2), function(err) {
+                        if (err) {
+                            return console.log(err);
+                        }
+                        console.log(`-------------------\n${graphOutputName} file saved!\n-------------------`);
+                    });
 
                     fs.writeFile(jsonOutputName, JSON.stringify(data, null, 2), function(err) {
                         if (err) {
@@ -270,7 +295,7 @@ node_xj({
                         console.log('-------------------\nJSON file saved!\n-------------------');
                     });
 
-                    // // save CSV for creating network in table2net
+                    // save CSV for creating network in table2net
                     let tabularData = '';
                     data.forEach(function(d) {
                         let pages = '';
@@ -281,8 +306,12 @@ node_xj({
                         d.essays.forEach(function(r) {
                             essays += `${r.title};`;
                         })
+                        let collections = '';
+                        d.collections.forEach(function(r) {
+                            collections += `${r.collections};`;
+                        })
                         if (tabularData == '') {
-                            tabularData += `"name","qid","referencesLength","pages","essays"`;
+                            tabularData += `"name","qid","referencesLength","pages","essays","collections"`;
                             properties.forEach(function(p) {
                                 tabularData += ','
                                 tabularData += `"${p.value}"`
