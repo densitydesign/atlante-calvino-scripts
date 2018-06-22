@@ -5,7 +5,7 @@ const colors = require('colors');
 const _ = require('lodash');
 const d3 = require('d3');
 
-let file = "indice generale 005.xlsx"
+let file = "indice generale 006.xlsx"
 let names = 'Nomi e pagine';
 let essays = 'Indice Meridiani';
 let wikidata = 'Info Wikidata';
@@ -207,6 +207,8 @@ node_xj({
                         .key(function(d) { return d['prop id'] })
                         .entries(wikidataset);
 
+                    // console.log(properties[properties.length-1])
+
                     properties = properties.map(function(d) {
                         return {
                             'key': d.key,
@@ -226,24 +228,32 @@ node_xj({
 
                         properties.forEach(function(p) {
 
-                            // console.log(filtered[0].values)
-                            let propInfo = filtered[0].values.filter(function(e) { return e.key == p.key })
+                            try {
+                                // console.log(filtered[0].values)
+                                let propInfo = filtered[0].values.filter(function(e) { return e.key == p.key })
 
-                            let thisValues = '';
+                                let thisValues = '';
 
-                            d[p.value] = null;
+                                d[p.value] = null;
 
-                            if (propInfo.length > 0) {
-                                propInfo[0].values.forEach(function(e) {
-                                    thisValues += `${e['value name']};`;
-                                })
-                                // console.log(propInfo[0].values[0]['prop id'], propInfo[0].values[0]['prop value'])
-                                // console.log(thisValues+'\n')
-                                d[p.value] = thisValues;
+                                if (propInfo.length > 0) {
+                                    propInfo[0].values.forEach(function(e) {
+                                        thisValues += `${e['value name']};`;
+                                    })
+                                    // console.log(propInfo[0].values[0]['prop id'], propInfo[0].values[0]['prop value'])
+                                    // console.log(thisValues+'\n')
+                                    d[p.value] = thisValues;
+                                }
+                                // else {
+                                //     console.log(JSON.stringify(d.name, null, 2) + ' - ' + p.value + ' (' + p.key + '): no values!\n')
+                                // }
+                            } catch (err) {
+                                console.log(d.name, p.value)
+                                console.log(err)
+                                console.log('---')
                             }
-                            // else {
-                            //     console.log(JSON.stringify(d.name, null, 2) + ' - ' + p.value + ' (' + p.key + '): no values!\n')
-                            // }
+
+
                         })
 
                         // console.log(d)
@@ -306,25 +316,31 @@ node_xj({
                         d.essays.forEach(function(r) {
                             essays += `${r.title};`;
                         })
+                        let essaysYears = '';
+                        d.essays.forEach(function(r) {
+                            essaysYears += `${r.year};`;
+                        })
                         let collections = '';
                         d.essays.forEach(function(r) {
                             collections += `${r.collection};`;
                         })
                         if (tabularData == '') {
-                            tabularData += `"name","qid","referencesLength","pages","essays","collections"`;
+                            tabularData += `"name","qid","referencesLength","pages","essays","essaysYears","collections"`;
                             properties.forEach(function(p) {
+                                // console.log(p)
                                 tabularData += ','
                                 tabularData += `"${p.value}"`
                             })
                             tabularData += '\n';
                         }
-                        
-                        tabularData += `"${d.name.replace(',','-')}","${d.qid}","${d.referencesLength}","${pages}","${essays}"`;
+
+                        tabularData += `"${d.name.replace(',','-')}","${d.qid}","${d.referencesLength}","${pages}","${essays}","${essaysYears}","${collections}"`;
                         properties.forEach(function(p) {
                             tabularData += ','
                             tabularData += `"${d[p.value]}"`
                         })
                         tabularData += '\n';
+
                     })
 
                     // console.log(tabularData)
