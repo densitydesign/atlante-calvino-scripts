@@ -12,6 +12,7 @@ let wikidata = 'Info Wikidata';
 
 let outputName = file.replace('.xlsx', '').replace('.xls', '');
 
+console.log('Loading spreadsheet', names)
 node_xj({
   input: `data/${file}`, // input xls
   output: null, // output json
@@ -156,6 +157,7 @@ node_xj({
     });
 
     // Based on pages references, get essays references
+    console.log('Loading spreadsheet', essays)
     node_xj({
       input: `data/${file}`, // input xls
       output: null, // output json
@@ -198,6 +200,7 @@ node_xj({
         })
 
         // Merge references from Wikidata
+        console.log('Loading spreadsheet', wikidata)
         node_xj({
           input: `data/${file}`, // input xls
           output: null, // output json
@@ -314,6 +317,7 @@ node_xj({
 
             source.id = source.qid;
             delete source.qid;
+            source.collections = source.essays.map(function(d){return d.collection}).join(';')
             source.essays = source.essays.map(function(d){return d.title}).join(';')
             delete source.references;
 
@@ -324,38 +328,176 @@ node_xj({
           var builder = require('xmlbuilder');
 
           var xml = builder.create('gexf', {
-              'xmlns': 'http://www.gexf.net/1.2draft',
-              'version': '1.2'
-            }).ele('graph', {
-              'mode': 'dynamic',
-              'defaultedgetype': 'undirected',
-              // 'timeformat': 'date'
-            })
+            'xmlns': 'http://www.gexf.net/1.2draft',
+            'version': '1.2'
+          }).ele('graph', {
+            'mode': 'dynamic',
+            'defaultedgetype': 'undirected',
+            // 'timeformat': 'date'
+          })
+
+          var xmlNodesAttrs = xml.ele('attributes', {
+            'class': 'node'
+          })
+
+          xmlNodesAttrs.ele('attribute', {
+            'id': 0,
+            'title': 'istance of',
+            'type': 'string'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 1,
+            'title': 'sex or gender',
+            'type': 'string'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 2,
+            'title': 'date of birth',
+            'type': 'integer'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 3,
+            'title': 'date of death',
+            'type': 'integer'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 4,
+            'title': 'country of citizenship',
+            'type': 'string'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 5,
+            'title': 'occupation',
+            'type': 'string'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 6,
+            'title': 'place of birth',
+            'type': 'string'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 7,
+            'title': 'place of death',
+            'type': 'string'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 8,
+            'title': 'count of references',
+            'type': 'integer'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 9,
+            'title': 'essays',
+            'type': 'string'
+          })
+          xmlNodesAttrs.ele('attribute', {
+            'id': 10,
+            'title': 'collections',
+            'type': 'string'
+          })
 
           var xmlNodes = xml.ele('nodes')
           var xmlEdges = xml.ele('edges')
 
-          graph.nodes.forEach( n => {
-            // console.log(n);
-            xmlNodes.ele('node', {
-              id: n.id||n.qid,
+          graph.nodes.forEach(n => {
+
+            let node = xmlNodes.ele('node', {
+              id: n.id || n.qid,
               label: n.name
             })
 
+            let attributes = node.ele('attvalues')
+
+            attributes.ele('attvalue',{
+              'for': 0,
+              'value': n['istance of']||''
+            })
+
+            attributes.ele('attvalue',{
+              'for': 1,
+              'value': n['sex or gender']||''
+            })
+
+            attributes.ele('attvalue',{
+              'for': 2,
+              'value': (n['date of birth']?n['date of birth'].split(';')[0]:'')
+            })
+
+            attributes.ele('attvalue',{
+              'for': 3,
+              'value': (n['date of death']?n['date of death'].split(';')[0]:'')
+            })
+
+            attributes.ele('attvalue',{
+              'for': 4,
+              'value': n['country of citizenship']||''
+            })
+
+            attributes.ele('attvalue',{
+              'for': 5,
+              'value': n['occupation']||''
+            })
+
+            attributes.ele('attvalue',{
+              'for': 6,
+              'value': n['place of birth']||''
+            })
+
+            attributes.ele('attvalue',{
+              'for': 7,
+              'value': n['place of death']||''
+            })
+
+            attributes.ele('attvalue',{
+              'for': 8,
+              'value': n['referencesLength']
+            })
+            attributes.ele('attvalue',{
+              'for': 9,
+              'value': n['essays']
+            })
+            attributes.ele('attvalue',{
+              'for': 10,
+              'value': n['collections']
+            })
+
+            // {
+            //   'name': 'Abbagnano Nicola',
+            //   'qid': 'Q315251',
+            //   'references': [{
+            //     'page': 1470,
+            //     'intoNote': false
+            //   }],
+            //   'referencesLength': 1,
+            //   'essays': [{
+            //     'id': '206',
+            //     'title': 'Umanesimo e marxismo',
+            //     'year': '1946',
+            //     'collection': 'ALTRI DISCORSI DI LETTERATURA E SOCIETÀ'
+            //   }],
+            //   'date of birth': '1901;',
+            //   'date of death': '1990;',
+            //   'istance of': 'umano;',
+            //   'sex or gender': 'maschio;',
+            //   'country of citizenship': 'Italia;',
+            //   'place of birth': 'Salerno;',
+            //   'place of death': 'Milano;',
+            //   'occupation': 'filosofo;scrittore;professore universitario;'
+            // }
+
           })
 
-          graph.links.forEach( l => {
-            console.log(l);
+          graph.links.forEach(l => {
             xmlNodes.ele('edge', {
-              source: l.source,
-              target: l.target,
-              id: l.id
-            })
-            .ele('spells')
-            .ele('spell', {
-              start: l.startYear,
-              end: l.endYear
-            })
+                source: l.source,
+                target: l.target,
+                id: l.id
+              })
+              .ele('spells')
+              .ele('spell', {
+                start: l.startYear,
+                end: l.endYear
+              })
           })
 
           xml.end({
