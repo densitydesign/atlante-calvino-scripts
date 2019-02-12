@@ -1,0 +1,4362 @@
+[
+  {
+    "id": "S001",
+    "label": "Passatempi",
+    "attributes": {
+      "title": "Passatempi",
+      "txt_length": 2164,
+      "type": "racconto",
+      "year": null,
+      "log_length": 13.67
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1750.3344,
+        "y": 532.6591,
+        "z": 0
+      },
+      "size": 6.6820207
+    }
+  },
+  {
+    "id": "S002",
+    "label": "Dieci soldi in plastilina",
+    "attributes": {
+      "title": "Dieci soldi in plastilina",
+      "txt_length": 4066,
+      "type": "racconto",
+      "year": null,
+      "log_length": 23.84
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -388.73242,
+        "y": 2071.4656,
+        "z": 0
+      },
+      "size": 10.000301
+    }
+  },
+  {
+    "id": "S003",
+    "label": "Invece era un'altra",
+    "attributes": {
+      "title": "Invece era un'altra",
+      "txt_length": 986,
+      "type": "racconto",
+      "year": null,
+      "log_length": 1
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1357.9033,
+        "y": -1232.2579,
+        "z": 0
+      },
+      "size": 2
+    }
+  },
+  {
+    "id": "S004",
+    "label": "Angoscia in caserma",
+    "attributes": {
+      "title": "Angoscia in caserma",
+      "txt_length": 19473,
+      "type": "racconto",
+      "year": null,
+      "log_length": 49.09
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 167.60992,
+        "y": 1282.9219,
+        "z": 0
+      },
+      "size": 25.59354
+    }
+  },
+  {
+    "id": "S005",
+    "label": "Andato al comando",
+    "attributes": {
+      "title": "Andato al comando",
+      "txt_length": 10457,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.06
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -373.8956,
+        "y": 1009.51105,
+        "z": 0
+      },
+      "size": 17.515438
+    }
+  },
+  {
+    "id": "S006",
+    "label": "Di padre in figlio",
+    "attributes": {
+      "title": "Di padre in figlio",
+      "txt_length": 8291,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.32
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -571.11127,
+        "y": 1420.9703,
+        "z": 0
+      },
+      "size": 15.256551
+    }
+  },
+  {
+    "id": "S007",
+    "label": "Paura sul sentiero",
+    "attributes": {
+      "title": "Paura sul sentiero",
+      "txt_length": 13175,
+      "type": "racconto",
+      "year": null,
+      "log_length": 42.79
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -481.71014,
+        "y": 1035.5128,
+        "z": 0
+      },
+      "size": 20.128622
+    }
+  },
+  {
+    "id": "S008",
+    "label": "E il settimo si riposò",
+    "attributes": {
+      "title": "E il settimo si riposò",
+      "txt_length": 12532,
+      "type": "racconto",
+      "year": null,
+      "log_length": 41.98
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1841.1644,
+        "y": 858.3548,
+        "z": 0
+      },
+      "size": 19.52828
+    }
+  },
+  {
+    "id": "S009",
+    "label": "Uomo nei gerbidi",
+    "attributes": {
+      "title": "Uomo nei gerbidi",
+      "txt_length": 9042,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.72
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -480.3955,
+        "y": 834.0036,
+        "z": 0
+      },
+      "size": 16.061749
+    }
+  },
+  {
+    "id": "S010",
+    "label": "Campo di mine",
+    "attributes": {
+      "title": "Campo di mine",
+      "txt_length": 9702,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.86
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -367.21783,
+        "y": 765.70404,
+        "z": 0
+      },
+      "size": 16.749252
+    }
+  },
+  {
+    "id": "S011",
+    "label": "I fratelli Bagnasco",
+    "attributes": {
+      "title": "I fratelli Bagnasco",
+      "txt_length": 9240,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.07
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -268.7521,
+        "y": 949.3551,
+        "z": 0
+      },
+      "size": 16.269861
+    }
+  },
+  {
+    "id": "S012",
+    "label": "Ragionamento del cugino",
+    "attributes": {
+      "title": "Ragionamento del cugino",
+      "txt_length": 7490,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.68
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1013.57996,
+        "y": 1830.6334,
+        "z": 0
+      },
+      "size": 14.36667
+    }
+  },
+  {
+    "id": "S013",
+    "label": "Cinque dopodomani: guerra finita!",
+    "attributes": {
+      "title": "Cinque dopodomani: guerra finita!",
+      "txt_length": 7287,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.24
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -2093.5596,
+        "y": 18.072378,
+        "z": 0
+      },
+      "size": 14.135376
+    }
+  },
+  {
+    "id": "S014",
+    "label": "Alba sui rami nudi",
+    "attributes": {
+      "title": "Alba sui rami nudi",
+      "txt_length": 13871,
+      "type": "racconto",
+      "year": null,
+      "log_length": 43.62
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -27.797754,
+        "y": 1275.3824,
+        "z": 0
+      },
+      "size": 20.767721
+    }
+  },
+  {
+    "id": "S015",
+    "label": "Come non fui Noè (Buon a nulla)",
+    "attributes": {
+      "title": "Come non fui Noè (Buon a nulla)",
+      "txt_length": 9027,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.69
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 669.1708,
+        "y": -1456.3386,
+        "z": 0
+      },
+      "size": 16.045914
+    }
+  },
+  {
+    "id": "S016",
+    "label": "Ultimo viene il corvo",
+    "attributes": {
+      "title": "Ultimo viene il corvo",
+      "txt_length": 10809,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.6
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -266.0962,
+        "y": 816.1061,
+        "z": 0
+      },
+      "size": 17.865948
+    }
+  },
+  {
+    "id": "S017",
+    "label": "Visti alla mensa",
+    "attributes": {
+      "title": "Visti alla mensa",
+      "txt_length": 8658,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.02
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -89.33469,
+        "y": 1490.9479,
+        "z": 0
+      },
+      "size": 15.653283
+    }
+  },
+  {
+    "id": "S018",
+    "label": "L'occhio del padrone",
+    "attributes": {
+      "title": "L'occhio del padrone",
+      "txt_length": 10063,
+      "type": "racconto",
+      "year": null,
+      "log_length": 38.44
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -115.27556,
+        "y": 779.8609,
+        "z": 0
+      },
+      "size": 17.118147
+    }
+  },
+  {
+    "id": "S019",
+    "label": "Come un volo d'anitre",
+    "attributes": {
+      "title": "Come un volo d'anitre",
+      "txt_length": 11326,
+      "type": "racconto",
+      "year": null,
+      "log_length": 40.35
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1458.5516,
+        "y": 1497.3169,
+        "z": 0
+      },
+      "size": 18.373657
+    }
+  },
+  {
+    "id": "S020",
+    "label": "La fame a Bévera",
+    "attributes": {
+      "title": "La fame a Bévera",
+      "txt_length": 11391,
+      "type": "racconto",
+      "year": null,
+      "log_length": 40.44
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -348.5329,
+        "y": 1397.0278,
+        "z": 0
+      },
+      "size": 18.43692
+    }
+  },
+  {
+    "id": "S021",
+    "label": "Furto in una pasticceria",
+    "attributes": {
+      "title": "Furto in una pasticceria",
+      "txt_length": 14106,
+      "type": "racconto",
+      "year": null,
+      "log_length": 43.89
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -383.73138,
+        "y": 898.0897,
+        "z": 0
+      },
+      "size": 20.981144
+    }
+  },
+  {
+    "id": "S022",
+    "label": "Un bastimento carico di granchi",
+    "attributes": {
+      "title": "Un bastimento carico di granchi",
+      "txt_length": 9906,
+      "type": "racconto",
+      "year": null,
+      "log_length": 38.19
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -575.5072,
+        "y": 769.0252,
+        "z": 0
+      },
+      "size": 16.958305
+    }
+  },
+  {
+    "id": "S023",
+    "label": "I figli poltroni",
+    "attributes": {
+      "title": "I figli poltroni",
+      "txt_length": 9860,
+      "type": "racconto",
+      "year": null,
+      "log_length": 38.12
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -97.83239,
+        "y": 674.89124,
+        "z": 0
+      },
+      "size": 16.911304
+    }
+  },
+  {
+    "id": "S024",
+    "label": "Il giardino incantato",
+    "attributes": {
+      "title": "Il giardino incantato",
+      "txt_length": 8487,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.7
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -218.37558,
+        "y": 705.0507,
+        "z": 0
+      },
+      "size": 15.469232
+    }
+  },
+  {
+    "id": "S025",
+    "label": "Impiccagione di un giudice",
+    "attributes": {
+      "title": "Impiccagione di un giudice",
+      "txt_length": 15971,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.89
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -440.92365,
+        "y": 1507.8794,
+        "z": 0
+      },
+      "size": 22.636791
+    }
+  },
+  {
+    "id": "S026",
+    "label": "Il bosco degli animali",
+    "attributes": {
+      "title": "Il bosco degli animali",
+      "txt_length": 15495,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.4
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -535.3236,
+        "y": 935.65875,
+        "z": 0
+      },
+      "size": 22.22029
+    }
+  },
+  {
+    "id": "S027",
+    "label": "Si dorme come cani",
+    "attributes": {
+      "title": "Si dorme come cani",
+      "txt_length": 12910,
+      "type": "racconto",
+      "year": null,
+      "log_length": 42.46
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -463.4195,
+        "y": 694.20026,
+        "z": 0
+      },
+      "size": 19.8824
+    }
+  },
+  {
+    "id": "S028",
+    "label": "Com'era grande il mare",
+    "attributes": {
+      "title": "Com'era grande il mare",
+      "txt_length": 3554,
+      "type": "racconto",
+      "year": null,
+      "log_length": 21.67
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 903.4646,
+        "y": -1564.7913,
+        "z": 0
+      },
+      "size": 9.21583
+    }
+  },
+  {
+    "id": "S029",
+    "label": "Il gatto e il poliziotto",
+    "attributes": {
+      "title": "Il gatto e il poliziotto",
+      "txt_length": 12933,
+      "type": "racconto",
+      "year": null,
+      "log_length": 42.49
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -173.43433,
+        "y": 876.22894,
+        "z": 0
+      },
+      "size": 19.903835
+    }
+  },
+  {
+    "id": "S030",
+    "label": "Pranzo con un pastore",
+    "attributes": {
+      "title": "Pranzo con un pastore",
+      "txt_length": 14313,
+      "type": "racconto",
+      "year": null,
+      "log_length": 44.12
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -329.06848,
+        "y": 650.4366,
+        "z": 0
+      },
+      "size": 21.168196
+    }
+  },
+  {
+    "id": "S031",
+    "label": "Voglia di mare",
+    "attributes": {
+      "title": "Voglia di mare",
+      "txt_length": 5327,
+      "type": "racconto",
+      "year": null,
+      "log_length": 28.19
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 316.46912,
+        "y": 1891.5339,
+        "z": 0
+      },
+      "size": 11.74795
+    }
+  },
+  {
+    "id": "S032",
+    "label": "Isabella e Fioravanti",
+    "attributes": {
+      "title": "Isabella e Fioravanti",
+      "txt_length": 9727,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.9
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 397.2545,
+        "y": -1311.4147,
+        "z": 0
+      },
+      "size": 16.774958
+    }
+  },
+  {
+    "id": "S033",
+    "label": "Chi ha messo la mina nel mare?",
+    "attributes": {
+      "title": "Chi ha messo la mina nel mare?",
+      "txt_length": 10473,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.09
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -175.32025,
+        "y": 1361.6193,
+        "z": 0
+      },
+      "size": 17.531456
+    }
+  },
+  {
+    "id": "S034",
+    "label": "Dollari e vecchie mondane",
+    "attributes": {
+      "title": "Dollari e vecchie mondane",
+      "txt_length": 21698,
+      "type": "racconto",
+      "year": null,
+      "log_length": 50.83
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -638.1531,
+        "y": 872.18994,
+        "z": 0
+      },
+      "size": 27.389948
+    }
+  },
+  {
+    "id": "S035",
+    "label": "Freddo a Napoli",
+    "attributes": {
+      "title": "Freddo a Napoli",
+      "txt_length": 8005,
+      "type": "racconto",
+      "year": null,
+      "log_length": 34.76
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1748.5598,
+        "y": 26.074759,
+        "z": 0
+      },
+      "size": 14.942766
+    }
+  },
+  {
+    "id": "S036",
+    "label": "Lasciare Anna",
+    "attributes": {
+      "title": "Lasciare Anna",
+      "txt_length": 9089,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.8
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1303.6913,
+        "y": -952.1917,
+        "z": 0
+      },
+      "size": 16.111301
+    }
+  },
+  {
+    "id": "S037",
+    "label": "Un pomeriggio, Adamo",
+    "attributes": {
+      "title": "Un pomeriggio, Adamo",
+      "txt_length": 16625,
+      "type": "racconto",
+      "year": null,
+      "log_length": 46.54
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -680.6768,
+        "y": 977.18036,
+        "z": 0
+      },
+      "size": 23.20282
+    }
+  },
+  {
+    "id": "S038",
+    "label": "La casa degli alveari",
+    "attributes": {
+      "title": "La casa degli alveari",
+      "txt_length": 7418,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.53
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 239.84001,
+        "y": 1101.9481,
+        "z": 0
+      },
+      "size": 14.284919
+    }
+  },
+  {
+    "id": "S039",
+    "label": "La stessa cosa del sangue",
+    "attributes": {
+      "title": "La stessa cosa del sangue",
+      "txt_length": 12987,
+      "type": "racconto",
+      "year": null,
+      "log_length": 42.56
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 51.672966,
+        "y": 1407.2511,
+        "z": 0
+      },
+      "size": 19.954115
+    }
+  },
+  {
+    "id": "S040",
+    "label": "Attesa della morte in un albergo",
+    "attributes": {
+      "title": "Attesa della morte in un albergo",
+      "txt_length": 15582,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.49
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -254.9309,
+        "y": 1528.6267,
+        "z": 0
+      },
+      "size": 22.296711
+    }
+  },
+  {
+    "id": "S041",
+    "label": "Uno dei tre è ancora vivo",
+    "attributes": {
+      "title": "Uno dei tre è ancora vivo",
+      "txt_length": 14887,
+      "type": "racconto",
+      "year": null,
+      "log_length": 44.76
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -597.5071,
+        "y": 1041.7206,
+        "z": 0
+      },
+      "size": 21.682411
+    }
+  },
+  {
+    "id": "S042",
+    "label": "L'avventura di un soldato",
+    "attributes": {
+      "title": "L'avventura di un soldato",
+      "txt_length": 19767,
+      "type": "racconto",
+      "year": null,
+      "log_length": 49.33
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -192.21732,
+        "y": 573.023,
+        "z": 0
+      },
+      "size": 25.834192
+    }
+  },
+  {
+    "id": "S043",
+    "label": "Desiderio in novembre",
+    "attributes": {
+      "title": "Desiderio in novembre",
+      "txt_length": 14101,
+      "type": "racconto",
+      "year": null,
+      "log_length": 43.88
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 95.76782,
+        "y": 1150.1703,
+        "z": 0
+      },
+      "size": 20.976612
+    }
+  },
+  {
+    "id": "S044",
+    "label": "Lettera ad Amelia sui dischi volanti",
+    "attributes": {
+      "title": "Lettera ad Amelia sui dischi volanti",
+      "txt_length": 7633,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.99
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 163.10173,
+        "y": -2055.3877,
+        "z": 0
+      },
+      "size": 14.528131
+    }
+  },
+  {
+    "id": "S045",
+    "label": "Storia del soldato che portò il cannone a casa",
+    "attributes": {
+      "title": "Storia del soldato che portò il cannone a casa",
+      "txt_length": 11610,
+      "type": "racconto",
+      "year": null,
+      "log_length": 40.75
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1469.4125,
+        "y": -1351.2064,
+        "z": 0
+      },
+      "size": 18.649164
+    }
+  },
+  {
+    "id": "S046",
+    "label": "Pesci grossi, pesci piccoli",
+    "attributes": {
+      "title": "Pesci grossi, pesci piccoli",
+      "txt_length": 16862,
+      "type": "racconto",
+      "year": null,
+      "log_length": 46.77
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -634.6925,
+        "y": 265.2197,
+        "z": 0
+      },
+      "size": 23.406244
+    }
+  },
+  {
+    "id": "S047",
+    "label": "Cimitero di biciclette",
+    "attributes": {
+      "title": "Cimitero di biciclette",
+      "txt_length": 12416,
+      "type": "racconto",
+      "year": null,
+      "log_length": 41.83
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 409.0092,
+        "y": -1583.984,
+        "z": 0
+      },
+      "size": 19.4189
+    }
+  },
+  {
+    "id": "S048",
+    "label": "Mai nessuno degli uomini lo seppe",
+    "attributes": {
+      "title": "Mai nessuno degli uomini lo seppe",
+      "txt_length": 15006,
+      "type": "racconto",
+      "year": null,
+      "log_length": 44.89
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -586.8734,
+        "y": 356.25095,
+        "z": 0
+      },
+      "size": 21.788223
+    }
+  },
+  {
+    "id": "S049",
+    "label": "Il reggimento smarrito",
+    "attributes": {
+      "title": "Il reggimento smarrito",
+      "txt_length": 10193,
+      "type": "racconto",
+      "year": null,
+      "log_length": 38.65
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1124.4713,
+        "y": 1055.0493,
+        "z": 0
+      },
+      "size": 17.249832
+    }
+  },
+  {
+    "id": "S050",
+    "label": "L'avventura di una bagnante",
+    "attributes": {
+      "title": "L'avventura di una bagnante",
+      "txt_length": 21333,
+      "type": "racconto",
+      "year": null,
+      "log_length": 50.56
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -343.82718,
+        "y": 184.8766,
+        "z": 0
+      },
+      "size": 27.099028
+    }
+  },
+  {
+    "id": "S051",
+    "label": "Un compagno venuto da lontano",
+    "attributes": {
+      "title": "Un compagno venuto da lontano",
+      "txt_length": 8251,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.24
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 164.76549,
+        "y": 2088.2136,
+        "z": 0
+      },
+      "size": 15.2129135
+    }
+  },
+  {
+    "id": "S052",
+    "label": "Un bel gioco dura poco",
+    "attributes": {
+      "title": "Un bel gioco dura poco",
+      "txt_length": 11940,
+      "type": "racconto",
+      "year": null,
+      "log_length": 41.2
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -889.8603,
+        "y": 908.17664,
+        "z": 0
+      },
+      "size": 18.966427
+    }
+  },
+  {
+    "id": "S053",
+    "label": "Funghi in città",
+    "attributes": {
+      "title": "Funghi in città",
+      "txt_length": 6506,
+      "type": "racconto",
+      "year": null,
+      "log_length": 31.41
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -954.78125,
+        "y": 544.60547,
+        "z": 0
+      },
+      "size": 13.220531
+    }
+  },
+  {
+    "id": "S054",
+    "label": "La formica argentina",
+    "attributes": {
+      "title": "La formica argentina",
+      "txt_length": 71831,
+      "type": "racconto",
+      "year": null,
+      "log_length": 70.13
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -463.7305,
+        "y": 228.06544,
+        "z": 0
+      },
+      "size": 60.785137
+    }
+  },
+  {
+    "id": "S055",
+    "label": "Il piccione comunale",
+    "attributes": {
+      "title": "Il piccione comunale",
+      "txt_length": 4278,
+      "type": "racconto",
+      "year": null,
+      "log_length": 24.66
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -890.6831,
+        "y": 451.83905,
+        "z": 0
+      },
+      "size": 10.310433
+    }
+  },
+  {
+    "id": "S056",
+    "label": "La pietanziera",
+    "attributes": {
+      "title": "La pietanziera",
+      "txt_length": 7069,
+      "type": "racconto",
+      "year": null,
+      "log_length": 32.75
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -811.50616,
+        "y": 254.6092,
+        "z": 0
+      },
+      "size": 13.884148
+    }
+  },
+  {
+    "id": "S057",
+    "label": "Gli occhi del nemico",
+    "attributes": {
+      "title": "Gli occhi del nemico",
+      "txt_length": 7070,
+      "type": "racconto",
+      "year": null,
+      "log_length": 32.75
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1784.7507,
+        "y": 1108.207,
+        "z": 0
+      },
+      "size": 13.885307
+    }
+  },
+  {
+    "id": "S058",
+    "label": "La fabbrica occupata",
+    "attributes": {
+      "title": "La fabbrica occupata",
+      "txt_length": 7735,
+      "type": "racconto",
+      "year": null,
+      "log_length": 34.2
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1988.0121,
+        "y": 666.9514,
+        "z": 0
+      },
+      "size": 14.642578
+    }
+  },
+  {
+    "id": "S059",
+    "label": "La ragazza licenziata",
+    "attributes": {
+      "title": "La ragazza licenziata",
+      "txt_length": 7919,
+      "type": "racconto",
+      "year": null,
+      "log_length": 34.58
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1153.3845,
+        "y": -1740.3434,
+        "z": 0
+      },
+      "size": 14.847578
+    }
+  },
+  {
+    "id": "S060",
+    "label": "Le disgrazie di un paese",
+    "attributes": {
+      "title": "Le disgrazie di un paese",
+      "txt_length": 6734,
+      "type": "racconto",
+      "year": null,
+      "log_length": 31.97
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1030.761,
+        "y": 1534.414,
+        "z": 0
+      },
+      "size": 13.491972
+    }
+  },
+  {
+    "id": "S061",
+    "label": "Il bosco sull'autostrada",
+    "attributes": {
+      "title": "Il bosco sull'autostrada",
+      "txt_length": 5431,
+      "type": "racconto",
+      "year": null,
+      "log_length": 28.5
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -828.25977,
+        "y": 134.44278,
+        "z": 0
+      },
+      "size": 11.883138
+    }
+  },
+  {
+    "id": "S062",
+    "label": "La cura delle vespe",
+    "attributes": {
+      "title": "La cura delle vespe",
+      "txt_length": 8053,
+      "type": "racconto",
+      "year": null,
+      "log_length": 34.85
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1045.8611,
+        "y": 618.6141,
+        "z": 0
+      },
+      "size": 14.995724
+    }
+  },
+  {
+    "id": "S063",
+    "label": "La storia di Kim-Ghi-U",
+    "attributes": {
+      "title": "La storia di Kim-Ghi-U",
+      "txt_length": 10989,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.86
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1452.8944,
+        "y": -1483.4454,
+        "z": 0
+      },
+      "size": 18.043646
+    }
+  },
+  {
+    "id": "S064",
+    "label": "Paese infido",
+    "attributes": {
+      "title": "Paese infido",
+      "txt_length": 17761,
+      "type": "racconto",
+      "year": null,
+      "log_length": 47.6
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -840.69257,
+        "y": 676.14154,
+        "z": 0
+      },
+      "size": 24.170113
+    }
+  },
+  {
+    "id": "S065",
+    "label": "Gli avanguardisti a Mentone",
+    "attributes": {
+      "title": "Gli avanguardisti a Mentone",
+      "txt_length": 51188,
+      "type": "racconto",
+      "year": null,
+      "log_length": 64.66
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -565.42444,
+        "y": 517.42004,
+        "z": 0
+      },
+      "size": 48.061306
+    }
+  },
+  {
+    "id": "S066",
+    "label": "L'aria buona",
+    "attributes": {
+      "title": "L'aria buona",
+      "txt_length": 7594,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.91
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -992.3573,
+        "y": 294.08063,
+        "z": 0
+      },
+      "size": 14.484214
+    }
+  },
+  {
+    "id": "S067",
+    "label": "L'entrata in guerra",
+    "attributes": {
+      "title": "L'entrata in guerra",
+      "txt_length": 27190,
+      "type": "racconto",
+      "year": null,
+      "log_length": 54.47
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 192.46173,
+        "y": 946.5625,
+        "z": 0
+      },
+      "size": 31.617426
+    }
+  },
+  {
+    "id": "S068",
+    "label": "L'avventura di un impiegato",
+    "attributes": {
+      "title": "L'avventura di un impiegato",
+      "txt_length": 17132,
+      "type": "racconto",
+      "year": null,
+      "log_length": 47.02
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -465.37833,
+        "y": 67.689896,
+        "z": 0
+      },
+      "size": 23.636927
+    }
+  },
+  {
+    "id": "S069",
+    "label": "Un paese disgraziato",
+    "attributes": {
+      "title": "Un paese disgraziato",
+      "txt_length": 5596,
+      "type": "racconto",
+      "year": null,
+      "log_length": 28.99
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1862.6039,
+        "y": -387.88107,
+        "z": 0
+      },
+      "size": 12.095309
+    }
+  },
+  {
+    "id": "S070",
+    "label": "Il generale in biblioteca",
+    "attributes": {
+      "title": "Il generale in biblioteca",
+      "txt_length": 10429,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.02
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -2021.173,
+        "y": -578.7902,
+        "z": 0
+      },
+      "size": 17.487381
+    }
+  },
+  {
+    "id": "S071",
+    "label": "La fabbrica nella montagna",
+    "attributes": {
+      "title": "La fabbrica nella montagna",
+      "txt_length": 10615,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.31
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1701.7814,
+        "y": 1170.8645,
+        "z": 0
+      },
+      "size": 17.673267
+    }
+  },
+  {
+    "id": "S072",
+    "label": "Le notti dell'UNPA",
+    "attributes": {
+      "title": "Le notti dell'UNPA",
+      "txt_length": 39484,
+      "type": "racconto",
+      "year": null,
+      "log_length": 60.48
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -422.56042,
+        "y": 461.59787,
+        "z": 0
+      },
+      "size": 40.35031
+    }
+  },
+  {
+    "id": "S073",
+    "label": "La bomba addormentata nel bosco",
+    "attributes": {
+      "title": "La bomba addormentata nel bosco",
+      "txt_length": 8394,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.52
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 543.9222,
+        "y": 1715.0397,
+        "z": 0
+      },
+      "size": 15.368548
+    }
+  },
+  {
+    "id": "S074",
+    "label": "Libertà! Libertà!",
+    "attributes": {
+      "title": "Libertà! Libertà!",
+      "txt_length": 4546,
+      "type": "racconto",
+      "year": null,
+      "log_length": 25.64
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1735.6683,
+        "y": 297.80634,
+        "z": 0
+      },
+      "size": 10.692013
+    }
+  },
+  {
+    "id": "S075",
+    "label": "I mozzatori di nasi",
+    "attributes": {
+      "title": "I mozzatori di nasi",
+      "txt_length": 3962,
+      "type": "racconto",
+      "year": null,
+      "log_length": 23.42
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 810.16736,
+        "y": 1080.5901,
+        "z": 0
+      },
+      "size": 9.845231
+    }
+  },
+  {
+    "id": "S076",
+    "label": "Dove va l'avvoltoio?",
+    "attributes": {
+      "title": "Dove va l'avvoltoio?",
+      "txt_length": 4867,
+      "type": "racconto",
+      "year": null,
+      "log_length": 26.74
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -2095.6062,
+        "y": 349.3141,
+        "z": 0
+      },
+      "size": 11.135337
+    }
+  },
+  {
+    "id": "S077",
+    "label": "Il dittatore",
+    "attributes": {
+      "title": "Il dittatore",
+      "txt_length": 4114,
+      "type": "racconto",
+      "year": null,
+      "log_length": 24.03
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1052.24,
+        "y": 805.2741,
+        "z": 0
+      },
+      "size": 10.071203
+    }
+  },
+  {
+    "id": "S078",
+    "label": "Lo jus primae noctis",
+    "attributes": {
+      "title": "Lo jus primae noctis",
+      "txt_length": 7027,
+      "type": "racconto",
+      "year": null,
+      "log_length": 32.66
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1370.0212,
+        "y": -666.3631,
+        "z": 0
+      },
+      "size": 13.835392
+    }
+  },
+  {
+    "id": "S079",
+    "label": "L'adultera",
+    "attributes": {
+      "title": "L'adultera",
+      "txt_length": 6306,
+      "type": "racconto",
+      "year": null,
+      "log_length": 30.91
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 2034.446,
+        "y": 615.5036,
+        "z": 0
+      },
+      "size": 12.979198
+    }
+  },
+  {
+    "id": "S080",
+    "label": "La lente d'ingrandimento",
+    "attributes": {
+      "title": "La lente d'ingrandimento",
+      "txt_length": 4042,
+      "type": "racconto",
+      "year": null,
+      "log_length": 23.74
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -100.115036,
+        "y": -2126.317,
+        "z": 0
+      },
+      "size": 9.964694
+    }
+  },
+  {
+    "id": "S081",
+    "label": "I Marziani",
+    "attributes": {
+      "title": "I Marziani",
+      "txt_length": 4019,
+      "type": "racconto",
+      "year": null,
+      "log_length": 23.65
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1247.7457,
+        "y": 1336.6714,
+        "z": 0
+      },
+      "size": 9.9304695
+    }
+  },
+  {
+    "id": "S082",
+    "label": "La domenica delle follie",
+    "attributes": {
+      "title": "La domenica delle follie",
+      "txt_length": 6485,
+      "type": "racconto",
+      "year": null,
+      "log_length": 31.36
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 800.6707,
+        "y": 811.5377,
+        "z": 0
+      },
+      "size": 13.195335
+    }
+  },
+  {
+    "id": "S083",
+    "label": "Il coniglio velenoso",
+    "attributes": {
+      "title": "Il coniglio velenoso",
+      "txt_length": 16872,
+      "type": "racconto",
+      "year": null,
+      "log_length": 46.77
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -925.8525,
+        "y": 200.53589,
+        "z": 0
+      },
+      "size": 23.414806
+    }
+  },
+  {
+    "id": "S084",
+    "label": "L'avventura di un fotografo",
+    "attributes": {
+      "title": "L'avventura di un fotografo",
+      "txt_length": 26301,
+      "type": "racconto",
+      "year": null,
+      "log_length": 53.93
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -162.15569,
+        "y": -371.36328,
+        "z": 0
+      },
+      "size": 30.950222
+    }
+  },
+  {
+    "id": "S085",
+    "label": "Un viaggio con le mucche",
+    "attributes": {
+      "title": "Un viaggio con le mucche",
+      "txt_length": 8752,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.19
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -874.2426,
+        "y": 345.28976,
+        "z": 0
+      },
+      "size": 15.753882
+    }
+  },
+  {
+    "id": "S086",
+    "label": "Luna e Gnac",
+    "attributes": {
+      "title": "Luna e Gnac",
+      "txt_length": 10513,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.15
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1020.9684,
+        "y": 398.21036,
+        "z": 0
+      },
+      "size": 17.571474
+    }
+  },
+  {
+    "id": "S087",
+    "label": "La gran bonaccia delle Antille",
+    "attributes": {
+      "title": "La gran bonaccia delle Antille",
+      "txt_length": 8971,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.59
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1573.0857,
+        "y": 922.5732,
+        "z": 0
+      },
+      "size": 15.986715
+    }
+  },
+  {
+    "id": "S088",
+    "label": "La speculazione edilizia",
+    "attributes": {
+      "title": "La speculazione edilizia",
+      "txt_length": 168428,
+      "type": "racconto",
+      "year": null,
+      "log_length": 83.86
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -669.13184,
+        "y": 73.47358,
+        "z": 0
+      },
+      "size": 113.506996
+    }
+  },
+  {
+    "id": "S089",
+    "label": "Dialogo sul satellite",
+    "attributes": {
+      "title": "Dialogo sul satellite",
+      "txt_length": 8266,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.27
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 968.3485,
+        "y": 1280.032,
+        "z": 0
+      },
+      "size": 15.229285
+    }
+  },
+  {
+    "id": "S090",
+    "label": "Monologo notturno d'un nobile scozzese",
+    "attributes": {
+      "title": "Monologo notturno d'un nobile scozzese",
+      "txt_length": 7421,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.54
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1916.7897,
+        "y": -566.0608,
+        "z": 0
+      },
+      "size": 14.288329
+    }
+  },
+  {
+    "id": "S091",
+    "label": "Una bella giornata di marzo",
+    "attributes": {
+      "title": "Una bella giornata di marzo",
+      "txt_length": 6351,
+      "type": "racconto",
+      "year": null,
+      "log_length": 31.03
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 786.97314,
+        "y": 1648.2426,
+        "z": 0
+      },
+      "size": 13.033771
+    }
+  },
+  {
+    "id": "S092",
+    "label": "La gallina di reparto",
+    "attributes": {
+      "title": "La gallina di reparto",
+      "txt_length": 17022,
+      "type": "racconto",
+      "year": null,
+      "log_length": 46.92
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -699.525,
+        "y": 451.85153,
+        "z": 0
+      },
+      "size": 23.54308
+    }
+  },
+  {
+    "id": "S093",
+    "label": "La notte dei numeri",
+    "attributes": {
+      "title": "La notte dei numeri",
+      "txt_length": 21230,
+      "type": "racconto",
+      "year": null,
+      "log_length": 50.48
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -963.815,
+        "y": 786.04767,
+        "z": 0
+      },
+      "size": 27.01668
+    }
+  },
+  {
+    "id": "S094",
+    "label": "L'avventura di un lettore",
+    "attributes": {
+      "title": "L'avventura di un lettore",
+      "txt_length": 29812,
+      "type": "racconto",
+      "year": null,
+      "log_length": 55.95
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -102.47846,
+        "y": 316.0961,
+        "z": 0
+      },
+      "size": 33.552567
+    }
+  },
+  {
+    "id": "S095",
+    "label": "La nuvola di smog",
+    "attributes": {
+      "title": "La nuvola di smog",
+      "txt_length": 101390,
+      "type": "racconto",
+      "year": null,
+      "log_length": 75.68
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -241.74304,
+        "y": 402.09225,
+        "z": 0
+      },
+      "size": 77.79859
+    }
+  },
+  {
+    "id": "S096",
+    "label": "La signora Paulatim",
+    "attributes": {
+      "title": "La signora Paulatim",
+      "txt_length": 15161,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.05
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -824.6092,
+        "y": 798.96985,
+        "z": 0
+      },
+      "size": 21.92565
+    }
+  },
+  {
+    "id": "S097",
+    "label": "L'avventura di un viaggiatore",
+    "attributes": {
+      "title": "L'avventura di un viaggiatore",
+      "txt_length": 30293,
+      "type": "racconto",
+      "year": null,
+      "log_length": 56.21
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -87.7281,
+        "y": 421.57016,
+        "z": 0
+      },
+      "size": 33.90263
+    }
+  },
+  {
+    "id": "S098",
+    "label": "La villeggiatura in panchina",
+    "attributes": {
+      "title": "La villeggiatura in panchina",
+      "txt_length": 14003,
+      "type": "racconto",
+      "year": null,
+      "log_length": 43.77
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1066.0359,
+        "y": 498.33102,
+        "z": 0
+      },
+      "size": 20.887743
+    }
+  },
+  {
+    "id": "S099",
+    "label": "Va' così che vai bene",
+    "attributes": {
+      "title": "Va' così che vai bene",
+      "txt_length": 27454,
+      "type": "racconto",
+      "year": null,
+      "log_length": 54.62
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -723.59705,
+        "y": 605.6052,
+        "z": 0
+      },
+      "size": 31.814432
+    }
+  },
+  {
+    "id": "S100",
+    "label": "Un letto di passaggio",
+    "attributes": {
+      "title": "Un letto di passaggio",
+      "txt_length": 10616,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.31
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -256.64804,
+        "y": 127.49452,
+        "z": 0
+      },
+      "size": 17.674267
+    }
+  },
+  {
+    "id": "S101",
+    "label": "L'avventura di un miope",
+    "attributes": {
+      "title": "L'avventura di un miope",
+      "txt_length": 18975,
+      "type": "racconto",
+      "year": null,
+      "log_length": 48.67
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -260.15118,
+        "y": 256.5167,
+        "z": 0
+      },
+      "size": 25.183453
+    }
+  },
+  {
+    "id": "S102",
+    "label": "L'avventura di una moglie",
+    "attributes": {
+      "title": "L'avventura di una moglie",
+      "txt_length": 14457,
+      "type": "racconto",
+      "year": null,
+      "log_length": 44.28
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -392.20407,
+        "y": 319.89978,
+        "z": 0
+      },
+      "size": 21.297804
+    }
+  },
+  {
+    "id": "S103",
+    "label": "L'avventura di due sposi",
+    "attributes": {
+      "title": "L'avventura di due sposi",
+      "txt_length": 7814,
+      "type": "racconto",
+      "year": null,
+      "log_length": 34.37
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -157.86545,
+        "y": 212.24341,
+        "z": 0
+      },
+      "size": 14.7308235
+    }
+  },
+  {
+    "id": "S104",
+    "label": "L'avventura di un poeta",
+    "attributes": {
+      "title": "L'avventura di un poeta",
+      "txt_length": 11830,
+      "type": "racconto",
+      "year": null,
+      "log_length": 41.05
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -381.61295,
+        "y": 67.84789,
+        "z": 0
+      },
+      "size": 18.861008
+    }
+  },
+  {
+    "id": "S105",
+    "label": "L'avventura di uno sciatore",
+    "attributes": {
+      "title": "L'avventura di uno sciatore",
+      "txt_length": 13850,
+      "type": "racconto",
+      "year": null,
+      "log_length": 43.59
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 40.636562,
+        "y": -240.76476,
+        "z": 0
+      },
+      "size": 20.748592
+    }
+  },
+  {
+    "id": "S106",
+    "label": "La strada di San Giovanni",
+    "attributes": {
+      "title": "La strada di San Giovanni",
+      "txt_length": 83344,
+      "type": "racconto",
+      "year": null,
+      "log_length": 72.52
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 634.24316,
+        "y": -1731.9983,
+        "z": 0
+      },
+      "size": 67.54623
+    }
+  },
+  {
+    "id": "S107",
+    "label": "Diario in clinica",
+    "attributes": {
+      "title": "Diario in clinica",
+      "txt_length": 10815,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.61
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -2075.7737,
+        "y": -251.22606,
+        "z": 0
+      },
+      "size": 17.871887
+    }
+  },
+  {
+    "id": "S108",
+    "label": "Marcovaldo al supermarket",
+    "attributes": {
+      "title": "Marcovaldo al supermarket",
+      "txt_length": 10606,
+      "type": "racconto",
+      "year": null,
+      "log_length": 39.29
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1471.768,
+        "y": 129.90665,
+        "z": 0
+      },
+      "size": 17.6643
+    }
+  },
+  {
+    "id": "S109",
+    "label": "La pioggia e le foglie",
+    "attributes": {
+      "title": "La pioggia e le foglie",
+      "txt_length": 12518,
+      "type": "racconto",
+      "year": null,
+      "log_length": 41.96
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1550.0143,
+        "y": 575.88153,
+        "z": 0
+      },
+      "size": 19.515097
+    }
+  },
+  {
+    "id": "S110",
+    "label": "La fermata sbagliata",
+    "attributes": {
+      "title": "La fermata sbagliata",
+      "txt_length": 13030,
+      "type": "racconto",
+      "year": null,
+      "log_length": 42.61
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1348.6974,
+        "y": -34.576633,
+        "z": 0
+      },
+      "size": 19.9941
+    }
+  },
+  {
+    "id": "S111",
+    "label": "Fumo, vento e bolle di sapone",
+    "attributes": {
+      "title": "Fumo, vento e bolle di sapone",
+      "txt_length": 12414,
+      "type": "racconto",
+      "year": null,
+      "log_length": 41.83
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1368.489,
+        "y": -209.1509,
+        "z": 0
+      },
+      "size": 19.417011
+    }
+  },
+  {
+    "id": "S112",
+    "label": "Un sabato di sole, sabbia e sonno",
+    "attributes": {
+      "title": "Un sabato di sole, sabbia e sonno",
+      "txt_length": 7838,
+      "type": "racconto",
+      "year": null,
+      "log_length": 34.42
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1656.2725,
+        "y": 434.71564,
+        "z": 0
+      },
+      "size": 14.757564
+    }
+  },
+  {
+    "id": "S113",
+    "label": "La città tutta per lui",
+    "attributes": {
+      "title": "La città tutta per lui",
+      "txt_length": 6089,
+      "type": "racconto",
+      "year": null,
+      "log_length": 30.35
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1638.5781,
+        "y": 55.556988,
+        "z": 0
+      },
+      "size": 12.713733
+    }
+  },
+  {
+    "id": "S114",
+    "label": "Il giardino dei gatti ostinati",
+    "attributes": {
+      "title": "Il giardino dei gatti ostinati",
+      "txt_length": 20899,
+      "type": "racconto",
+      "year": null,
+      "log_length": 50.23
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1514.5831,
+        "y": 331.19666,
+        "z": 0
+      },
+      "size": 26.751259
+    }
+  },
+  {
+    "id": "S115",
+    "label": "I figli di Babbo Natale",
+    "attributes": {
+      "title": "I figli di Babbo Natale",
+      "txt_length": 15228,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.12
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1529.7828,
+        "y": -93.73959,
+        "z": 0
+      },
+      "size": 21.984919
+    }
+  },
+  {
+    "id": "S116",
+    "label": "Dov'è più azzurro il fiume",
+    "attributes": {
+      "title": "Dov'è più azzurro il fiume",
+      "txt_length": 5787,
+      "type": "racconto",
+      "year": null,
+      "log_length": 29.53
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1191.9703,
+        "y": -219.89874,
+        "z": 0
+      },
+      "size": 12.33756
+    }
+  },
+  {
+    "id": "S117",
+    "label": "La città smarrita nella neve",
+    "attributes": {
+      "title": "La città smarrita nella neve",
+      "txt_length": 8741,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.17
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1678.2966,
+        "y": 236.30461,
+        "z": 0
+      },
+      "size": 15.74213
+    }
+  },
+  {
+    "id": "S118",
+    "label": "La distanza della Luna",
+    "attributes": {
+      "title": "La distanza della Luna",
+      "txt_length": 29733,
+      "type": "racconto",
+      "year": null,
+      "log_length": 55.91
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1041.0012,
+        "y": -616.5757,
+        "z": 0
+      },
+      "size": 33.49493
+    }
+  },
+  {
+    "id": "S119",
+    "label": "Sul far del giorno",
+    "attributes": {
+      "title": "Sul far del giorno",
+      "txt_length": 19463,
+      "type": "racconto",
+      "year": null,
+      "log_length": 49.08
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1275.4908,
+        "y": -332.5397,
+        "z": 0
+      },
+      "size": 25.585337
+    }
+  },
+  {
+    "id": "S120",
+    "label": "Un segno nello spazio",
+    "attributes": {
+      "title": "Un segno nello spazio",
+      "txt_length": 19237,
+      "type": "racconto",
+      "year": null,
+      "log_length": 48.89
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1399.9674,
+        "y": -524.64545,
+        "z": 0
+      },
+      "size": 25.399593
+    }
+  },
+  {
+    "id": "S121",
+    "label": "Tutto in un punto",
+    "attributes": {
+      "title": "Tutto in un punto",
+      "txt_length": 9490,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.5
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1158.0908,
+        "y": -924.9519,
+        "z": 0
+      },
+      "size": 16.530323
+    }
+  },
+  {
+    "id": "S122",
+    "label": "Senza colori",
+    "attributes": {
+      "title": "Senza colori",
+      "txt_length": 18946,
+      "type": "racconto",
+      "year": null,
+      "log_length": 48.64
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1118.054,
+        "y": -347.9437,
+        "z": 0
+      },
+      "size": 25.159475
+    }
+  },
+  {
+    "id": "S123",
+    "label": "Fino a che dura il Sole",
+    "attributes": {
+      "title": "Fino a che dura il Sole",
+      "txt_length": 14692,
+      "type": "racconto",
+      "year": null,
+      "log_length": 44.54
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1192.7251,
+        "y": -199.0425,
+        "z": 0
+      },
+      "size": 21.50844
+    }
+  },
+  {
+    "id": "S124",
+    "label": "Lo zio acquatico",
+    "attributes": {
+      "title": "Lo zio acquatico",
+      "txt_length": 21396,
+      "type": "racconto",
+      "year": null,
+      "log_length": 50.6
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1164.3593,
+        "y": -558.50055,
+        "z": 0
+      },
+      "size": 27.149343
+    }
+  },
+  {
+    "id": "S125",
+    "label": "La Luna come un fungo",
+    "attributes": {
+      "title": "La Luna come un fungo",
+      "txt_length": 16925,
+      "type": "racconto",
+      "year": null,
+      "log_length": 46.83
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 765.08057,
+        "y": -173.94806,
+        "z": 0
+      },
+      "size": 23.46017
+    }
+  },
+  {
+    "id": "S126",
+    "label": "Giochi senza fine",
+    "attributes": {
+      "title": "Giochi senza fine",
+      "txt_length": 11691,
+      "type": "racconto",
+      "year": null,
+      "log_length": 40.86
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1029.0035,
+        "y": -454.49185,
+        "z": 0
+      },
+      "size": 18.72732
+    }
+  },
+  {
+    "id": "S127",
+    "label": "I meteoriti",
+    "attributes": {
+      "title": "I meteoriti",
+      "txt_length": 17758,
+      "type": "racconto",
+      "year": null,
+      "log_length": 47.6
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 968.95233,
+        "y": -259.44986,
+        "z": 0
+      },
+      "size": 24.167582
+    }
+  },
+  {
+    "id": "S128",
+    "label": "La forma dello spazio",
+    "attributes": {
+      "title": "La forma dello spazio",
+      "txt_length": 15776,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.69
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1176.0446,
+        "y": -765.56464,
+        "z": 0
+      },
+      "size": 22.46664
+    }
+  },
+  {
+    "id": "S129",
+    "label": "Quanto scommettiamo",
+    "attributes": {
+      "title": "Quanto scommettiamo",
+      "txt_length": 16962,
+      "type": "racconto",
+      "year": null,
+      "log_length": 46.86
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1307.3851,
+        "y": -814.92303,
+        "z": 0
+      },
+      "size": 23.491812
+    }
+  },
+  {
+    "id": "S130",
+    "label": "I Dinosauri",
+    "attributes": {
+      "title": "I Dinosauri",
+      "txt_length": 32538,
+      "type": "racconto",
+      "year": null,
+      "log_length": 57.36
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1236.2319,
+        "y": -452.181,
+        "z": 0
+      },
+      "size": 35.518074
+    }
+  },
+  {
+    "id": "S131",
+    "label": "Gli anni-luce",
+    "attributes": {
+      "title": "Gli anni-luce",
+      "txt_length": 26660,
+      "type": "racconto",
+      "year": null,
+      "log_length": 54.15
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1028.7323,
+        "y": -855.8998,
+        "z": 0
+      },
+      "size": 31.220375
+    }
+  },
+  {
+    "id": "S132",
+    "label": "La spirale",
+    "attributes": {
+      "title": "La spirale",
+      "txt_length": 27755,
+      "type": "racconto",
+      "year": null,
+      "log_length": 54.8
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1356.3038,
+        "y": -671.60034,
+        "z": 0
+      },
+      "size": 32.038437
+    }
+  },
+  {
+    "id": "S133",
+    "label": "Ti con zero",
+    "attributes": {
+      "title": "Ti con zero",
+      "txt_length": 27727,
+      "type": "racconto",
+      "year": null,
+      "log_length": 54.78
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 699.0757,
+        "y": -742.1062,
+        "z": 0
+      },
+      "size": 32.017624
+    }
+  },
+  {
+    "id": "S134",
+    "label": "I. Mitosi",
+    "attributes": {
+      "title": "I. Mitosi",
+      "txt_length": 27482,
+      "type": "racconto",
+      "year": null,
+      "log_length": 54.64
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 533.54865,
+        "y": -672.79767,
+        "z": 0
+      },
+      "size": 31.835299
+    }
+  },
+  {
+    "id": "S135",
+    "label": "L'inseguimento",
+    "attributes": {
+      "title": "L'inseguimento",
+      "txt_length": 26513,
+      "type": "racconto",
+      "year": null,
+      "log_length": 54.06
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 860.3404,
+        "y": -470.65717,
+        "z": 0
+      },
+      "size": 31.109869
+    }
+  },
+  {
+    "id": "S136",
+    "label": "I cristalli",
+    "attributes": {
+      "title": "I cristalli",
+      "txt_length": 15771,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.69
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 826.40765,
+        "y": -339.32852,
+        "z": 0
+      },
+      "size": 22.462269
+    }
+  },
+  {
+    "id": "S137",
+    "label": "L'origine degli uccelli",
+    "attributes": {
+      "title": "L'origine degli uccelli",
+      "txt_length": 21376,
+      "type": "racconto",
+      "year": null,
+      "log_length": 50.59
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 747.5509,
+        "y": -561.51166,
+        "z": 0
+      },
+      "size": 27.133375
+    }
+  },
+  {
+    "id": "S138",
+    "label": "La memoria del mondo",
+    "attributes": {
+      "title": "La memoria del mondo",
+      "txt_length": 13732,
+      "type": "racconto",
+      "year": null,
+      "log_length": 43.46
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1171.6064,
+        "y": 107.15325,
+        "z": 0
+      },
+      "size": 20.640934
+    }
+  },
+  {
+    "id": "S139",
+    "label": "Il sangue, il mare",
+    "attributes": {
+      "title": "Il sangue, il mare",
+      "txt_length": 21043,
+      "type": "racconto",
+      "year": null,
+      "log_length": 50.34
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 845.5192,
+        "y": -837.44147,
+        "z": 0
+      },
+      "size": 26.866879
+    }
+  },
+  {
+    "id": "S140",
+    "label": "Il guidatore notturno",
+    "attributes": {
+      "title": "Il guidatore notturno",
+      "txt_length": 14578,
+      "type": "racconto",
+      "year": null,
+      "log_length": 44.42
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 502.8099,
+        "y": -239.12886,
+        "z": 0
+      },
+      "size": 21.406395
+    }
+  },
+  {
+    "id": "S141",
+    "label": "La molle Luna",
+    "attributes": {
+      "title": "La molle Luna",
+      "txt_length": 16603,
+      "type": "racconto",
+      "year": null,
+      "log_length": 46.52
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 660.91656,
+        "y": -453.9579,
+        "z": 0
+      },
+      "size": 23.183891
+    }
+  },
+  {
+    "id": "S142",
+    "label": "II. Meiosi",
+    "attributes": {
+      "title": "II. Meiosi",
+      "txt_length": 18954,
+      "type": "racconto",
+      "year": null,
+      "log_length": 48.65
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 719.3474,
+        "y": -913.4771,
+        "z": 0
+      },
+      "size": 25.166092
+    }
+  },
+  {
+    "id": "S143",
+    "label": "III. Morte",
+    "attributes": {
+      "title": "III. Morte",
+      "txt_length": 9299,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.17
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 575.3854,
+        "y": -817.8055,
+        "z": 0
+      },
+      "size": 16.331558
+    }
+  },
+  {
+    "id": "S144",
+    "label": "Il conte di Montecristo",
+    "attributes": {
+      "title": "Il conte di Montecristo",
+      "txt_length": 22375,
+      "type": "racconto",
+      "year": null,
+      "log_length": 51.33
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 688.6779,
+        "y": -325.1103,
+        "z": 0
+      },
+      "size": 27.925888
+    }
+  },
+  {
+    "id": "S145",
+    "label": "Le figlie della Luna",
+    "attributes": {
+      "title": "Le figlie della Luna",
+      "txt_length": 23452,
+      "type": "racconto",
+      "year": null,
+      "log_length": 52.08
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 899.04315,
+        "y": -126.68754,
+        "z": 0
+      },
+      "size": 28.769194
+    }
+  },
+  {
+    "id": "S146",
+    "label": "Il cielo di pietra",
+    "attributes": {
+      "title": "Il cielo di pietra",
+      "txt_length": 13895,
+      "type": "racconto",
+      "year": null,
+      "log_length": 43.65
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1057.6321,
+        "y": -143.29279,
+        "z": 0
+      },
+      "size": 20.789572
+    }
+  },
+  {
+    "id": "S147",
+    "label": "Tempesta solare",
+    "attributes": {
+      "title": "Tempesta solare",
+      "txt_length": 18603,
+      "type": "racconto",
+      "year": null,
+      "log_length": 48.35
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 897.89056,
+        "y": -630.0135,
+        "z": 0
+      },
+      "size": 24.87505
+    }
+  },
+  {
+    "id": "S148",
+    "label": "Le conchiglie e il tempo",
+    "attributes": {
+      "title": "Le conchiglie e il tempo",
+      "txt_length": 7831,
+      "type": "racconto",
+      "year": null,
+      "log_length": 34.4
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 888.01904,
+        "y": 151.25519,
+        "z": 0
+      },
+      "size": 14.749768
+    }
+  },
+  {
+    "id": "S149",
+    "label": "La decapitazione dei capi",
+    "attributes": {
+      "title": "La decapitazione dei capi",
+      "txt_length": 25519,
+      "type": "racconto",
+      "year": null,
+      "log_length": 53.44
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 716.66766,
+        "y": 1394.3961,
+        "z": 0
+      },
+      "size": 30.358286
+    }
+  },
+  {
+    "id": "S150",
+    "label": "Dall'opaco",
+    "attributes": {
+      "title": "Dall'opaco",
+      "txt_length": 22085,
+      "type": "racconto",
+      "year": null,
+      "log_length": 51.11
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1391.7465,
+        "y": 1107.4092,
+        "z": 0
+      },
+      "size": 27.696884
+    }
+  },
+  {
+    "id": "S151",
+    "label": "Il nome, il naso",
+    "attributes": {
+      "title": "Il nome, il naso",
+      "txt_length": 25010,
+      "type": "racconto",
+      "year": null,
+      "log_length": 53.12
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 301.9864,
+        "y": -1816.1757,
+        "z": 0
+      },
+      "size": 29.970356
+    }
+  },
+  {
+    "id": "S152",
+    "label": "La taverna dei destini incrociati",
+    "attributes": {
+      "title": "La taverna dei destini incrociati",
+      "txt_length": 98779,
+      "type": "racconto",
+      "year": null,
+      "log_length": 75.26
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1253.371,
+        "y": 1673.6565,
+        "z": 0
+      },
+      "size": 76.337555
+    }
+  },
+  {
+    "id": "S153",
+    "label": "Ricordo di una battaglia",
+    "attributes": {
+      "title": "Ricordo di una battaglia",
+      "txt_length": 15654,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.57
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 432.68616,
+        "y": -2041.9736,
+        "z": 0
+      },
+      "size": 22.359854
+    }
+  },
+  {
+    "id": "S154",
+    "label": "Autobiografia di uno spettatore",
+    "attributes": {
+      "title": "Autobiografia di uno spettatore",
+      "txt_length": 44046,
+      "type": "racconto",
+      "year": null,
+      "log_length": 62.24
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1555.229,
+        "y": 1363.7924,
+        "z": 0
+      },
+      "size": 43.41145
+    }
+  },
+  {
+    "id": "S155",
+    "label": "La pompa di benzina",
+    "attributes": {
+      "title": "La pompa di benzina",
+      "txt_length": 12331,
+      "type": "racconto",
+      "year": null,
+      "log_length": 41.72
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -96.371254,
+        "y": 2077.3462,
+        "z": 0
+      },
+      "size": 19.338533
+    }
+  },
+  {
+    "id": "S156",
+    "label": "La glaciazione",
+    "attributes": {
+      "title": "La glaciazione",
+      "txt_length": 6231,
+      "type": "racconto",
+      "year": null,
+      "log_length": 30.72
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1339.2753,
+        "y": 485.5947,
+        "z": 0
+      },
+      "size": 12.887885
+    }
+  },
+  {
+    "id": "S157",
+    "label": "L'uomo di Neanderthal",
+    "attributes": {
+      "title": "L'uomo di Neanderthal",
+      "txt_length": 15168,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.06
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1607.6488,
+        "y": -1348.0948,
+        "z": 0
+      },
+      "size": 21.931849
+    }
+  },
+  {
+    "id": "S158",
+    "label": "Montezuma",
+    "attributes": {
+      "title": "Montezuma",
+      "txt_length": 20699,
+      "type": "racconto",
+      "year": null,
+      "log_length": 50.07
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1579.406,
+        "y": -749.84686,
+        "z": 0
+      },
+      "size": 26.5903
+    }
+  },
+  {
+    "id": "S159",
+    "label": "Prima che tu dica «Pronto»",
+    "attributes": {
+      "title": "Prima che tu dica «Pronto»",
+      "txt_length": 16064,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.98
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1084.1709,
+        "y": 544.86926,
+        "z": 0
+      },
+      "size": 22.71771
+    }
+  },
+  {
+    "id": "S160",
+    "label": "La corsa delle giraffe",
+    "attributes": {
+      "title": "La corsa delle giraffe",
+      "txt_length": 2780,
+      "type": "racconto",
+      "year": null,
+      "log_length": 17.71
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -55.17923,
+        "y": -1318.3821,
+        "z": 0
+      },
+      "size": 7.902337
+    }
+  },
+  {
+    "id": "S161",
+    "label": "Del modersi la lingua",
+    "attributes": {
+      "title": "Del modersi la lingua",
+      "txt_length": 3124,
+      "type": "racconto",
+      "year": null,
+      "log_length": 19.59
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -892.7734,
+        "y": -1236.6671,
+        "z": 0
+      },
+      "size": 8.509054
+    }
+  },
+  {
+    "id": "S162",
+    "label": "Il fischio del merlo",
+    "attributes": {
+      "title": "Il fischio del merlo",
+      "txt_length": 9784,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.99
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -284.69247,
+        "y": -1472.002,
+        "z": 0
+      },
+      "size": 16.833473
+    }
+  },
+  {
+    "id": "S163",
+    "label": "Del prendersela coi giovani",
+    "attributes": {
+      "title": "Del prendersela coi giovani",
+      "txt_length": 3072,
+      "type": "racconto",
+      "year": null,
+      "log_length": 19.32
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -311.72058,
+        "y": -1151.6643,
+        "z": 0
+      },
+      "size": 8.419965
+    }
+  },
+  {
+    "id": "S164",
+    "label": "Lettura di un'onda",
+    "attributes": {
+      "title": "Lettura di un'onda",
+      "txt_length": 8420,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.57
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -527.8585,
+        "y": -1427.3545,
+        "z": 0
+      },
+      "size": 15.396739
+    }
+  },
+  {
+    "id": "S165",
+    "label": "La pantofola spaiata",
+    "attributes": {
+      "title": "La pantofola spaiata",
+      "txt_length": 2992,
+      "type": "racconto",
+      "year": null,
+      "log_length": 18.89
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -233.41068,
+        "y": -1313.6814,
+        "z": 0
+      },
+      "size": 8.281177
+    }
+  },
+  {
+    "id": "S166",
+    "label": "Un chilo e mezzo di grasso d'oca",
+    "attributes": {
+      "title": "Un chilo e mezzo di grasso d'oca",
+      "txt_length": 4952,
+      "type": "racconto",
+      "year": null,
+      "log_length": 27.01
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -753.9377,
+        "y": -1693.4419,
+        "z": 0
+      },
+      "size": 11.250445
+    }
+  },
+  {
+    "id": "S167",
+    "label": "Altre città",
+    "attributes": {
+      "title": "Altre città",
+      "txt_length": 6749,
+      "type": "racconto",
+      "year": null,
+      "log_length": 32.01
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -699.4729,
+        "y": 1989.3433,
+        "z": 0
+      },
+      "size": 13.509698
+    }
+  },
+  {
+    "id": "S168",
+    "label": "Serpenti e teschi",
+    "attributes": {
+      "title": "Serpenti e teschi",
+      "txt_length": 5772,
+      "type": "racconto",
+      "year": null,
+      "log_length": 29.48
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -695.264,
+        "y": -988.8343,
+        "z": 0
+      },
+      "size": 12.318662
+    }
+  },
+  {
+    "id": "S169",
+    "label": "Il richiamo dell'acqua",
+    "attributes": {
+      "title": "Il richiamo dell'acqua",
+      "txt_length": 8736,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.17
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1538.967,
+        "y": 300.21902,
+        "z": 0
+      },
+      "size": 15.736789
+    }
+  },
+  {
+    "id": "S170",
+    "label": "L'aiola di sabbia",
+    "attributes": {
+      "title": "L'aiola di sabbia",
+      "txt_length": 5037,
+      "type": "racconto",
+      "year": null,
+      "log_length": 27.29
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -106.56895,
+        "y": -1157.0592,
+        "z": 0
+      },
+      "size": 11.364658
+    }
+  },
+  {
+    "id": "S171",
+    "label": "La poubelle agréée",
+    "attributes": {
+      "title": "La poubelle agréée",
+      "txt_length": 41079,
+      "type": "racconto",
+      "year": null,
+      "log_length": 61.12
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1193.7089,
+        "y": 1702.4004,
+        "z": 0
+      },
+      "size": 41.42961
+    }
+  },
+  {
+    "id": "S172",
+    "label": "Il seno nudo",
+    "attributes": {
+      "title": "Il seno nudo",
+      "txt_length": 5137,
+      "type": "racconto",
+      "year": null,
+      "log_length": 27.61
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -817.6036,
+        "y": -1095.2704,
+        "z": 0
+      },
+      "size": 11.497918
+    }
+  },
+  {
+    "id": "S173",
+    "label": "Il crollo del tempo",
+    "attributes": {
+      "title": "Il crollo del tempo",
+      "txt_length": 8431,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.59
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1849.3158,
+        "y": 964.2509,
+        "z": 0
+      },
+      "size": 15.408654
+    }
+  },
+  {
+    "id": "S174",
+    "label": "Parafrasi",
+    "attributes": {
+      "title": "Parafrasi",
+      "txt_length": 3825,
+      "type": "racconto",
+      "year": null,
+      "log_length": 22.85
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 2053.3965,
+        "y": -520.69714,
+        "z": 0
+      },
+      "size": 9.637787
+    }
+  },
+  {
+    "id": "S175",
+    "label": "Lo specchio e il bersaglio",
+    "attributes": {
+      "title": "Lo specchio e il bersaglio",
+      "txt_length": 12906,
+      "type": "racconto",
+      "year": null,
+      "log_length": 42.46
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1424.0044,
+        "y": -1015.758,
+        "z": 0
+      },
+      "size": 19.878674
+    }
+  },
+  {
+    "id": "S176",
+    "label": "La coscienza a posto",
+    "attributes": {
+      "title": "La coscienza a posto",
+      "txt_length": 7552,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.82
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 758.2662,
+        "y": 1934.441,
+        "z": 0
+      },
+      "size": 14.43682
+    }
+  },
+  {
+    "id": "S177",
+    "label": "Quattro favole d'Esopo per Valerio Adami",
+    "attributes": {
+      "title": "Quattro favole d'Esopo per Valerio Adami",
+      "txt_length": 7490,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.68
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -970.7933,
+        "y": 1855.742,
+        "z": 0
+      },
+      "size": 14.36667
+    }
+  },
+  {
+    "id": "S178",
+    "label": "Il gorilla albino",
+    "attributes": {
+      "title": "Il gorilla albino",
+      "txt_length": 4684,
+      "type": "racconto",
+      "year": null,
+      "log_length": 26.12
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -273.0938,
+        "y": -1730.051,
+        "z": 0
+      },
+      "size": 10.88433
+    }
+  },
+  {
+    "id": "S179",
+    "label": "L'altra euridice",
+    "attributes": {
+      "title": "L'altra euridice",
+      "txt_length": 16915,
+      "type": "racconto",
+      "year": null,
+      "log_length": 46.82
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1934.757,
+        "y": -741.905,
+        "z": 0
+      },
+      "size": 23.451616
+    }
+  },
+  {
+    "id": "S180",
+    "label": "Essere pietra (per Alberto Magnelli)",
+    "attributes": {
+      "title": "Essere pietra (per Alberto Magnelli)",
+      "txt_length": 4167,
+      "type": "racconto",
+      "year": null,
+      "log_length": 24.23
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 799.4593,
+        "y": 544.26086,
+        "z": 0
+      },
+      "size": 10.149019
+    }
+  },
+  {
+    "id": "S181",
+    "label": "Le memorie di Casanova",
+    "attributes": {
+      "title": "Le memorie di Casanova",
+      "txt_length": 18849,
+      "type": "racconto",
+      "year": null,
+      "log_length": 48.56
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1276.9683,
+        "y": -1697.6637,
+        "z": 0
+      },
+      "size": 25.079197
+    }
+  },
+  {
+    "id": "S182",
+    "label": "L'invasione degli storni",
+    "attributes": {
+      "title": "L'invasione degli storni",
+      "txt_length": 9054,
+      "type": "racconto",
+      "year": null,
+      "log_length": 36.74
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -489.96255,
+        "y": -1100.1608,
+        "z": 0
+      },
+      "size": 16.07441
+    }
+  },
+  {
+    "id": "S183",
+    "label": "Il silenzio e la città",
+    "attributes": {
+      "title": "Il silenzio e la città",
+      "txt_length": 12343,
+      "type": "racconto",
+      "year": null,
+      "log_length": 41.74
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1848.8058,
+        "y": -229.95189,
+        "z": 0
+      },
+      "size": 19.349892
+    }
+  },
+  {
+    "id": "S184",
+    "label": "L'occhio e i pianeti",
+    "attributes": {
+      "title": "L'occhio e i pianeti",
+      "txt_length": 8184,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.11
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -905.5704,
+        "y": -1399.4575,
+        "z": 0
+      },
+      "size": 15.139642
+    }
+  },
+  {
+    "id": "S185",
+    "label": "Sapore Sapere",
+    "attributes": {
+      "title": "Sapore Sapere",
+      "txt_length": 41220,
+      "type": "racconto",
+      "year": null,
+      "log_length": 61.17
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1667.783,
+        "y": -571.41364,
+        "z": 0
+      },
+      "size": 41.524544
+    }
+  },
+  {
+    "id": "S186",
+    "label": "Il mondo guarda il mondo",
+    "attributes": {
+      "title": "Il mondo guarda il mondo",
+      "txt_length": 3938,
+      "type": "racconto",
+      "year": null,
+      "log_length": 23.32
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -711.9151,
+        "y": -1491.8196,
+        "z": 0
+      },
+      "size": 9.809155
+    }
+  },
+  {
+    "id": "S187",
+    "label": "La pancia del geco",
+    "attributes": {
+      "title": "La pancia del geco",
+      "txt_length": 6400,
+      "type": "racconto",
+      "year": null,
+      "log_length": 31.15
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -603.16724,
+        "y": -1781.1465,
+        "z": 0
+      },
+      "size": 13.093012
+    }
+  },
+  {
+    "id": "S188",
+    "label": "Quattro studi dal vero",
+    "attributes": {
+      "title": "Quattro studi dal vero",
+      "txt_length": 14889,
+      "type": "racconto",
+      "year": null,
+      "log_length": 44.76
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1542.4518,
+        "y": 655.5681,
+        "z": 0
+      },
+      "size": 21.684193
+    }
+  },
+  {
+    "id": "S189",
+    "label": "Viaggio nelle città di de Chirico",
+    "attributes": {
+      "title": "Viaggio nelle città di de Chirico",
+      "txt_length": 17663,
+      "type": "racconto",
+      "year": null,
+      "log_length": 47.51
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1394.8181,
+        "y": -1582.4666,
+        "z": 0
+      },
+      "size": 24.087418
+    }
+  },
+  {
+    "id": "S190",
+    "label": "La spada del sole",
+    "attributes": {
+      "title": "La spada del sole",
+      "txt_length": 9267,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.12
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -81.67053,
+        "y": -1480.0911,
+        "z": 0
+      },
+      "size": 16.298115
+    }
+  },
+  {
+    "id": "S191",
+    "label": "La contemplazione delle stelle",
+    "attributes": {
+      "title": "La contemplazione delle stelle",
+      "txt_length": 8612,
+      "type": "racconto",
+      "year": null,
+      "log_length": 35.93
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -441.28256,
+        "y": -1290.6014,
+        "z": 0
+      },
+      "size": 15.603906
+    }
+  },
+  {
+    "id": "S192",
+    "label": "Gli amori delle tartarughe",
+    "attributes": {
+      "title": "Gli amori delle tartarughe",
+      "txt_length": 3998,
+      "type": "racconto",
+      "year": null,
+      "log_length": 23.57
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -721.263,
+        "y": -1319.0083,
+        "z": 0
+      },
+      "size": 9.8991375
+    }
+  },
+  {
+    "id": "S193",
+    "label": "Il prato infinito",
+    "attributes": {
+      "title": "Il prato infinito",
+      "txt_length": 6978,
+      "type": "racconto",
+      "year": null,
+      "log_length": 32.54
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -433.14618,
+        "y": -1783.2927,
+        "z": 0
+      },
+      "size": 13.778367
+    }
+  },
+  {
+    "id": "S194",
+    "label": "Luna di pomeriggio",
+    "attributes": {
+      "title": "Luna di pomeriggio",
+      "txt_length": 4615,
+      "type": "racconto",
+      "year": null,
+      "log_length": 25.88
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -867.7863,
+        "y": -1564.6237,
+        "z": 0
+      },
+      "size": 10.788508
+    }
+  },
+  {
+    "id": "S195",
+    "label": "Dal terrazzo",
+    "attributes": {
+      "title": "Dal terrazzo",
+      "txt_length": 7605,
+      "type": "racconto",
+      "year": null,
+      "log_length": 33.93
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -207.2494,
+        "y": -1017.2038,
+        "z": 0
+      },
+      "size": 14.496608
+    }
+  },
+  {
+    "id": "S196",
+    "label": "Il museo dei formaggi",
+    "attributes": {
+      "title": "Il museo dei formaggi",
+      "txt_length": 6229,
+      "type": "racconto",
+      "year": null,
+      "log_length": 30.71
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -395.63043,
+        "y": -1593.8931,
+        "z": 0
+      },
+      "size": 12.885444
+    }
+  },
+  {
+    "id": "S197",
+    "label": "Il marmo e il sangue",
+    "attributes": {
+      "title": "Il marmo e il sangue",
+      "txt_length": 4138,
+      "type": "racconto",
+      "year": null,
+      "log_length": 24.12
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -540.5921,
+        "y": -931.42786,
+        "z": 0
+      },
+      "size": 10.106503
+    }
+  },
+  {
+    "id": "S198",
+    "label": "L'ordine degli squamati",
+    "attributes": {
+      "title": "L'ordine degli squamati",
+      "txt_length": 6634,
+      "type": "racconto",
+      "year": null,
+      "log_length": 31.73
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -153.85689,
+        "y": -1621.6388,
+        "z": 0
+      },
+      "size": 13.373386
+    }
+  },
+  {
+    "id": "S199",
+    "label": "Il modello dei modelli",
+    "attributes": {
+      "title": "Il modello dei modelli",
+      "txt_length": 6836,
+      "type": "racconto",
+      "year": null,
+      "log_length": 32.21
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -367.5502,
+        "y": -951.1512,
+        "z": 0
+      },
+      "size": 13.612195
+    }
+  },
+  {
+    "id": "S200",
+    "label": "L'universo come specchio",
+    "attributes": {
+      "title": "L'universo come specchio",
+      "txt_length": 7002,
+      "type": "racconto",
+      "year": null,
+      "log_length": 32.6
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -572.6799,
+        "y": -1613.2755,
+        "z": 0
+      },
+      "size": 13.806318
+    }
+  },
+  {
+    "id": "S201",
+    "label": "Come imparare a essere morto",
+    "attributes": {
+      "title": "Come imparare a essere morto",
+      "txt_length": 9295,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.16
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -641.33014,
+        "y": -1177.2172,
+        "z": 0
+      },
+      "size": 16.327381
+    }
+  },
+  {
+    "id": "S202",
+    "label": "L'ultimo canale",
+    "attributes": {
+      "title": "L'ultimo canale",
+      "txt_length": 12804,
+      "type": "racconto",
+      "year": null,
+      "log_length": 42.33
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1685.3381,
+        "y": -1246.8644,
+        "z": 0
+      },
+      "size": 19.783447
+    }
+  },
+  {
+    "id": "S203",
+    "label": "Il ricordo è bendato",
+    "attributes": {
+      "title": "Il ricordo è bendato",
+      "txt_length": 11582,
+      "type": "racconto",
+      "year": null,
+      "log_length": 40.71
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1934.5382,
+        "y": -806.0123,
+        "z": 0
+      },
+      "size": 18.622103
+    }
+  },
+  {
+    "id": "S204",
+    "label": "Un re in ascolto",
+    "attributes": {
+      "title": "Un re in ascolto",
+      "txt_length": 46528,
+      "type": "racconto",
+      "year": null,
+      "log_length": 63.13
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 919.71533,
+        "y": -1852.7349,
+        "z": 0
+      },
+      "size": 45.045547
+    }
+  },
+  {
+    "id": "S205",
+    "label": "Il niente e il poco",
+    "attributes": {
+      "title": "Il niente e il poco",
+      "txt_length": 15867,
+      "type": "racconto",
+      "year": null,
+      "log_length": 45.78
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 485.21182,
+        "y": -534.1486,
+        "z": 0
+      },
+      "size": 22.546125
+    }
+  },
+  {
+    "id": "S206",
+    "label": "L'implosione",
+    "attributes": {
+      "title": "L'implosione",
+      "txt_length": 9364,
+      "type": "racconto",
+      "year": null,
+      "log_length": 37.28
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 926.6791,
+        "y": -1007.82025,
+        "z": 0
+      },
+      "size": 16.399366
+    }
+  },
+  {
+    "id": "V001",
+    "label": "Il sentiero dei nidi di ragno",
+    "attributes": {
+      "title": "Il sentiero dei nidi di ragno",
+      "txt_length": 249888,
+      "type": "romanzo",
+      "year": null,
+      "log_length": 90.22
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 2095.2495,
+        "y": -295.47308,
+        "z": 0
+      },
+      "size": 153.97337
+    }
+  },
+  {
+    "id": "V003",
+    "label": "Il visconte dimezzato",
+    "attributes": {
+      "title": "Il visconte dimezzato",
+      "txt_length": 138103,
+      "type": "ibrido",
+      "year": null,
+      "log_length": 80.66
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1385.9233,
+        "y": 1539.2275,
+        "z": 0
+      },
+      "size": 97.72095
+    }
+  },
+  {
+    "id": "V005",
+    "label": "Il barone rampante",
+    "attributes": {
+      "title": "Il barone rampante",
+      "txt_length": 416814,
+      "type": "romanzo",
+      "year": null,
+      "log_length": 98.47
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 2054.1567,
+        "y": 271.75433,
+        "z": 0
+      },
+      "size": 231.56497
+    }
+  },
+  {
+    "id": "V007",
+    "label": "La formica argentina",
+    "attributes": {
+      "title": "La formica argentina",
+      "txt_length": 71854,
+      "type": "ibrido",
+      "year": null,
+      "log_length": 70.13
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1995.805,
+        "y": 703.9138,
+        "z": 0
+      },
+      "size": 60.798855
+    }
+  },
+  {
+    "id": "V008",
+    "label": "Il cavaliere inesistente",
+    "attributes": {
+      "title": "Il cavaliere inesistente",
+      "txt_length": 197268,
+      "type": "romanzo",
+      "year": null,
+      "log_length": 86.41
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 686.4304,
+        "y": -1978.5665,
+        "z": 0
+      },
+      "size": 128.10963
+    }
+  },
+  {
+    "id": "V009",
+    "label": "La giornata di uno scrutatore",
+    "attributes": {
+      "title": "La giornata di uno scrutatore",
+      "txt_length": 121328,
+      "type": "ibrido",
+      "year": null,
+      "log_length": 78.58
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1311.4498,
+        "y": 800.8672,
+        "z": 0
+      },
+      "size": 88.748276
+    }
+  },
+  {
+    "id": "V010",
+    "label": "La speculazione edilizia",
+    "attributes": {
+      "title": "La speculazione edilizia",
+      "txt_length": 191068,
+      "type": "ibrido",
+      "year": null,
+      "log_length": 85.9
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 511.39584,
+        "y": 2041.6853,
+        "z": 0
+      },
+      "size": 124.99946
+    }
+  },
+  {
+    "id": "V016",
+    "label": "Il castello dei destini incrociati",
+    "attributes": {
+      "title": "Il castello dei destini incrociati",
+      "txt_length": 62895,
+      "type": "romanzo",
+      "year": null,
+      "log_length": 67.98
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1151.1055,
+        "y": -1458.7787,
+        "z": 0
+      },
+      "size": 55.387005
+    }
+  },
+  {
+    "id": "V018",
+    "label": "Le città invisibili",
+    "attributes": {
+      "title": "Le città invisibili",
+      "txt_length": 146738,
+      "type": "romanzo",
+      "year": null,
+      "log_length": 81.64
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1605.1946,
+        "y": 1289.542,
+        "z": 0
+      },
+      "size": 102.268105
+    }
+  },
+  {
+    "id": "V019",
+    "label": "Il castello dei destini incrociati (riediz)",
+    "attributes": {
+      "title": "Il castello dei destini incrociati (riediz)",
+      "txt_length": 120000,
+      "type": "romanzo",
+      "year": null,
+      "log_length": 78.4
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": 1797.1797,
+        "y": -1019.2304,
+        "z": 0
+      },
+      "size": 88.029305
+    }
+  },
+  {
+    "id": "V020",
+    "label": "Eremita a Parigi",
+    "attributes": {
+      "title": "Eremita a Parigi",
+      "txt_length": 16246,
+      "type": "ibrido",
+      "year": null,
+      "log_length": 46.17
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1051.0406,
+        "y": -673.79645,
+        "z": 0
+      },
+      "size": 237.61368
+    }
+  },
+  {
+    "id": "V021",
+    "label": "Se una notte d'inverno un viaggiatore",
+    "attributes": {
+      "title": "Se una notte d'inverno un viaggiatore",
+      "txt_length": 458335,
+      "type": "romanzo",
+      "year": null,
+      "log_length": 100
+    },
+    "viz": {
+      "color": "rgb(192,192,192)",
+      "position": {
+        "x": -1811.9153,
+        "y": -1066.0593,
+        "z": 0
+      },
+      "size": 250
+    }
+  }
+]

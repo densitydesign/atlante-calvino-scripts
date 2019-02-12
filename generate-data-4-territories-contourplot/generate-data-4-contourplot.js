@@ -3,23 +3,90 @@
 // in this way we can produce a contourplot where a higher density is displayed in correspondence with longer operas
 const fs = require('fs');
 const d3 = require('d3');
+const Json2csvParser = require('json2csv').Parser;
+const fields = ["id","attributes.title","attributes.txt_length","attributes.log_length","viz.position.x","viz.position.y"];
+const opts = { fields, delimiter: '\t' };
 
-let file = 'all-data.tsv';
+let fileJSON = 'fruchterman-spatialisation.json';
+let dataJSON = fs.readFileSync(fileJSON).toString();
+console.log(dataJSON);
+dataJSON = JSON.parse(dataJSON);
+console.log(dataJSON);
+data = dataJSON;
 
-let data = fs.readFileSync(file).toString();
+// let file = 'fruchterman-spatialisation.tsv';
+// let data = fs.readFileSync(file).toString();
+// data = d3.tsvParse(data);
 
-data = d3.tsvParse(data);
+console.log(data.length)
 
 data.forEach( d => {
   // console.log(d)
   // console.log(+d.txt_length)
-  for(var i = 2; i <= +d.txt_length/300; i++){
+  let length = +d.attributes.log_length;
+  // if (length > 50000) {
+  //   length = 50000
+  // }
+  for(var i = 2; i <= length; i++){
     data.push(d);
   }
 })
 
+let veryMax = {
+  "id": "0000a",
+  "label": "max",
+  "attributes": {
+    "title": "max",
+    "txt_length": 2164,
+    "type": "racconto",
+    "year": null,
+    "log_length": 20.07
+  },
+  "viz": {
+    "color": "rgb(192,192,192)",
+    "position": {
+      "x": 2250,
+      "y": 2250,
+      "z": 0
+    },
+    "size": 6.6820207
+  }
+}
+
+let veryMin = {
+  "id": "0000b",
+  "label": "min",
+  "attributes": {
+    "title": "min",
+    "txt_length": 2164,
+    "type": "racconto",
+    "year": null,
+    "log_length": 20.07
+  },
+  "viz": {
+    "color": "rgb(192,192,192)",
+    "position": {
+      "x": -2250,
+      "y": -2250,
+      "z": 0
+    },
+    "size": 6.6820207
+  }
+}
+
+data.push(veryMax);
+data.push(veryMin);
+
 console.log(data.length)
 
-data = JSON.stringify(data, null, 2);
-
-fs.writeFileSync('data-4-contourplot.json', data)
+try {
+  const parser = new Json2csvParser(opts);
+  const csv = parser.parse(data);
+  // console.log(csv);
+  fs.writeFileSync('data-4-contourplot-fruchterman.tsv', csv)
+} catch (err) {
+  console.error(err);
+}
+//
+// data = JSON.stringify(data, null, 2);
+// fs.writeFileSync('data-4-contourplot-fruchterman.json', data)
