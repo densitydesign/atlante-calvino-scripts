@@ -1,0 +1,3691 @@
+[
+  {
+    "id": "S004",
+    "label": "Angoscia in caserma",
+    "attributes": {
+      "txt_length": 19473,
+      "publication": 1945,
+      "log_length": 121.94
+    },
+    "viz": {
+      "position": {
+        "x": -732.73926,
+        "y": 2675.394,
+        "z": 0
+      },
+      "size": 11.769806
+    }
+  },
+  {
+    "id": "S005",
+    "label": "Andato al comando",
+    "attributes": {
+      "txt_length": 10457,
+      "publication": 1946,
+      "log_length": 96.74
+    },
+    "viz": {
+      "position": {
+        "x": -1585.0898,
+        "y": 1835.4828,
+        "z": 0
+      },
+      "size": 9.4436
+    }
+  },
+  {
+    "id": "S006",
+    "label": "Di padre in figlio",
+    "attributes": {
+      "txt_length": 8291,
+      "publication": 1946,
+      "log_length": 87.33
+    },
+    "viz": {
+      "position": {
+        "x": -1500.9924,
+        "y": 2700.0703,
+        "z": 0
+      },
+      "size": 8.884753
+    }
+  },
+  {
+    "id": "S007",
+    "label": "Paura sul sentiero",
+    "attributes": {
+      "txt_length": 13175,
+      "publication": 1946,
+      "log_length": 106.1
+    },
+    "viz": {
+      "position": {
+        "x": -1820.8203,
+        "y": 2194.394,
+        "z": 0
+      },
+      "size": 10.144867
+    }
+  },
+  {
+    "id": "S009",
+    "label": "Uomo nei gerbidi",
+    "attributes": {
+      "txt_length": 9042,
+      "publication": 1946,
+      "log_length": 90.84
+    },
+    "viz": {
+      "position": {
+        "x": -1185.6656,
+        "y": 1778.5278,
+        "z": 0
+      },
+      "size": 9.078518
+    }
+  },
+  {
+    "id": "S010",
+    "label": "Campo di mine",
+    "attributes": {
+      "txt_length": 9702,
+      "publication": 1946,
+      "log_length": 93.7
+    },
+    "viz": {
+      "position": {
+        "x": -2068.7246,
+        "y": 1792.1586,
+        "z": 0
+      },
+      "size": 9.248803
+    }
+  },
+  {
+    "id": "S011",
+    "label": "I fratelli Bagnasco",
+    "attributes": {
+      "txt_length": 9240,
+      "publication": 1946,
+      "log_length": 91.72
+    },
+    "viz": {
+      "position": {
+        "x": -1387.7808,
+        "y": 2178.54,
+        "z": 0
+      },
+      "size": 9.129603
+    }
+  },
+  {
+    "id": "S014",
+    "label": "Alba sui rami nudi",
+    "attributes": {
+      "txt_length": 13871,
+      "publication": 1947,
+      "log_length": 108.19
+    },
+    "viz": {
+      "position": {
+        "x": 347.4517,
+        "y": 2634.8228,
+        "z": 0
+      },
+      "size": 10.324442
+    }
+  },
+  {
+    "id": "S016",
+    "label": "Ultimo viene il corvo",
+    "attributes": {
+      "txt_length": 10809,
+      "publication": 1947,
+      "log_length": 98.08
+    },
+    "viz": {
+      "position": {
+        "x": 292.20563,
+        "y": 1719.074,
+        "z": 0
+      },
+      "size": 9.534419
+    }
+  },
+  {
+    "id": "S017",
+    "label": "Visti alla mensa",
+    "attributes": {
+      "txt_length": 8658,
+      "publication": 1947,
+      "log_length": 89.08
+    },
+    "viz": {
+      "position": {
+        "x": -40.59018,
+        "y": 2545.606,
+        "z": 0
+      },
+      "size": 8.979443
+    }
+  },
+  {
+    "id": "S018",
+    "label": "L'occhio del padrone",
+    "attributes": {
+      "txt_length": 10063,
+      "publication": 1947,
+      "log_length": 95.18
+    },
+    "viz": {
+      "position": {
+        "x": -128.8341,
+        "y": 1712.1312,
+        "z": 0
+      },
+      "size": 9.341945
+    }
+  },
+  {
+    "id": "S020",
+    "label": "La fame a Bévera",
+    "attributes": {
+      "txt_length": 11391,
+      "publication": 1947,
+      "log_length": 100.2
+    },
+    "viz": {
+      "position": {
+        "x": 40.81044,
+        "y": 2918.1191,
+        "z": 0
+      },
+      "size": 9.68458
+    }
+  },
+  {
+    "id": "S021",
+    "label": "Furto in una pasticceria",
+    "attributes": {
+      "txt_length": 14106,
+      "publication": 1947,
+      "log_length": 108.87
+    },
+    "viz": {
+      "position": {
+        "x": 353.1724,
+        "y": 1296.9093,
+        "z": 0
+      },
+      "size": 10.385074
+    }
+  },
+  {
+    "id": "S022",
+    "label": "Un bastimento carico di granchi",
+    "attributes": {
+      "txt_length": 9906,
+      "publication": 1947,
+      "log_length": 94.54
+    },
+    "viz": {
+      "position": {
+        "x": -70.70865,
+        "y": 1318.129,
+        "z": 0
+      },
+      "size": 9.301437
+    }
+  },
+  {
+    "id": "S023",
+    "label": "I figli poltroni",
+    "attributes": {
+      "txt_length": 9860,
+      "publication": 1948,
+      "log_length": 94.35
+    },
+    "viz": {
+      "position": {
+        "x": -893.06244,
+        "y": 2058.2908,
+        "z": 0
+      },
+      "size": 9.289569
+    }
+  },
+  {
+    "id": "S024",
+    "label": "Il giardino incantato",
+    "attributes": {
+      "txt_length": 8487,
+      "publication": 1948,
+      "log_length": 88.27
+    },
+    "viz": {
+      "position": {
+        "x": -809.03845,
+        "y": 1650.3444,
+        "z": 0
+      },
+      "size": 8.935323
+    }
+  },
+  {
+    "id": "S025",
+    "label": "Impiccagione di un giudice",
+    "attributes": {
+      "txt_length": 15971,
+      "publication": 1948,
+      "log_length": 113.91
+    },
+    "viz": {
+      "position": {
+        "x": -666.7394,
+        "y": 3037.388,
+        "z": 0
+      },
+      "size": 10.86626
+    }
+  },
+  {
+    "id": "S026",
+    "label": "Il bosco degli animali",
+    "attributes": {
+      "txt_length": 15495,
+      "publication": 1948,
+      "log_length": 112.68
+    },
+    "viz": {
+      "position": {
+        "x": -1050.7494,
+        "y": 2426.3608,
+        "z": 0
+      },
+      "size": 10.743447
+    }
+  },
+  {
+    "id": "S027",
+    "label": "Si dorme come cani",
+    "attributes": {
+      "txt_length": 12910,
+      "publication": 1948,
+      "log_length": 105.28
+    },
+    "viz": {
+      "position": {
+        "x": -486.6647,
+        "y": 1911.1626,
+        "z": 0
+      },
+      "size": 10.076495
+    }
+  },
+  {
+    "id": "S029",
+    "label": "Il gatto e il poliziotto",
+    "attributes": {
+      "txt_length": 12933,
+      "publication": 1948,
+      "log_length": 105.35
+    },
+    "viz": {
+      "position": {
+        "x": -467.13187,
+        "y": 1480.726,
+        "z": 0
+      },
+      "size": 10.08243
+    }
+  },
+  {
+    "id": "S030",
+    "label": "Pranzo con un pastore",
+    "attributes": {
+      "txt_length": 14313,
+      "publication": 1948,
+      "log_length": 109.46
+    },
+    "viz": {
+      "position": {
+        "x": -552.1728,
+        "y": 2316.2725,
+        "z": 0
+      },
+      "size": 10.438481
+    }
+  },
+  {
+    "id": "S033",
+    "label": "Chi ha messo la mina nel mare?",
+    "attributes": {
+      "txt_length": 10473,
+      "publication": 1948,
+      "log_length": 96.8
+    },
+    "viz": {
+      "position": {
+        "x": -1040.4021,
+        "y": 2893.2878,
+        "z": 0
+      },
+      "size": 9.447728
+    }
+  },
+  {
+    "id": "S034",
+    "label": "Dollari e vecchie mondane",
+    "attributes": {
+      "txt_length": 21698,
+      "publication": 1948,
+      "log_length": 126.33
+    },
+    "viz": {
+      "position": {
+        "x": -137.90996,
+        "y": 2133.9636,
+        "z": 0
+      },
+      "size": 12.343876
+    }
+  },
+  {
+    "id": "S037",
+    "label": "Un pomeriggio, Adamo",
+    "attributes": {
+      "txt_length": 16625,
+      "publication": 1949,
+      "log_length": 115.53
+    },
+    "viz": {
+      "position": {
+        "x": -1379.6179,
+        "y": 1428.4414,
+        "z": 0
+      },
+      "size": 11.034998
+    }
+  },
+  {
+    "id": "S038",
+    "label": "La casa degli alveari",
+    "attributes": {
+      "txt_length": 7418,
+      "publication": 1949,
+      "log_length": 82.82
+    },
+    "viz": {
+      "position": {
+        "x": -385.09906,
+        "y": 2746.1616,
+        "z": 0
+      },
+      "size": 8.659512
+    }
+  },
+  {
+    "id": "S039",
+    "label": "La stessa cosa del sangue",
+    "attributes": {
+      "txt_length": 12987,
+      "publication": 1949,
+      "log_length": 105.52
+    },
+    "viz": {
+      "position": {
+        "x": -1348.0095,
+        "y": 3081.6074,
+        "z": 0
+      },
+      "size": 10.096362
+    }
+  },
+  {
+    "id": "S040",
+    "label": "Attesa della morte in un albergo",
+    "attributes": {
+      "txt_length": 15582,
+      "publication": 1949,
+      "log_length": 112.91
+    },
+    "viz": {
+      "position": {
+        "x": -320.99182,
+        "y": 3133.304,
+        "z": 0
+      },
+      "size": 10.765894
+    }
+  },
+  {
+    "id": "S041",
+    "label": "Uno dei tre è ancora vivo",
+    "attributes": {
+      "txt_length": 14887,
+      "publication": 1949,
+      "log_length": 111.06
+    },
+    "viz": {
+      "position": {
+        "x": -1775.4012,
+        "y": 1483.7917,
+        "z": 0
+      },
+      "size": 10.586578
+    }
+  },
+  {
+    "id": "S042",
+    "label": "L'avventura di un soldato",
+    "attributes": {
+      "txt_length": 19767,
+      "publication": 1949,
+      "log_length": 122.55
+    },
+    "viz": {
+      "position": {
+        "x": -986.5176,
+        "y": 1299.6138,
+        "z": 0
+      },
+      "size": 11.84566
+    }
+  },
+  {
+    "id": "S043",
+    "label": "Desiderio in novembre",
+    "attributes": {
+      "txt_length": 14101,
+      "publication": 1949,
+      "log_length": 108.86
+    },
+    "viz": {
+      "position": {
+        "x": -967.1571,
+        "y": 3285.908,
+        "z": 0
+      },
+      "size": 10.383783
+    }
+  },
+  {
+    "id": "S067",
+    "label": "L'entrata in guerra",
+    "attributes": {
+      "txt_length": 27190,
+      "publication": 1954,
+      "log_length": 135.48
+    },
+    "viz": {
+      "position": {
+        "x": 306.82794,
+        "y": 2163.0525,
+        "z": 0
+      },
+      "size": 13.760859
+    }
+  },
+  {
+    "id": "S065",
+    "label": "Gli avanguardisti a Mentone",
+    "attributes": {
+      "txt_length": 51188,
+      "publication": 1954,
+      "log_length": 161.13
+    },
+    "viz": {
+      "position": {
+        "x": -936.2542,
+        "y": 899.20416,
+        "z": 0
+      },
+      "size": 19.95255
+    }
+  },
+  {
+    "id": "S072",
+    "label": "Le notti dell'UNPA",
+    "attributes": {
+      "txt_length": 39484,
+      "publication": 1954,
+      "log_length": 150.6
+    },
+    "viz": {
+      "position": {
+        "x": -1480.1677,
+        "y": -532.6198,
+        "z": 0
+      },
+      "size": 16.932816
+    }
+  },
+  {
+    "id": "S046",
+    "label": "Pesci grossi, pesci piccoli",
+    "attributes": {
+      "txt_length": 16862,
+      "publication": 1950,
+      "log_length": 116.11
+    },
+    "viz": {
+      "position": {
+        "x": -2147.8757,
+        "y": 1217.4122,
+        "z": 0
+      },
+      "size": 11.096146
+    }
+  },
+  {
+    "id": "S048",
+    "label": "Mai nessuno degli uomini lo seppe",
+    "attributes": {
+      "txt_length": 15006,
+      "publication": 1950,
+      "log_length": 111.38
+    },
+    "viz": {
+      "position": {
+        "x": -1677.4137,
+        "y": 1074.225,
+        "z": 0
+      },
+      "size": 10.617281
+    }
+  },
+  {
+    "id": "S050",
+    "label": "L'avventura di una bagnante",
+    "attributes": {
+      "txt_length": 21333,
+      "publication": 1951,
+      "log_length": 125.64
+    },
+    "viz": {
+      "position": {
+        "x": -1241.4608,
+        "y": 629.1517,
+        "z": 0
+      },
+      "size": 12.249702
+    }
+  },
+  {
+    "id": "S052",
+    "label": "Un bel gioco dura poco",
+    "attributes": {
+      "txt_length": 11940,
+      "publication": 1952,
+      "log_length": 102.11
+    },
+    "viz": {
+      "position": {
+        "x": -2014.2905,
+        "y": 858.6231,
+        "z": 0
+      },
+      "size": 9.826227
+    }
+  },
+  {
+    "id": "S053",
+    "label": "Funghi in città",
+    "attributes": {
+      "txt_length": 6506,
+      "publication": 1952,
+      "log_length": 77.5
+    },
+    "viz": {
+      "position": {
+        "x": -2453.8801,
+        "y": 732.4996,
+        "z": 0
+      },
+      "size": 8.424208
+    }
+  },
+  {
+    "id": "S054",
+    "label": "La formica argentina",
+    "attributes": {
+      "txt_length": 71831,
+      "publication": 1952,
+      "log_length": 174.86
+    },
+    "viz": {
+      "position": {
+        "x": -1683.0914,
+        "y": 314.64633,
+        "z": 0
+      },
+      "size": 25.278624
+    }
+  },
+  {
+    "id": "S055",
+    "label": "Il piccione comunale",
+    "attributes": {
+      "txt_length": 4278,
+      "publication": 1952,
+      "log_length": 60.5
+    },
+    "viz": {
+      "position": {
+        "x": -2065.3037,
+        "y": 454.51486,
+        "z": 0
+      },
+      "size": 7.8493643
+    }
+  },
+  {
+    "id": "S056",
+    "label": "La pietanziera",
+    "attributes": {
+      "txt_length": 7069,
+      "publication": 1952,
+      "log_length": 80.86
+    },
+    "viz": {
+      "position": {
+        "x": -2399.3076,
+        "y": 207.20412,
+        "z": 0
+      },
+      "size": 8.569467
+    }
+  },
+  {
+    "id": "S061",
+    "label": "Il bosco sull'autostrada",
+    "attributes": {
+      "txt_length": 5431,
+      "publication": 1953,
+      "log_length": 70.17
+    },
+    "viz": {
+      "position": {
+        "x": -1306.8641,
+        "y": 261.33133,
+        "z": 0
+      },
+      "size": 8.146849
+    }
+  },
+  {
+    "id": "S062",
+    "label": "La cura delle vespe",
+    "attributes": {
+      "txt_length": 8053,
+      "publication": 1953,
+      "log_length": 86.15
+    },
+    "viz": {
+      "position": {
+        "x": -1539.9988,
+        "y": -79.23992,
+        "z": 0
+      },
+      "size": 8.823347
+    }
+  },
+  {
+    "id": "S064",
+    "label": "Paese infido",
+    "attributes": {
+      "txt_length": 17761,
+      "publication": 1953,
+      "log_length": 118.21
+    },
+    "viz": {
+      "position": {
+        "x": -177.05255,
+        "y": 529.61865,
+        "z": 0
+      },
+      "size": 11.3280945
+    }
+  },
+  {
+    "id": "S066",
+    "label": "L'aria buona",
+    "attributes": {
+      "txt_length": 7594,
+      "publication": 1953,
+      "log_length": 83.77
+    },
+    "viz": {
+      "position": {
+        "x": -1124.9867,
+        "y": -190.6043,
+        "z": 0
+      },
+      "size": 8.704921
+    }
+  },
+  {
+    "id": "S068",
+    "label": "L'avventura di un impiegato",
+    "attributes": {
+      "txt_length": 17132,
+      "publication": 1953,
+      "log_length": 116.75
+    },
+    "viz": {
+      "position": {
+        "x": 234.3613,
+        "y": 785.0859,
+        "z": 0
+      },
+      "size": 11.165808
+    }
+  },
+  {
+    "id": "S083",
+    "label": "Il coniglio velenoso",
+    "attributes": {
+      "txt_length": 16872,
+      "publication": 1954,
+      "log_length": 116.13
+    },
+    "viz": {
+      "position": {
+        "x": -1927.1058,
+        "y": -451.05798,
+        "z": 0
+      },
+      "size": 11.098725
+    }
+  },
+  {
+    "id": "S085",
+    "label": "Un viaggio con le mucche",
+    "attributes": {
+      "txt_length": 8752,
+      "publication": 1956,
+      "log_length": 89.52
+    },
+    "viz": {
+      "position": {
+        "x": -1638.754,
+        "y": 686.6273,
+        "z": 0
+      },
+      "size": 9.0036955
+    }
+  },
+  {
+    "id": "S086",
+    "label": "Luna e Gnac",
+    "attributes": {
+      "txt_length": 10513,
+      "publication": 1957,
+      "log_length": 96.95
+    },
+    "viz": {
+      "position": {
+        "x": -1971.0209,
+        "y": 22.674694,
+        "z": 0
+      },
+      "size": 9.458049
+    }
+  },
+  {
+    "id": "S088",
+    "label": "La speculazione edilizia",
+    "attributes": {
+      "txt_length": 168428,
+      "publication": 1957,
+      "log_length": 209.41
+    },
+    "viz": {
+      "position": {
+        "x": -1315.3713,
+        "y": 1007.0177,
+        "z": 0
+      },
+      "size": 50.201485
+    }
+  },
+  {
+    "id": "S092",
+    "label": "La gallina di reparto",
+    "attributes": {
+      "txt_length": 17022,
+      "publication": 1958,
+      "log_length": 116.49
+    },
+    "viz": {
+      "position": {
+        "x": -533.1672,
+        "y": 753.81995,
+        "z": 0
+      },
+      "size": 11.137426
+    }
+  },
+  {
+    "id": "S093",
+    "label": "La notte dei numeri",
+    "attributes": {
+      "txt_length": 21230,
+      "publication": 1958,
+      "log_length": 125.45
+    },
+    "viz": {
+      "position": {
+        "x": -186.16187,
+        "y": 125.93833,
+        "z": 0
+      },
+      "size": 12.223127
+    }
+  },
+  {
+    "id": "S094",
+    "label": "L'avventura di un lettore",
+    "attributes": {
+      "txt_length": 29812,
+      "publication": 1958,
+      "log_length": 139.21
+    },
+    "viz": {
+      "position": {
+        "x": -639.419,
+        "y": -448.45477,
+        "z": 0
+      },
+      "size": 14.437358
+    }
+  },
+  {
+    "id": "S095",
+    "label": "La nuvola di smog",
+    "attributes": {
+      "txt_length": 101390,
+      "publication": 1958,
+      "log_length": 188.84
+    },
+    "viz": {
+      "position": {
+        "x": -517.37573,
+        "y": 333.62277,
+        "z": 0
+      },
+      "size": 32.9051
+    }
+  },
+  {
+    "id": "S096",
+    "label": "La signora Paulatim",
+    "attributes": {
+      "txt_length": 15161,
+      "publication": 1958,
+      "log_length": 111.8
+    },
+    "viz": {
+      "position": {
+        "x": -582.24,
+        "y": 1107.145,
+        "z": 0
+      },
+      "size": 10.657272
+    }
+  },
+  {
+    "id": "S097",
+    "label": "L'avventura di un viaggiatore",
+    "attributes": {
+      "txt_length": 30293,
+      "publication": 1958,
+      "log_length": 139.86
+    },
+    "viz": {
+      "position": {
+        "x": -854.2444,
+        "y": 524.91583,
+        "z": 0
+      },
+      "size": 14.56146
+    }
+  },
+  {
+    "id": "S098",
+    "label": "La villeggiatura in panchina",
+    "attributes": {
+      "txt_length": 14003,
+      "publication": 1958,
+      "log_length": 108.57
+    },
+    "viz": {
+      "position": {
+        "x": -1047.989,
+        "y": -613.1293,
+        "z": 0
+      },
+      "size": 10.358499
+    }
+  },
+  {
+    "id": "S099",
+    "label": "Va' così che vai bene",
+    "attributes": {
+      "txt_length": 27454,
+      "publication": 1958,
+      "log_length": 135.87
+    },
+    "viz": {
+      "position": {
+        "x": 205.4077,
+        "y": 383.3098,
+        "z": 0
+      },
+      "size": 13.828973
+    }
+  },
+  {
+    "id": "S100",
+    "label": "Un letto di passaggio",
+    "attributes": {
+      "txt_length": 10616,
+      "publication": 1958,
+      "log_length": 97.35
+    },
+    "viz": {
+      "position": {
+        "x": -655.2554,
+        "y": -33.917343,
+        "z": 0
+      },
+      "size": 9.484623
+    }
+  },
+  {
+    "id": "S101",
+    "label": "L'avventura di un miope",
+    "attributes": {
+      "txt_length": 18975,
+      "publication": 1958,
+      "log_length": 120.89
+    },
+    "viz": {
+      "position": {
+        "x": -160.93634,
+        "y": 903.1023,
+        "z": 0
+      },
+      "size": 11.641317
+    }
+  },
+  {
+    "id": "S102",
+    "label": "L'avventura di una moglie",
+    "attributes": {
+      "txt_length": 14457,
+      "publication": 1958,
+      "log_length": 109.87
+    },
+    "viz": {
+      "position": {
+        "x": 172.73988,
+        "y": -40.031574,
+        "z": 0
+      },
+      "size": 10.475635
+    }
+  },
+  {
+    "id": "S103",
+    "label": "L'avventura di due sposi",
+    "attributes": {
+      "txt_length": 7814,
+      "publication": 1958,
+      "log_length": 84.92
+    },
+    "viz": {
+      "position": {
+        "x": -248.95128,
+        "y": -280.22626,
+        "z": 0
+      },
+      "size": 8.761683
+    }
+  },
+  {
+    "id": "S104",
+    "label": "L'avventura di un poeta",
+    "attributes": {
+      "txt_length": 11830,
+      "publication": 1958,
+      "log_length": 101.74
+    },
+    "viz": {
+      "position": {
+        "x": -941.27026,
+        "y": 166.40685,
+        "z": 0
+      },
+      "size": 9.797846
+    }
+  },
+  {
+    "id": "S108",
+    "label": "Marcovaldo al supermarket",
+    "attributes": {
+      "txt_length": 10606,
+      "publication": 1963,
+      "log_length": 97.31
+    },
+    "viz": {
+      "position": {
+        "x": -2895.479,
+        "y": -645.5513,
+        "z": 0
+      },
+      "size": 9.482043
+    }
+  },
+  {
+    "id": "S109",
+    "label": "La pioggia e le foglie",
+    "attributes": {
+      "txt_length": 12518,
+      "publication": 1963,
+      "log_length": 104.03
+    },
+    "viz": {
+      "position": {
+        "x": -3262.6335,
+        "y": -732.5279,
+        "z": 0
+      },
+      "size": 9.975355
+    }
+  },
+  {
+    "id": "S110",
+    "label": "La fermata sbagliata",
+    "attributes": {
+      "txt_length": 13030,
+      "publication": 1963,
+      "log_length": 105.65
+    },
+    "viz": {
+      "position": {
+        "x": -2634.8918,
+        "y": -937.18085,
+        "z": 0
+      },
+      "size": 10.107456
+    }
+  },
+  {
+    "id": "S111",
+    "label": "Fumo, vento e bolle di sapone",
+    "attributes": {
+      "txt_length": 12414,
+      "publication": 1963,
+      "log_length": 103.69
+    },
+    "viz": {
+      "position": {
+        "x": -2796.2737,
+        "y": -301.45,
+        "z": 0
+      },
+      "size": 9.948523
+    }
+  },
+  {
+    "id": "S112",
+    "label": "Un sabato di sole, sabbia e sonno",
+    "attributes": {
+      "txt_length": 7838,
+      "publication": 1963,
+      "log_length": 85.05
+    },
+    "viz": {
+      "position": {
+        "x": -2763.8208,
+        "y": -1287.7238,
+        "z": 0
+      },
+      "size": 8.767876
+    }
+  },
+  {
+    "id": "S113",
+    "label": "La città tutta per lui",
+    "attributes": {
+      "txt_length": 6089,
+      "publication": 1963,
+      "log_length": 74.81
+    },
+    "viz": {
+      "position": {
+        "x": -3023.3013,
+        "y": -1020.09,
+        "z": 0
+      },
+      "size": 8.316618
+    }
+  },
+  {
+    "id": "S114",
+    "label": "Il giardino dei gatti ostinati",
+    "attributes": {
+      "txt_length": 20899,
+      "publication": 1963,
+      "log_length": 124.81
+    },
+    "viz": {
+      "position": {
+        "x": -2262.793,
+        "y": -893.7984,
+        "z": 0
+      },
+      "size": 12.137726
+    }
+  },
+  {
+    "id": "S115",
+    "label": "I figli di Babbo Natale",
+    "attributes": {
+      "txt_length": 15228,
+      "publication": 1963,
+      "log_length": 111.97
+    },
+    "viz": {
+      "position": {
+        "x": -2518.591,
+        "y": -582.3205,
+        "z": 0
+      },
+      "size": 10.67456
+    }
+  },
+  {
+    "id": "S116",
+    "label": "Dov'è più azzurro il fiume",
+    "attributes": {
+      "txt_length": 5787,
+      "publication": 1963,
+      "log_length": 72.75
+    },
+    "viz": {
+      "position": {
+        "x": -2377.4421,
+        "y": -1250.682,
+        "z": 0
+      },
+      "size": 8.2387
+    }
+  },
+  {
+    "id": "S117",
+    "label": "La città smarrita nella neve",
+    "attributes": {
+      "txt_length": 8741,
+      "publication": 1963,
+      "log_length": 89.47
+    },
+    "viz": {
+      "position": {
+        "x": -3184.4624,
+        "y": -355.63058,
+        "z": 0
+      },
+      "size": 9.000857
+    }
+  },
+  {
+    "id": "S118",
+    "label": "La distanza della Luna",
+    "attributes": {
+      "txt_length": 29733,
+      "publication": 1964,
+      "log_length": 139.1
+    },
+    "viz": {
+      "position": {
+        "x": 941.2044,
+        "y": -3252.0757,
+        "z": 0
+      },
+      "size": 14.416975
+    }
+  },
+  {
+    "id": "S119",
+    "label": "Sul far del giorno",
+    "attributes": {
+      "txt_length": 19463,
+      "publication": 1964,
+      "log_length": 121.92
+    },
+    "viz": {
+      "position": {
+        "x": 205.58908,
+        "y": -3502.7664,
+        "z": 0
+      },
+      "size": 11.767225
+    }
+  },
+  {
+    "id": "S120",
+    "label": "Un segno nello spazio",
+    "attributes": {
+      "txt_length": 19237,
+      "publication": 1964,
+      "log_length": 121.45
+    },
+    "viz": {
+      "position": {
+        "x": 1013.5951,
+        "y": -2898.8564,
+        "z": 0
+      },
+      "size": 11.708916
+    }
+  },
+  {
+    "id": "S121",
+    "label": "Tutto in un punto",
+    "attributes": {
+      "txt_length": 9490,
+      "publication": 1964,
+      "log_length": 92.8
+    },
+    "viz": {
+      "position": {
+        "x": 919.82855,
+        "y": -4228.847,
+        "z": 0
+      },
+      "size": 9.194105
+    }
+  },
+  {
+    "id": "S122",
+    "label": "Senza colori",
+    "attributes": {
+      "txt_length": 18946,
+      "publication": 1965,
+      "log_length": 120.83
+    },
+    "viz": {
+      "position": {
+        "x": 1230.5767,
+        "y": -3511.0024,
+        "z": 0
+      },
+      "size": 11.633835
+    }
+  },
+  {
+    "id": "S124",
+    "label": "Lo zio acquatico",
+    "attributes": {
+      "txt_length": 21396,
+      "publication": 1965,
+      "log_length": 125.76
+    },
+    "viz": {
+      "position": {
+        "x": 1280.7239,
+        "y": -3153.3406,
+        "z": 0
+      },
+      "size": 12.265957
+    }
+  },
+  {
+    "id": "S126",
+    "label": "Giochi senza fine",
+    "attributes": {
+      "txt_length": 11691,
+      "publication": 1965,
+      "log_length": 101.26
+    },
+    "viz": {
+      "position": {
+        "x": 1335.1366,
+        "y": -2749.5881,
+        "z": 0
+      },
+      "size": 9.761983
+    }
+  },
+  {
+    "id": "S128",
+    "label": "La forma dello spazio",
+    "attributes": {
+      "txt_length": 15776,
+      "publication": 1965,
+      "log_length": 113.41
+    },
+    "viz": {
+      "position": {
+        "x": 729.33124,
+        "y": -3940.7776,
+        "z": 0
+      },
+      "size": 10.815948
+    }
+  },
+  {
+    "id": "S129",
+    "label": "Quanto scommettiamo",
+    "attributes": {
+      "txt_length": 16962,
+      "publication": 1965,
+      "log_length": 116.35
+    },
+    "viz": {
+      "position": {
+        "x": 619.44446,
+        "y": -3325.0125,
+        "z": 0
+      },
+      "size": 11.121946
+    }
+  },
+  {
+    "id": "S130",
+    "label": "I Dinosauri",
+    "attributes": {
+      "txt_length": 32538,
+      "publication": 1965,
+      "log_length": 142.76
+    },
+    "viz": {
+      "position": {
+        "x": 322.2098,
+        "y": -3160.5945,
+        "z": 0
+      },
+      "size": 15.140689
+    }
+  },
+  {
+    "id": "S131",
+    "label": "Gli anni-luce",
+    "attributes": {
+      "txt_length": 26660,
+      "publication": 1965,
+      "log_length": 134.68
+    },
+    "viz": {
+      "position": {
+        "x": 1626.0144,
+        "y": -3026.9763,
+        "z": 0
+      },
+      "size": 13.624114
+    }
+  },
+  {
+    "id": "S132",
+    "label": "La spirale",
+    "attributes": {
+      "txt_length": 27755,
+      "publication": 1965,
+      "log_length": 136.31
+    },
+    "viz": {
+      "position": {
+        "x": 1333.3005,
+        "y": -4120.047,
+        "z": 0
+      },
+      "size": 13.906633
+    }
+  },
+  {
+    "id": "S133",
+    "label": "Ti con zero",
+    "attributes": {
+      "txt_length": 27727,
+      "publication": 1966,
+      "log_length": 136.27
+    },
+    "viz": {
+      "position": {
+        "x": 23.557156,
+        "y": -3827.1694,
+        "z": 0
+      },
+      "size": 13.899409
+    }
+  },
+  {
+    "id": "S134",
+    "label": "I. Mitosi",
+    "attributes": {
+      "txt_length": 27482,
+      "publication": 1967,
+      "log_length": 135.91
+    },
+    "viz": {
+      "position": {
+        "x": 343.5865,
+        "y": -3932.969,
+        "z": 0
+      },
+      "size": 13.836197
+    }
+  },
+  {
+    "id": "S135",
+    "label": "L'inseguimento",
+    "attributes": {
+      "txt_length": 26513,
+      "publication": 1967,
+      "log_length": 134.46
+    },
+    "viz": {
+      "position": {
+        "x": -172.75401,
+        "y": -3542.0134,
+        "z": 0
+      },
+      "size": 13.586187
+    }
+  },
+  {
+    "id": "S136",
+    "label": "I cristalli",
+    "attributes": {
+      "txt_length": 15771,
+      "publication": 1967,
+      "log_length": 113.39
+    },
+    "viz": {
+      "position": {
+        "x": 71.14694,
+        "y": -4208.386,
+        "z": 0
+      },
+      "size": 10.814658
+    }
+  },
+  {
+    "id": "S137",
+    "label": "L'origine degli uccelli",
+    "attributes": {
+      "txt_length": 21376,
+      "publication": 1967,
+      "log_length": 125.72
+    },
+    "viz": {
+      "position": {
+        "x": -309.83417,
+        "y": -3944.8772,
+        "z": 0
+      },
+      "size": 12.260797
+    }
+  },
+  {
+    "id": "S139",
+    "label": "Il sangue, il mare",
+    "attributes": {
+      "txt_length": 21043,
+      "publication": 1967,
+      "log_length": 125.09
+    },
+    "viz": {
+      "position": {
+        "x": -22.622417,
+        "y": -3211.9326,
+        "z": 0
+      },
+      "size": 12.174879
+    }
+  },
+  {
+    "id": "S140",
+    "label": "Il guidatore notturno",
+    "attributes": {
+      "txt_length": 14578,
+      "publication": 1967,
+      "log_length": 110.21
+    },
+    "viz": {
+      "position": {
+        "x": 198.73569,
+        "y": -2251.4958,
+        "z": 0
+      },
+      "size": 10.506854
+    }
+  },
+  {
+    "id": "S141",
+    "label": "La molle Luna",
+    "attributes": {
+      "txt_length": 16603,
+      "publication": 1967,
+      "log_length": 115.48
+    },
+    "viz": {
+      "position": {
+        "x": 490.51367,
+        "y": -4275.529,
+        "z": 0
+      },
+      "size": 11.029322
+    }
+  },
+  {
+    "id": "S142",
+    "label": "II. Meiosi",
+    "attributes": {
+      "txt_length": 18954,
+      "publication": 1967,
+      "log_length": 120.85
+    },
+    "viz": {
+      "position": {
+        "x": 522.8352,
+        "y": -3644.5054,
+        "z": 0
+      },
+      "size": 11.6359
+    }
+  },
+  {
+    "id": "S143",
+    "label": "III. Morte",
+    "attributes": {
+      "txt_length": 9299,
+      "publication": 1967,
+      "log_length": 91.98
+    },
+    "viz": {
+      "position": {
+        "x": 182.41875,
+        "y": -2844.399,
+        "z": 0
+      },
+      "size": 9.144826
+    }
+  },
+  {
+    "id": "S144",
+    "label": "Il conte di Montecristo",
+    "attributes": {
+      "txt_length": 22375,
+      "publication": 1967,
+      "log_length": 127.58
+    },
+    "viz": {
+      "position": {
+        "x": -404.70465,
+        "y": -3229.3037,
+        "z": 0
+      },
+      "size": 12.518547
+    }
+  },
+  {
+    "id": "S123",
+    "label": "Fino a che dura il Sole",
+    "attributes": {
+      "txt_length": 14692,
+      "publication": 1965,
+      "log_length": 110.52
+    },
+    "viz": {
+      "position": {
+        "x": 1093.9352,
+        "y": -3855.1455,
+        "z": 0
+      },
+      "size": 10.536266
+    }
+  },
+  {
+    "id": "S125",
+    "label": "La Luna come un fungo",
+    "attributes": {
+      "txt_length": 16925,
+      "publication": 1965,
+      "log_length": 116.26
+    },
+    "viz": {
+      "position": {
+        "x": 870.3195,
+        "y": -3582.8835,
+        "z": 0
+      },
+      "size": 11.1124
+    }
+  },
+  {
+    "id": "S127",
+    "label": "I meteoriti",
+    "attributes": {
+      "txt_length": 17758,
+      "publication": 1965,
+      "log_length": 118.21
+    },
+    "viz": {
+      "position": {
+        "x": 662.4013,
+        "y": -2964.626,
+        "z": 0
+      },
+      "size": 11.327321
+    }
+  },
+  {
+    "id": "S138",
+    "label": "La memoria del mondo",
+    "attributes": {
+      "txt_length": 13732,
+      "publication": 1967,
+      "log_length": 107.78
+    },
+    "viz": {
+      "position": {
+        "x": -557.7223,
+        "y": -3594.8845,
+        "z": 0
+      },
+      "size": 10.288578
+    }
+  },
+  {
+    "id": "S145",
+    "label": "Le figlie della Luna",
+    "attributes": {
+      "txt_length": 23452,
+      "publication": 1968,
+      "log_length": 129.48
+    },
+    "viz": {
+      "position": {
+        "x": 865.5585,
+        "y": -2561.7732,
+        "z": 0
+      },
+      "size": 12.796423
+    }
+  },
+  {
+    "id": "S146",
+    "label": "Il cielo di pietra",
+    "attributes": {
+      "txt_length": 13895,
+      "publication": 1968,
+      "log_length": 108.26
+    },
+    "viz": {
+      "position": {
+        "x": 499.0321,
+        "y": -2643.2664,
+        "z": 0
+      },
+      "size": 10.330633
+    }
+  },
+  {
+    "id": "S147",
+    "label": "Tempesta solare",
+    "attributes": {
+      "txt_length": 18603,
+      "publication": 1968,
+      "log_length": 120.09
+    },
+    "viz": {
+      "position": {
+        "x": -197.68407,
+        "y": -2895.9675,
+        "z": 0
+      },
+      "size": 11.545339
+    }
+  },
+  {
+    "id": "S148",
+    "label": "Le conchiglie e il tempo",
+    "attributes": {
+      "txt_length": 7831,
+      "publication": 1968,
+      "log_length": 85.01
+    },
+    "viz": {
+      "position": {
+        "x": -60.480453,
+        "y": -2569.6763,
+        "z": 0
+      },
+      "size": 8.766069
+    }
+  },
+  {
+    "id": "S084",
+    "label": "L'avventura di un fotografo",
+    "attributes": {
+      "txt_length": 26301,
+      "publication": 1955,
+      "log_length": 134.13
+    },
+    "viz": {
+      "position": {
+        "x": -150.20923,
+        "y": -704.6828,
+        "z": 0
+      },
+      "size": 13.531489
+    }
+  },
+  {
+    "id": "S105",
+    "label": "L'avventura di uno sciatore",
+    "attributes": {
+      "txt_length": 13850,
+      "publication": 1959,
+      "log_length": 108.13
+    },
+    "viz": {
+      "position": {
+        "x": -417.84515,
+        "y": -922.94684,
+        "z": 0
+      },
+      "size": 10.319023
+    }
+  },
+  {
+    "id": "S160",
+    "label": "La corsa delle giraffe",
+    "attributes": {
+      "txt_length": 2780,
+      "publication": 1975,
+      "log_length": 43.02
+    },
+    "viz": {
+      "position": {
+        "x": 3795.703,
+        "y": 329.17767,
+        "z": 0
+      },
+      "size": 7.4628677
+    }
+  },
+  {
+    "id": "S161",
+    "label": "Del modersi la lingua",
+    "attributes": {
+      "txt_length": 3124,
+      "publication": 1975,
+      "log_length": 47.75
+    },
+    "viz": {
+      "position": {
+        "x": 4168.2373,
+        "y": 258.3981,
+        "z": 0
+      },
+      "size": 7.5516224
+    }
+  },
+  {
+    "id": "S162",
+    "label": "Il fischio del merlo",
+    "attributes": {
+      "txt_length": 9784,
+      "publication": 1975,
+      "log_length": 94.04
+    },
+    "viz": {
+      "position": {
+        "x": 4247.892,
+        "y": -101.18449,
+        "z": 0
+      },
+      "size": 9.26996
+    }
+  },
+  {
+    "id": "S163",
+    "label": "Del prendersela coi giovani",
+    "attributes": {
+      "txt_length": 3072,
+      "publication": 1975,
+      "log_length": 47.07
+    },
+    "viz": {
+      "position": {
+        "x": 3550.046,
+        "y": 61.148643,
+        "z": 0
+      },
+      "size": 7.538206
+    }
+  },
+  {
+    "id": "S164",
+    "label": "Lettura di un'onda",
+    "attributes": {
+      "txt_length": 8420,
+      "publication": 1975,
+      "log_length": 87.95
+    },
+    "viz": {
+      "position": {
+        "x": 3448.4233,
+        "y": 386.60135,
+        "z": 0
+      },
+      "size": 8.918036
+    }
+  },
+  {
+    "id": "S165",
+    "label": "La pantofola spaiata",
+    "attributes": {
+      "txt_length": 2992,
+      "publication": 1975,
+      "log_length": 46
+    },
+    "viz": {
+      "position": {
+        "x": 3892.5786,
+        "y": -27.895397,
+        "z": 0
+      },
+      "size": 7.5175653
+    }
+  },
+  {
+    "id": "S166",
+    "label": "Un chilo e mezzo di grasso d'oca",
+    "attributes": {
+      "txt_length": 4952,
+      "publication": 1976,
+      "log_length": 66.43
+    },
+    "viz": {
+      "position": {
+        "x": 3158.6875,
+        "y": -374.26257,
+        "z": 0
+      },
+      "size": 8.023262
+    }
+  },
+  {
+    "id": "S168",
+    "label": "Serpenti e teschi",
+    "attributes": {
+      "txt_length": 5772,
+      "publication": 1976,
+      "log_length": 72.64
+    },
+    "viz": {
+      "position": {
+        "x": 2903.4087,
+        "y": -59.667023,
+        "z": 0
+      },
+      "size": 8.234829
+    }
+  },
+  {
+    "id": "S170",
+    "label": "L'aiola di sabbia",
+    "attributes": {
+      "txt_length": 5037,
+      "publication": 1977,
+      "log_length": 67.12
+    },
+    "viz": {
+      "position": {
+        "x": 3122.6975,
+        "y": 310.2608,
+        "z": 0
+      },
+      "size": 8.045193
+    }
+  },
+  {
+    "id": "S172",
+    "label": "Il seno nudo",
+    "attributes": {
+      "txt_length": 5137,
+      "publication": 1977,
+      "log_length": 67.92
+    },
+    "viz": {
+      "position": {
+        "x": 4249.624,
+        "y": 932.94434,
+        "z": 0
+      },
+      "size": 8.070993
+    }
+  },
+  {
+    "id": "S178",
+    "label": "Il gorilla albino",
+    "attributes": {
+      "txt_length": 4684,
+      "publication": 1980,
+      "log_length": 64.18
+    },
+    "viz": {
+      "position": {
+        "x": 4387.847,
+        "y": 571.8426,
+        "z": 0
+      },
+      "size": 7.954116
+    }
+  },
+  {
+    "id": "S182",
+    "label": "L'invasione degli storni",
+    "attributes": {
+      "txt_length": 9054,
+      "publication": 1981,
+      "log_length": 90.9
+    },
+    "viz": {
+      "position": {
+        "x": 3233.235,
+        "y": -18.989626,
+        "z": 0
+      },
+      "size": 9.081614
+    }
+  },
+  {
+    "id": "S184",
+    "label": "L'occhio e i pianeti",
+    "attributes": {
+      "txt_length": 8184,
+      "publication": 1982,
+      "log_length": 86.8
+    },
+    "viz": {
+      "position": {
+        "x": 3598.5361,
+        "y": -600.72394,
+        "z": 0
+      },
+      "size": 8.857146
+    }
+  },
+  {
+    "id": "S186",
+    "label": "Il mondo guarda il mondo",
+    "attributes": {
+      "txt_length": 3938,
+      "publication": 1982,
+      "log_length": 57.14
+    },
+    "viz": {
+      "position": {
+        "x": 3524.4453,
+        "y": -269.69635,
+        "z": 0
+      },
+      "size": 7.7616415
+    }
+  },
+  {
+    "id": "S187",
+    "label": "La pancia del geco",
+    "attributes": {
+      "txt_length": 6400,
+      "publication": 1982,
+      "log_length": 76.83
+    },
+    "viz": {
+      "position": {
+        "x": 3919.061,
+        "y": -385.31793,
+        "z": 0
+      },
+      "size": 8.396859
+    }
+  },
+  {
+    "id": "S190",
+    "label": "La spada del sole",
+    "attributes": {
+      "txt_length": 9267,
+      "publication": 1983,
+      "log_length": 91.84
+    },
+    "viz": {
+      "position": {
+        "x": 3679.6597,
+        "y": 688.13385,
+        "z": 0
+      },
+      "size": 9.13657
+    }
+  },
+  {
+    "id": "S191",
+    "label": "La contemplazione delle stelle",
+    "attributes": {
+      "txt_length": 8612,
+      "publication": 1983,
+      "log_length": 88.87
+    },
+    "viz": {
+      "position": {
+        "x": 3319.7446,
+        "y": 719.836,
+        "z": 0
+      },
+      "size": 8.967574
+    }
+  },
+  {
+    "id": "S192",
+    "label": "Gli amori delle tartarughe",
+    "attributes": {
+      "txt_length": 3998,
+      "publication": 1983,
+      "log_length": 57.76
+    },
+    "viz": {
+      "position": {
+        "x": 2763.728,
+        "y": 346.67197,
+        "z": 0
+      },
+      "size": 7.777122
+    }
+  },
+  {
+    "id": "S193",
+    "label": "Il prato infinito",
+    "attributes": {
+      "txt_length": 6978,
+      "publication": 1983,
+      "log_length": 80.34
+    },
+    "viz": {
+      "position": {
+        "x": 2808.622,
+        "y": 980.87415,
+        "z": 0
+      },
+      "size": 8.545988
+    }
+  },
+  {
+    "id": "S194",
+    "label": "Luna di pomeriggio",
+    "attributes": {
+      "txt_length": 4615,
+      "publication": 1983,
+      "log_length": 63.57
+    },
+    "viz": {
+      "position": {
+        "x": 4017.974,
+        "y": 642.8129,
+        "z": 0
+      },
+      "size": 7.9363136
+    }
+  },
+  {
+    "id": "S195",
+    "label": "Dal terrazzo",
+    "attributes": {
+      "txt_length": 7605,
+      "publication": 1983,
+      "log_length": 83.82
+    },
+    "viz": {
+      "position": {
+        "x": 3859.574,
+        "y": 1001.0468,
+        "z": 0
+      },
+      "size": 8.70776
+    }
+  },
+  {
+    "id": "S196",
+    "label": "Il museo dei formaggi",
+    "attributes": {
+      "txt_length": 6229,
+      "publication": 1983,
+      "log_length": 75.73
+    },
+    "viz": {
+      "position": {
+        "x": 3158.6968,
+        "y": 1060.5997,
+        "z": 0
+      },
+      "size": 8.352739
+    }
+  },
+  {
+    "id": "S197",
+    "label": "Il marmo e il sangue",
+    "attributes": {
+      "txt_length": 4138,
+      "publication": 1983,
+      "log_length": 59.15
+    },
+    "viz": {
+      "position": {
+        "x": 3506.0654,
+        "y": 1048.4343,
+        "z": 0
+      },
+      "size": 7.8132434
+    }
+  },
+  {
+    "id": "S198",
+    "label": "L'ordine degli squamati",
+    "attributes": {
+      "txt_length": 6634,
+      "publication": 1983,
+      "log_length": 78.29
+    },
+    "viz": {
+      "position": {
+        "x": 2971.5486,
+        "y": 649.428,
+        "z": 0
+      },
+      "size": 8.457233
+    }
+  },
+  {
+    "id": "S199",
+    "label": "Il modello dei modelli",
+    "attributes": {
+      "txt_length": 6836,
+      "publication": 1983,
+      "log_length": 79.5
+    },
+    "viz": {
+      "position": {
+        "x": 4026.0115,
+        "y": 1318.2974,
+        "z": 0
+      },
+      "size": 8.509351
+    }
+  },
+  {
+    "id": "S200",
+    "label": "L'universo come specchio",
+    "attributes": {
+      "txt_length": 7002,
+      "publication": 1983,
+      "log_length": 80.48
+    },
+    "viz": {
+      "position": {
+        "x": 3262.8787,
+        "y": 1387.7207,
+        "z": 0
+      },
+      "size": 8.55218
+    }
+  },
+  {
+    "id": "S201",
+    "label": "Come imparare a essere morto",
+    "attributes": {
+      "txt_length": 9295,
+      "publication": 1983,
+      "log_length": 91.96
+    },
+    "viz": {
+      "position": {
+        "x": 3645.2595,
+        "y": 1392.8792,
+        "z": 0
+      },
+      "size": 9.143794
+    }
+  },
+  {
+    "id": "S205",
+    "label": "Il niente e il poco",
+    "attributes": {
+      "txt_length": 15867,
+      "publication": 1984,
+      "log_length": 113.64
+    },
+    "viz": {
+      "position": {
+        "x": 1623.5867,
+        "y": -3418.484,
+        "z": 0
+      },
+      "size": 10.839427
+    }
+  },
+  {
+    "id": "S206",
+    "label": "L'implosione",
+    "attributes": {
+      "txt_length": 9364,
+      "publication": 1984,
+      "log_length": 92.26
+    },
+    "viz": {
+      "position": {
+        "x": 1530.9982,
+        "y": -3776.695,
+        "z": 0
+      },
+      "size": 9.161596
+    }
+  },
+  {
+    "id": "S001",
+    "label": "Passatempi",
+    "attributes": {
+      "txt_length": 2164,
+      "publication": 1943,
+      "log_length": 32.87
+    },
+    "viz": {
+      "position": {
+        "x": -3194.4607,
+        "y": -3344.4272,
+        "z": 0
+      },
+      "size": 7.303934
+    }
+  },
+  {
+    "id": "S002",
+    "label": "Dieci soldi in plastilina",
+    "attributes": {
+      "txt_length": 4066,
+      "publication": 1943,
+      "log_length": 58.44
+    },
+    "viz": {
+      "position": {
+        "x": -3489.1824,
+        "y": -3241.3435,
+        "z": 0
+      },
+      "size": 7.794667
+    }
+  },
+  {
+    "id": "S003",
+    "label": "Invece era un'altra",
+    "attributes": {
+      "txt_length": 986,
+      "publication": 1943,
+      "log_length": 1
+    },
+    "viz": {
+      "position": {
+        "x": -3427.3545,
+        "y": -3544.7473,
+        "z": 0
+      },
+      "size": 7
+    }
+  },
+  {
+    "id": "S008",
+    "label": "E il settimo si riposò",
+    "attributes": {
+      "txt_length": 12532,
+      "publication": 1946,
+      "log_length": 104.07
+    },
+    "viz": {
+      "position": {
+        "x": -2363.9082,
+        "y": 2468.172,
+        "z": 0
+      },
+      "size": 9.978968
+    }
+  },
+  {
+    "id": "S012",
+    "label": "Ragionamento del cugino",
+    "attributes": {
+      "txt_length": 7490,
+      "publication": 1946,
+      "log_length": 83.21
+    },
+    "viz": {
+      "position": {
+        "x": -2073.6357,
+        "y": 2748.9548,
+        "z": 0
+      },
+      "size": 8.678088
+    }
+  },
+  {
+    "id": "S013",
+    "label": "Cinque dopodomani: guerra finita!",
+    "attributes": {
+      "txt_length": 7287,
+      "publication": 1946,
+      "log_length": 82.09
+    },
+    "viz": {
+      "position": {
+        "x": -2395.2764,
+        "y": 2797.5737,
+        "z": 0
+      },
+      "size": 8.625712
+    }
+  },
+  {
+    "id": "S015",
+    "label": "Come non fui Noè (Buon a nulla)",
+    "attributes": {
+      "txt_length": 9027,
+      "publication": 1947,
+      "log_length": 90.77
+    },
+    "viz": {
+      "position": {
+        "x": 814.7188,
+        "y": 2570.2603,
+        "z": 0
+      },
+      "size": 9.074648
+    }
+  },
+  {
+    "id": "S019",
+    "label": "Come un volo d'anitre",
+    "attributes": {
+      "txt_length": 11326,
+      "publication": 1947,
+      "log_length": 99.97
+    },
+    "viz": {
+      "position": {
+        "x": 1102.4803,
+        "y": 2395.4387,
+        "z": 0
+      },
+      "size": 9.6678095
+    }
+  },
+  {
+    "id": "V001",
+    "label": "Il sentiero dei nidi di ragno",
+    "attributes": {
+      "txt_length": 249888,
+      "publication": 1947,
+      "log_length": 225.41
+    },
+    "viz": {
+      "position": {
+        "x": 858.4047,
+        "y": 2173.6414,
+        "z": 0
+      },
+      "size": 71.21887
+    }
+  },
+  {
+    "id": "S028",
+    "label": "Com'era grande il mare",
+    "attributes": {
+      "txt_length": 3554,
+      "publication": 1948,
+      "log_length": 52.98
+    },
+    "viz": {
+      "position": {
+        "x": -233.7803,
+        "y": 3493.179,
+        "z": 0
+      },
+      "size": 7.662566
+    }
+  },
+  {
+    "id": "S031",
+    "label": "Voglia di mare",
+    "attributes": {
+      "txt_length": 5327,
+      "publication": 1948,
+      "log_length": 69.39
+    },
+    "viz": {
+      "position": {
+        "x": -576.7419,
+        "y": 3453.158,
+        "z": 0
+      },
+      "size": 8.120015
+    }
+  },
+  {
+    "id": "S032",
+    "label": "Isabella e Fioravanti",
+    "attributes": {
+      "txt_length": 9727,
+      "publication": 1948,
+      "log_length": 93.8
+    },
+    "viz": {
+      "position": {
+        "x": 56.6969,
+        "y": 3299.457,
+        "z": 0
+      },
+      "size": 9.255254
+    }
+  },
+  {
+    "id": "S035",
+    "label": "Freddo a Napoli",
+    "attributes": {
+      "txt_length": 8005,
+      "publication": 1949,
+      "log_length": 85.9
+    },
+    "viz": {
+      "position": {
+        "x": -1443.1198,
+        "y": 3437.3755,
+        "z": 0
+      },
+      "size": 8.810963
+    }
+  },
+  {
+    "id": "S036",
+    "label": "Lasciare Anna",
+    "attributes": {
+      "txt_length": 9089,
+      "publication": 1949,
+      "log_length": 91.05
+    },
+    "viz": {
+      "position": {
+        "x": -1732.2994,
+        "y": 3136.124,
+        "z": 0
+      },
+      "size": 9.090644
+    }
+  },
+  {
+    "id": "S044",
+    "label": "Lettera ad Amelia sui dischi volanti",
+    "attributes": {
+      "txt_length": 7633,
+      "publication": 1950,
+      "log_length": 83.97
+    },
+    "viz": {
+      "position": {
+        "x": -3233.3867,
+        "y": 1656.0872,
+        "z": 0
+      },
+      "size": 8.714984
+    }
+  },
+  {
+    "id": "S045",
+    "label": "Storia del soldato che portò il cannone a casa",
+    "attributes": {
+      "txt_length": 11610,
+      "publication": 1950,
+      "log_length": 100.98
+    },
+    "viz": {
+      "position": {
+        "x": -2920.7522,
+        "y": 1645.9559,
+        "z": 0
+      },
+      "size": 9.741084
+    }
+  },
+  {
+    "id": "S047",
+    "label": "Cimitero di biciclette",
+    "attributes": {
+      "txt_length": 12416,
+      "publication": 1950,
+      "log_length": 103.7
+    },
+    "viz": {
+      "position": {
+        "x": -3105.2432,
+        "y": 1365.041,
+        "z": 0
+      },
+      "size": 9.949039
+    }
+  },
+  {
+    "id": "S049",
+    "label": "Il reggimento smarrito",
+    "attributes": {
+      "txt_length": 10193,
+      "publication": 1951,
+      "log_length": 95.7
+    },
+    "viz": {
+      "position": {
+        "x": -1479.3003,
+        "y": -1006.62787,
+        "z": 0
+      },
+      "size": 9.375485
+    }
+  },
+  {
+    "id": "S051",
+    "label": "Un compagno venuto da lontano",
+    "attributes": {
+      "txt_length": 8251,
+      "publication": 1952,
+      "log_length": 87.13
+    },
+    "viz": {
+      "position": {
+        "x": -3144.6472,
+        "y": 291.03897,
+        "z": 0
+      },
+      "size": 8.8744335
+    }
+  },
+  {
+    "id": "S057",
+    "label": "Gli occhi del nemico",
+    "attributes": {
+      "txt_length": 7070,
+      "publication": 1952,
+      "log_length": 80.87
+    },
+    "viz": {
+      "position": {
+        "x": -3307.639,
+        "y": 875.7912,
+        "z": 0
+      },
+      "size": 8.569725
+    }
+  },
+  {
+    "id": "S058",
+    "label": "La fabbrica occupata",
+    "attributes": {
+      "txt_length": 7735,
+      "publication": 1952,
+      "log_length": 84.51
+    },
+    "viz": {
+      "position": {
+        "x": -3404.0771,
+        "y": 513.979,
+        "z": 0
+      },
+      "size": 8.741301
+    }
+  },
+  {
+    "id": "S059",
+    "label": "La ragazza licenziata",
+    "attributes": {
+      "txt_length": 7919,
+      "publication": 1952,
+      "log_length": 85.46
+    },
+    "viz": {
+      "position": {
+        "x": -3093.8713,
+        "y": 640.02295,
+        "z": 0
+      },
+      "size": 8.7887745
+    }
+  },
+  {
+    "id": "V003",
+    "label": "Il visconte dimezzato",
+    "attributes": {
+      "txt_length": 138103,
+      "publication": 1952,
+      "log_length": 201.37
+    },
+    "viz": {
+      "position": {
+        "x": -2867.7185,
+        "y": 409.9267,
+        "z": 0
+      },
+      "size": 42.377373
+    }
+  },
+  {
+    "id": "S060",
+    "label": "Le disgrazie di un paese",
+    "attributes": {
+      "txt_length": 6734,
+      "publication": 1953,
+      "log_length": 78.89
+    },
+    "viz": {
+      "position": {
+        "x": 897.277,
+        "y": 419.7376,
+        "z": 0
+      },
+      "size": 8.483034
+    }
+  },
+  {
+    "id": "S063",
+    "label": "La storia di Kim-Ghi-U",
+    "attributes": {
+      "txt_length": 10989,
+      "publication": 1953,
+      "log_length": 98.75
+    },
+    "viz": {
+      "position": {
+        "x": 658.2784,
+        "y": 168.52885,
+        "z": 0
+      },
+      "size": 9.58086
+    }
+  },
+  {
+    "id": "S069",
+    "label": "Un paese disgraziato",
+    "attributes": {
+      "txt_length": 5596,
+      "publication": 1953,
+      "log_length": 71.39
+    },
+    "viz": {
+      "position": {
+        "x": 759.35583,
+        "y": 783.1496,
+        "z": 0
+      },
+      "size": 8.18942
+    }
+  },
+  {
+    "id": "S070",
+    "label": "Il generale in biblioteca",
+    "attributes": {
+      "txt_length": 10429,
+      "publication": 1953,
+      "log_length": 96.63
+    },
+    "viz": {
+      "position": {
+        "x": 590.5366,
+        "y": 502.03745,
+        "z": 0
+      },
+      "size": 9.436376
+    }
+  },
+  {
+    "id": "S071",
+    "label": "La fabbrica nella montagna",
+    "attributes": {
+      "txt_length": 10615,
+      "publication": 1954,
+      "log_length": 97.34
+    },
+    "viz": {
+      "position": {
+        "x": -1947.1025,
+        "y": -2258.0178,
+        "z": 0
+      },
+      "size": 9.484365
+    }
+  },
+  {
+    "id": "S073",
+    "label": "La bomba addormentata nel bosco",
+    "attributes": {
+      "txt_length": 8394,
+      "publication": 1954,
+      "log_length": 87.83
+    },
+    "viz": {
+      "position": {
+        "x": -2204.4707,
+        "y": -2021.3572,
+        "z": 0
+      },
+      "size": 8.911328
+    }
+  },
+  {
+    "id": "S074",
+    "label": "Libertà! Libertà!",
+    "attributes": {
+      "txt_length": 4546,
+      "publication": 1954,
+      "log_length": 62.96
+    },
+    "viz": {
+      "position": {
+        "x": -2528.7893,
+        "y": -2149.0474,
+        "z": 0
+      },
+      "size": 7.918511
+    }
+  },
+  {
+    "id": "S075",
+    "label": "I mozzatori di nasi",
+    "attributes": {
+      "txt_length": 3962,
+      "publication": 1954,
+      "log_length": 57.39
+    },
+    "viz": {
+      "position": {
+        "x": -2075.1177,
+        "y": -2577.4944,
+        "z": 0
+      },
+      "size": 7.7678337
+    }
+  },
+  {
+    "id": "S076",
+    "label": "Dove va l'avvoltoio?",
+    "attributes": {
+      "txt_length": 4867,
+      "publication": 1954,
+      "log_length": 65.73
+    },
+    "viz": {
+      "position": {
+        "x": -1870.194,
+        "y": -1939.3201,
+        "z": 0
+      },
+      "size": 8.001331
+    }
+  },
+  {
+    "id": "S077",
+    "label": "Il dittatore",
+    "attributes": {
+      "txt_length": 4114,
+      "publication": 1954,
+      "log_length": 58.91
+    },
+    "viz": {
+      "position": {
+        "x": -2135.2124,
+        "y": -1712.2223,
+        "z": 0
+      },
+      "size": 7.807051
+    }
+  },
+  {
+    "id": "S078",
+    "label": "Lo jus primae noctis",
+    "attributes": {
+      "txt_length": 7027,
+      "publication": 1954,
+      "log_length": 80.62
+    },
+    "viz": {
+      "position": {
+        "x": -2815.182,
+        "y": -2304.184,
+        "z": 0
+      },
+      "size": 8.55863
+    }
+  },
+  {
+    "id": "S079",
+    "label": "L'adultera",
+    "attributes": {
+      "txt_length": 6306,
+      "publication": 1954,
+      "log_length": 76.23
+    },
+    "viz": {
+      "position": {
+        "x": -2791.1892,
+        "y": -1942.2799,
+        "z": 0
+      },
+      "size": 8.372606
+    }
+  },
+  {
+    "id": "S080",
+    "label": "La lente d'ingrandimento",
+    "attributes": {
+      "txt_length": 4042,
+      "publication": 1954,
+      "log_length": 58.2
+    },
+    "viz": {
+      "position": {
+        "x": -2530.168,
+        "y": -2519.3723,
+        "z": 0
+      },
+      "size": 7.7884746
+    }
+  },
+  {
+    "id": "S081",
+    "label": "I Marziani",
+    "attributes": {
+      "txt_length": 4019,
+      "publication": 1954,
+      "log_length": 57.97
+    },
+    "viz": {
+      "position": {
+        "x": -2270.0474,
+        "y": -2331.6604,
+        "z": 0
+      },
+      "size": 7.7825403
+    }
+  },
+  {
+    "id": "S082",
+    "label": "La domenica delle follie",
+    "attributes": {
+      "txt_length": 6485,
+      "publication": 1954,
+      "log_length": 77.37
+    },
+    "viz": {
+      "position": {
+        "x": -2472.1646,
+        "y": -1819.7416,
+        "z": 0
+      },
+      "size": 8.41879
+    }
+  },
+  {
+    "id": "S087",
+    "label": "La gran bonaccia delle Antille",
+    "attributes": {
+      "txt_length": 8971,
+      "publication": 1957,
+      "log_length": 90.52
+    },
+    "viz": {
+      "position": {
+        "x": -2789.73,
+        "y": 1182.8683,
+        "z": 0
+      },
+      "size": 9.060199
+    }
+  },
+  {
+    "id": "V005",
+    "label": "Il barone rampante",
+    "attributes": {
+      "txt_length": 416814,
+      "publication": 1957,
+      "log_length": 246.15
+    },
+    "viz": {
+      "position": {
+        "x": -2899.1992,
+        "y": 904.23816,
+        "z": 0
+      },
+      "size": 114.28722
+    }
+  },
+  {
+    "id": "S089",
+    "label": "Dialogo sul satellite",
+    "attributes": {
+      "txt_length": 8266,
+      "publication": 1958,
+      "log_length": 87.2
+    },
+    "viz": {
+      "position": {
+        "x": 581.0483,
+        "y": -218.67381,
+        "z": 0
+      },
+      "size": 8.878304
+    }
+  },
+  {
+    "id": "S090",
+    "label": "Monologo notturno d'un nobile scozzese",
+    "attributes": {
+      "txt_length": 7421,
+      "publication": 1958,
+      "log_length": 82.83
+    },
+    "viz": {
+      "position": {
+        "x": 178.81924,
+        "y": -456.15192,
+        "z": 0
+      },
+      "size": 8.660286
+    }
+  },
+  {
+    "id": "S091",
+    "label": "Una bella giornata di marzo",
+    "attributes": {
+      "txt_length": 6351,
+      "publication": 1958,
+      "log_length": 76.52
+    },
+    "viz": {
+      "position": {
+        "x": 196.65092,
+        "y": -794.131,
+        "z": 0
+      },
+      "size": 8.384216
+    }
+  },
+  {
+    "id": "V007",
+    "label": "La formica argentina",
+    "attributes": {
+      "txt_length": 71854,
+      "publication": 1958,
+      "log_length": 174.88
+    },
+    "viz": {
+      "position": {
+        "x": 506.71155,
+        "y": -559.0159,
+        "z": 0
+      },
+      "size": 25.284557
+    }
+  },
+  {
+    "id": "V008",
+    "label": "Il cavaliere inesistente",
+    "attributes": {
+      "txt_length": 197268,
+      "publication": 1959,
+      "log_length": 215.82
+    },
+    "viz": {
+      "position": {
+        "x": -243.27171,
+        "y": -1496.3284,
+        "z": 0
+      },
+      "size": 57.642456
+    }
+  },
+  {
+    "id": "S107",
+    "label": "Diario in clinica",
+    "attributes": {
+      "txt_length": 10815,
+      "publication": 1963,
+      "log_length": 98.1
+    },
+    "viz": {
+      "position": {
+        "x": -3555.5056,
+        "y": -986.6558,
+        "z": 0
+      },
+      "size": 9.535967
+    }
+  },
+  {
+    "id": "V009",
+    "label": "La giornata di uno scrutatore",
+    "attributes": {
+      "txt_length": 121328,
+      "publication": 1963,
+      "log_length": 196.11
+    },
+    "viz": {
+      "position": {
+        "x": -3128.0007,
+        "y": -1471.8032,
+        "z": 0
+      },
+      "size": 38.04928
+    }
+  },
+  {
+    "id": "V010",
+    "label": "La speculazione edilizia",
+    "attributes": {
+      "txt_length": 191068,
+      "publication": 1963,
+      "log_length": 214.53
+    },
+    "viz": {
+      "position": {
+        "x": -3398.2783,
+        "y": -1280.6504,
+        "z": 0
+      },
+      "size": 56.0428
+    }
+  },
+  {
+    "id": "S149",
+    "label": "La decapitazione dei capi",
+    "attributes": {
+      "txt_length": 25519,
+      "publication": 1969,
+      "log_length": 132.91
+    },
+    "viz": {
+      "position": {
+        "x": 2795.185,
+        "y": 3597.2031,
+        "z": 0
+      },
+      "size": 13.329726
+    }
+  },
+  {
+    "id": "V016",
+    "label": "Il castello dei destini incrociati",
+    "attributes": {
+      "txt_length": 62895,
+      "publication": 1969,
+      "log_length": 169.48
+    },
+    "viz": {
+      "position": {
+        "x": 2737.2495,
+        "y": 3879.5447,
+        "z": 0
+      },
+      "size": 22.973057
+    }
+  },
+  {
+    "id": "S151",
+    "label": "Il nome, il naso",
+    "attributes": {
+      "txt_length": 25010,
+      "publication": 1972,
+      "log_length": 132.09
+    },
+    "viz": {
+      "position": {
+        "x": 3569.9282,
+        "y": -2597.498,
+        "z": 0
+      },
+      "size": 13.1984005
+    }
+  },
+  {
+    "id": "V018",
+    "label": "Le città invisibili",
+    "attributes": {
+      "txt_length": 146738,
+      "publication": 1972,
+      "log_length": 203.82
+    },
+    "viz": {
+      "position": {
+        "x": 3740.5876,
+        "y": -2359.5935,
+        "z": 0
+      },
+      "size": 44.605274
+    }
+  },
+  {
+    "id": "S152",
+    "label": "La taverna dei destini incrociati",
+    "attributes": {
+      "txt_length": 98779,
+      "publication": 1973,
+      "log_length": 187.78
+    },
+    "viz": {
+      "position": {
+        "x": 2663.2063,
+        "y": 3288.6946,
+        "z": 0
+      },
+      "size": 32.231438
+    }
+  },
+  {
+    "id": "S153",
+    "label": "Ricordo di una battaglia",
+    "attributes": {
+      "txt_length": 15654,
+      "publication": 1974,
+      "log_length": 113.09
+    },
+    "viz": {
+      "position": {
+        "x": 3096.8894,
+        "y": 3315.0605,
+        "z": 0
+      },
+      "size": 10.7844715
+    }
+  },
+  {
+    "id": "S154",
+    "label": "Autobiografia di uno spettatore",
+    "attributes": {
+      "txt_length": 44046,
+      "publication": 1974,
+      "log_length": 155.03
+    },
+    "viz": {
+      "position": {
+        "x": 3464.6147,
+        "y": 3340.6946,
+        "z": 0
+      },
+      "size": 18.109852
+    }
+  },
+  {
+    "id": "S155",
+    "label": "La pompa di benzina",
+    "attributes": {
+      "txt_length": 12331,
+      "publication": 1974,
+      "log_length": 103.42
+    },
+    "viz": {
+      "position": {
+        "x": 3297.1223,
+        "y": 3081.7363,
+        "z": 0
+      },
+      "size": 9.927109
+    }
+  },
+  {
+    "id": "V020",
+    "label": "Eremita a Parigi",
+    "attributes": {
+      "txt_length": 16246,
+      "publication": 1974,
+      "log_length": 114.6
+    },
+    "viz": {
+      "position": {
+        "x": 3257.6204,
+        "y": 3571.933,
+        "z": 0
+      },
+      "size": 10.937212
+    }
+  },
+  {
+    "id": "S156",
+    "label": "La glaciazione",
+    "attributes": {
+      "txt_length": 6231,
+      "publication": 1975,
+      "log_length": 75.75
+    },
+    "viz": {
+      "position": {
+        "x": 4421.956,
+        "y": -429.4342,
+        "z": 0
+      },
+      "size": 8.353255
+    }
+  },
+  {
+    "id": "S157",
+    "label": "L'uomo di Neanderthal",
+    "attributes": {
+      "txt_length": 15168,
+      "publication": 1975,
+      "log_length": 111.81
+    },
+    "viz": {
+      "position": {
+        "x": 4591.7773,
+        "y": 86.77497,
+        "z": 0
+      },
+      "size": 10.659079
+    }
+  },
+  {
+    "id": "S158",
+    "label": "Montezuma",
+    "attributes": {
+      "txt_length": 20699,
+      "publication": 1975,
+      "log_length": 124.42
+    },
+    "viz": {
+      "position": {
+        "x": 4672.149,
+        "y": -233.68553,
+        "z": 0
+      },
+      "size": 12.086124
+    }
+  },
+  {
+    "id": "S159",
+    "label": "Prima che tu dica «Pronto»",
+    "attributes": {
+      "txt_length": 16064,
+      "publication": 1975,
+      "log_length": 114.14
+    },
+    "viz": {
+      "position": {
+        "x": 4206.785,
+        "y": -661.3211,
+        "z": 0
+      },
+      "size": 10.890254
+    }
+  },
+  {
+    "id": "S167",
+    "label": "Altre città",
+    "attributes": {
+      "txt_length": 6749,
+      "publication": 1976,
+      "log_length": 78.98
+    },
+    "viz": {
+      "position": {
+        "x": 2715.8184,
+        "y": -646.8251,
+        "z": 0
+      },
+      "size": 8.486904
+    }
+  },
+  {
+    "id": "S169",
+    "label": "Il richiamo dell'acqua",
+    "attributes": {
+      "txt_length": 8736,
+      "publication": 1976,
+      "log_length": 89.45
+    },
+    "viz": {
+      "position": {
+        "x": 2924.1218,
+        "y": -872.7323,
+        "z": 0
+      },
+      "size": 8.999567
+    }
+  },
+  {
+    "id": "S171",
+    "label": "La poubelle agréée",
+    "attributes": {
+      "txt_length": 41079,
+      "publication": 1977,
+      "log_length": 152.21
+    },
+    "viz": {
+      "position": {
+        "x": 4413.015,
+        "y": 1394.6632,
+        "z": 0
+      },
+      "size": 17.344341
+    }
+  },
+  {
+    "id": "S173",
+    "label": "Il crollo del tempo",
+    "attributes": {
+      "txt_length": 8431,
+      "publication": 1977,
+      "log_length": 88
+    },
+    "viz": {
+      "position": {
+        "x": 4567.576,
+        "y": 1126.4241,
+        "z": 0
+      },
+      "size": 8.920875
+    }
+  },
+  {
+    "id": "S174",
+    "label": "Parafrasi",
+    "attributes": {
+      "txt_length": 3825,
+      "publication": 1978,
+      "log_length": 55.96
+    },
+    "viz": {
+      "position": {
+        "x": -2996.0093,
+        "y": -3740.447,
+        "z": 0
+      },
+      "size": 7.7324867
+    }
+  },
+  {
+    "id": "S175",
+    "label": "Lo specchio e il bersaglio",
+    "attributes": {
+      "txt_length": 12906,
+      "publication": 1978,
+      "log_length": 105.27
+    },
+    "viz": {
+      "position": {
+        "x": -2711.6382,
+        "y": -3809.7117,
+        "z": 0
+      },
+      "size": 10.075463
+    }
+  },
+  {
+    "id": "S176",
+    "label": "La coscienza a posto",
+    "attributes": {
+      "txt_length": 7552,
+      "publication": 1980,
+      "log_length": 83.54
+    },
+    "viz": {
+      "position": {
+        "x": 4863.7656,
+        "y": 917.2106,
+        "z": 0
+      },
+      "size": 8.694085
+    }
+  },
+  {
+    "id": "S177",
+    "label": "Quattro favole d'Esopo per Valerio Adami",
+    "attributes": {
+      "txt_length": 7490,
+      "publication": 1980,
+      "log_length": 83.21
+    },
+    "viz": {
+      "position": {
+        "x": 4949.161,
+        "y": 593.7186,
+        "z": 0
+      },
+      "size": 8.678088
+    }
+  },
+  {
+    "id": "S179",
+    "label": "L'altra euridice",
+    "attributes": {
+      "txt_length": 16915,
+      "publication": 1980,
+      "log_length": 116.23
+    },
+    "viz": {
+      "position": {
+        "x": 5155.7,
+        "y": 829.43634,
+        "z": 0
+      },
+      "size": 11.109819
+    }
+  },
+  {
+    "id": "S180",
+    "label": "Essere pietra (per Alberto Magnelli)",
+    "attributes": {
+      "txt_length": 4167,
+      "publication": 1981,
+      "log_length": 59.43
+    },
+    "viz": {
+      "position": {
+        "x": 3139.305,
+        "y": -1152.7544,
+        "z": 0
+      },
+      "size": 7.8207254
+    }
+  },
+  {
+    "id": "S181",
+    "label": "Le memorie di Casanova",
+    "attributes": {
+      "txt_length": 18849,
+      "publication": 1981,
+      "log_length": 120.62
+    },
+    "viz": {
+      "position": {
+        "x": 3264.7432,
+        "y": -886.20856,
+        "z": 0
+      },
+      "size": 11.6088085
+    }
+  },
+  {
+    "id": "S183",
+    "label": "Il silenzio e la città",
+    "attributes": {
+      "txt_length": 12343,
+      "publication": 1982,
+      "log_length": 103.46
+    },
+    "viz": {
+      "position": {
+        "x": 3929.8762,
+        "y": -978.71344,
+        "z": 0
+      },
+      "size": 9.930204
+    }
+  },
+  {
+    "id": "S185",
+    "label": "Sapore Sapere",
+    "attributes": {
+      "txt_length": 41220,
+      "publication": 1982,
+      "log_length": 152.35
+    },
+    "viz": {
+      "position": {
+        "x": 3624.3655,
+        "y": -1057.7838,
+        "z": 0
+      },
+      "size": 17.38072
+    }
+  },
+  {
+    "id": "S188",
+    "label": "Quattro studi dal vero",
+    "attributes": {
+      "txt_length": 14889,
+      "publication": 1983,
+      "log_length": 111.06
+    },
+    "viz": {
+      "position": {
+        "x": 2907.5823,
+        "y": 1496.3505,
+        "z": 0
+      },
+      "size": 10.587094
+    }
+  },
+  {
+    "id": "S189",
+    "label": "Viaggio nelle città di de Chirico",
+    "attributes": {
+      "txt_length": 17663,
+      "publication": 1983,
+      "log_length": 117.99
+    },
+    "viz": {
+      "position": {
+        "x": 3367.7537,
+        "y": 1749.3585,
+        "z": 0
+      },
+      "size": 11.302811
+    }
+  },
+  {
+    "id": "S202",
+    "label": "L'ultimo canale",
+    "attributes": {
+      "txt_length": 12804,
+      "publication": 1984,
+      "log_length": 104.95
+    },
+    "viz": {
+      "position": {
+        "x": 2189.252,
+        "y": -3703.64,
+        "z": 0
+      },
+      "size": 10.049147
+    }
+  },
+  {
+    "id": "S203",
+    "label": "Il ricordo è bendato",
+    "attributes": {
+      "txt_length": 11582,
+      "publication": 1984,
+      "log_length": 100.88
+    },
+    "viz": {
+      "position": {
+        "x": 2225.628,
+        "y": -3356.2178,
+        "z": 0
+      },
+      "size": 9.73386
+    }
+  },
+  {
+    "id": "S204",
+    "label": "Un re in ascolto",
+    "attributes": {
+      "txt_length": 46528,
+      "publication": 1984,
+      "log_length": 157.26
+    },
+    "viz": {
+      "position": {
+        "x": 2468.8777,
+        "y": -3554.4758,
+        "z": 0
+      },
+      "size": 18.75023
+    }
+  },
+  {
+    "id": "S106",
+    "label": "La strada di San Giovanni",
+    "attributes": {
+      "txt_length": 83344,
+      "publication": 1962,
+      "log_length": 180.89
+    },
+    "viz": {
+      "position": {
+        "x": -2440.318,
+        "y": -4053.0354,
+        "z": 0
+      },
+      "size": 28.249077
+    }
+  },
+  {
+    "id": "S150",
+    "label": "Dall'opaco",
+    "attributes": {
+      "txt_length": 22085,
+      "publication": 1971,
+      "log_length": 127.05
+    },
+    "viz": {
+      "position": {
+        "x": 2358.8936,
+        "y": 4059.053,
+        "z": 0
+      },
+      "size": 12.443724
+    }
+  },
+  {
+    "id": "V021",
+    "label": "Se una notte d'inverno un viaggiatore",
+    "attributes": {
+      "txt_length": 458335,
+      "publication": 1979,
+      "log_length": 250
+    },
+    "viz": {
+      "position": {
+        "x": 2412.6646,
+        "y": 3714.5334,
+        "z": 0
+      },
+      "size": 125
+    }
+  }
+]

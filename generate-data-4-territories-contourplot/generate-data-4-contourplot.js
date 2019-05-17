@@ -4,10 +4,10 @@
 const fs = require('fs');
 const d3 = require('d3');
 const Json2csvParser = require('json2csv').Parser;
-const fields = ["id","attributes.title","attributes.txt_length","attributes.log_length","viz.position.x","viz.position.y"];
+const fields = ["id","label","attributes.txt_length","attributes.publication","attributes.log_length","viz.position.x","viz.position.y"];
 const opts = { fields, delimiter: '\t' };
 
-let fileJSON = 'fruchterman-spatialisation.json';
+let fileJSON = 'mixed-spatialisation.json';
 let dataJSON = fs.readFileSync(fileJSON).toString();
 console.log(dataJSON);
 dataJSON = JSON.parse(dataJSON);
@@ -27,10 +27,41 @@ data.forEach( d => {
   // if (length > 50000) {
   //   length = 50000
   // }
-  for(var i = 2; i <= length; i++){
+  for (var i = 2; i <= length; i++) {
+
+    let ri = Math.random()*(i/length)
+    // incremento random
+
+    let n_x = d.viz.position.x + ri;
+    let n_y = d.viz.position.y + ri;
+
+    // x + ir
+
+    // y + ir
+
+
     data.push(d);
+    // sgomitate
   }
 })
+
+let mmmax_x = d3.max(data, function(d) {
+  return d.viz.position.x
+})
+let mmmax_y = d3.max(data, function(d) {
+  return d.viz.position.y
+})
+let veryMaxValue = d3.max([mmmax_x, mmmax_y])
+veryMaxValue = Math.ceil(veryMaxValue/1000) * 1000;
+let mmmin_x = d3.min(data, function(d) {
+  return d.viz.position.x
+})
+let mmmin_y = d3.min(data, function(d) {
+  return d.viz.position.y
+})
+let veryMinValue = d3.min([mmmin_x, mmmin_y])
+veryMinValue = Math.floor(veryMinValue/1000) * 1000;
+
 
 let veryMax = {
   "id": "0000a",
@@ -45,8 +76,8 @@ let veryMax = {
   "viz": {
     "color": "rgb(192,192,192)",
     "position": {
-      "x": 3000,
-      "y": 3000,
+      "x": veryMaxValue,
+      "y": veryMaxValue,
       "z": 0
     },
     "size": 6.6820207
@@ -66,8 +97,8 @@ let veryMin = {
   "viz": {
     "color": "rgb(192,192,192)",
     "position": {
-      "x": -3000,
-      "y": -3000,
+      "x": veryMinValue,
+      "y": veryMinValue,
       "z": 0
     },
     "size": 6.6820207
@@ -83,7 +114,7 @@ try {
   const parser = new Json2csvParser(opts);
   const csv = parser.parse(data);
   // console.log(csv);
-  fs.writeFileSync('data-4-contourplot-fruchterman.tsv', csv)
+  fs.writeFileSync('data-4-contourplot-mixed-spatialisation.tsv', csv)
 } catch (err) {
   console.error(err);
 }
