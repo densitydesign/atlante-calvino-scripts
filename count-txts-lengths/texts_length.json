@@ -1,1134 +1,1724 @@
 [
   {
+    "file": "Eremita-a-parigi.Pagine-autobiografiche.txt",
+    "length": 430338,
+    "words-split-spaces": 69005,
+    "words-split-regexp-words": 68867
+  },
+  {
     "file": "S001-passatempi.txt",
-    "length": 2164
+    "length": 2164,
+    "words-split-spaces": 416,
+    "words-split-regexp-words": 387
   },
   {
     "file": "S002-dieci-soldi-in-plastilina.txt",
-    "length": 4066
+    "length": 4066,
+    "words-split-spaces": 727,
+    "words-split-regexp-words": 717
   },
   {
     "file": "S003-invece-era-un-altra.txt",
-    "length": 986
+    "length": 986,
+    "words-split-spaces": 177,
+    "words-split-regexp-words": 167
   },
   {
     "file": "S004-angoscia-in-caserma.txt",
-    "length": 19473
+    "length": 19473,
+    "words-split-spaces": 3127,
+    "words-split-regexp-words": 3153
   },
   {
     "file": "S005-andato-al-comando.txt",
-    "length": 10457
+    "length": 10457,
+    "words-split-spaces": 1753,
+    "words-split-regexp-words": 1715
   },
   {
     "file": "S006-di-padre-in-figlio.txt",
-    "length": 8291
+    "length": 8291,
+    "words-split-spaces": 1384,
+    "words-split-regexp-words": 1380
   },
   {
     "file": "S007-paura-sul-sentiero.txt",
-    "length": 13175
+    "length": 13175,
+    "words-split-spaces": 2184,
+    "words-split-regexp-words": 2180
   },
   {
     "file": "S008-e-il-settimo-si-riposo.txt",
-    "length": 12532
+    "length": 12532,
+    "words-split-spaces": 2234,
+    "words-split-regexp-words": 2231
   },
   {
     "file": "S009-uomo-nei-gerbidi.txt",
-    "length": 9042
+    "length": 9042,
+    "words-split-spaces": 1524,
+    "words-split-regexp-words": 1507
   },
   {
     "file": "S010-campo-di-mine.txt",
-    "length": 9702
+    "length": 9702,
+    "words-split-spaces": 1635,
+    "words-split-regexp-words": 1626
   },
   {
     "file": "S011-i-fratelli-bagnasco.txt",
-    "length": 9240
+    "length": 9240,
+    "words-split-spaces": 1644,
+    "words-split-regexp-words": 1615
   },
   {
     "file": "S012-ragionamento-del-cugino.txt",
-    "length": 7490
+    "length": 7490,
+    "words-split-spaces": 1296,
+    "words-split-regexp-words": 1296
   },
   {
     "file": "S013-cinque-dopodomani-guerra-finita.txt",
-    "length": 7287
+    "length": 7287,
+    "words-split-spaces": 1177,
+    "words-split-regexp-words": 1182
   },
   {
     "file": "S014-alba-sui-rami-nudi.txt",
-    "length": 13871
+    "length": 13871,
+    "words-split-spaces": 2310,
+    "words-split-regexp-words": 2317
   },
   {
     "file": "S015-come-non-fui-noe-buon-a-nulla.txt",
-    "length": 9027
+    "length": 9027,
+    "words-split-spaces": 1507,
+    "words-split-regexp-words": 1513
   },
   {
     "file": "S016-ultimo-viene-il-corvo.txt",
-    "length": 10809
+    "length": 10809,
+    "words-split-spaces": 1862,
+    "words-split-regexp-words": 1858
   },
   {
     "file": "S017-visti-alla-mensa.txt",
-    "length": 8658
+    "length": 8658,
+    "words-split-spaces": 1428,
+    "words-split-regexp-words": 1417
   },
   {
     "file": "S018-l-occhio-del-padrone.txt",
-    "length": 10063
+    "length": 10063,
+    "words-split-spaces": 1720,
+    "words-split-regexp-words": 1658
   },
   {
     "file": "S019-come-un-volo-d-anitre.txt",
-    "length": 11326
+    "length": 11326,
+    "words-split-spaces": 1905,
+    "words-split-regexp-words": 1919
   },
   {
     "file": "S020-la-fame-a-bevera.txt",
-    "length": 11391
+    "length": 11391,
+    "words-split-spaces": 1922,
+    "words-split-regexp-words": 1919
   },
   {
     "file": "S021-furto-in-una-pasticceria.txt",
-    "length": 14106
+    "length": 14106,
+    "words-split-spaces": 2352,
+    "words-split-regexp-words": 2350
   },
   {
     "file": "S022-un-bastimento-carico-di-granchi.txt",
-    "length": 9906
+    "length": 9906,
+    "words-split-spaces": 1649,
+    "words-split-regexp-words": 1622
   },
   {
     "file": "S023-i-figli-poltroni.txt",
-    "length": 9860
+    "length": 9860,
+    "words-split-spaces": 1747,
+    "words-split-regexp-words": 1716
   },
   {
     "file": "S024-il-giardino-incantato.txt",
-    "length": 8487
+    "length": 8487,
+    "words-split-spaces": 1396,
+    "words-split-regexp-words": 1402
   },
   {
     "file": "S025-impiccagione-di-un-giudice.txt",
-    "length": 15971
+    "length": 15971,
+    "words-split-spaces": 2565,
+    "words-split-regexp-words": 2585
   },
   {
     "file": "S026-il-bosco-degli-animali.txt",
-    "length": 15495
+    "length": 15495,
+    "words-split-spaces": 2656,
+    "words-split-regexp-words": 2660
   },
   {
     "file": "S027-si-dorme-come-cani.txt",
-    "length": 12910
+    "length": 12910,
+    "words-split-spaces": 2204,
+    "words-split-regexp-words": 2178
   },
   {
     "file": "S028-com-era-grande-il-mare.txt",
-    "length": 3554
+    "length": 3554,
+    "words-split-spaces": 616,
+    "words-split-regexp-words": 604
   },
   {
     "file": "S029-il-gatto-e-il-poliziotto.txt",
-    "length": 12933
+    "length": 12933,
+    "words-split-spaces": 2108,
+    "words-split-regexp-words": 2098
   },
   {
     "file": "S030-pranzo-con-un-pastore.txt",
-    "length": 14313
+    "length": 14313,
+    "words-split-spaces": 2402,
+    "words-split-regexp-words": 2385
   },
   {
     "file": "S031-voglia-di-mare.txt",
-    "length": 5327
+    "length": 5327,
+    "words-split-spaces": 866,
+    "words-split-regexp-words": 867
   },
   {
     "file": "S032-isabella-e-fioravanti.txt",
-    "length": 9727
+    "length": 9727,
+    "words-split-spaces": 1583,
+    "words-split-regexp-words": 1580
   },
   {
     "file": "S033-chi-ha-messo-la-mina-nel-mare.txt",
-    "length": 10473
+    "length": 10473,
+    "words-split-spaces": 1727,
+    "words-split-regexp-words": 1704
   },
   {
     "file": "S034-dollari-e-vecchie-mondane.txt",
-    "length": 21698
+    "length": 21698,
+    "words-split-spaces": 3593,
+    "words-split-regexp-words": 3546
   },
   {
     "file": "S035-freddo-a-napoli.txt",
-    "length": 8005
+    "length": 8005,
+    "words-split-spaces": 1345,
+    "words-split-regexp-words": 1351
   },
   {
     "file": "S036-lasciare-anna.txt",
-    "length": 9089
+    "length": 9089,
+    "words-split-spaces": 1537,
+    "words-split-regexp-words": 1529
   },
   {
     "file": "S037-un-pomeriggio-adamo.txt",
-    "length": 16625
+    "length": 16625,
+    "words-split-spaces": 2725,
+    "words-split-regexp-words": 2671
   },
   {
     "file": "S038-la-casa-degli-alveari.txt",
-    "length": 7418
+    "length": 7418,
+    "words-split-spaces": 1301,
+    "words-split-regexp-words": 1313
   },
   {
     "file": "S039-la-stessa-cosa-del-sangue.txt",
-    "length": 12987
+    "length": 12987,
+    "words-split-spaces": 2175,
+    "words-split-regexp-words": 2195
   },
   {
     "file": "S040-attesa-della-morte-in-un-albergo.txt",
-    "length": 15582
+    "length": 15582,
+    "words-split-spaces": 2525,
+    "words-split-regexp-words": 2525
   },
   {
     "file": "S041-uno-dei-tre-e-ancora-vivo.txt",
-    "length": 14887
+    "length": 14887,
+    "words-split-spaces": 2508,
+    "words-split-regexp-words": 2505
   },
   {
     "file": "S042-l-avventura-di-un-soldato.txt",
-    "length": 19767
+    "length": 19767,
+    "words-split-spaces": 3212,
+    "words-split-regexp-words": 3236
   },
   {
     "file": "S043-desiderio-in-novembre.txt",
-    "length": 14101
+    "length": 14101,
+    "words-split-spaces": 2310,
+    "words-split-regexp-words": 2287
   },
   {
     "file": "S044-lettera-ad-amelia-sui-dischi-volanti.txt",
-    "length": 7633
+    "length": 7633,
+    "words-split-spaces": 1264,
+    "words-split-regexp-words": 1246
   },
   {
     "file": "S045-storia-del-soldato-che-porto-il-cannone-a-casa.txt",
-    "length": 11610
+    "length": 11610,
+    "words-split-spaces": 1961,
+    "words-split-regexp-words": 1924
   },
   {
     "file": "S046-pesci-grossi-pesci-piccoli.txt",
-    "length": 16862
+    "length": 16862,
+    "words-split-spaces": 2863,
+    "words-split-regexp-words": 2853
   },
   {
     "file": "S047-cimitero-di-biciclette.txt",
-    "length": 12416
+    "length": 12416,
+    "words-split-spaces": 2111,
+    "words-split-regexp-words": 2087
   },
   {
     "file": "S048-mai-nessuno-degli-uomini-lo-seppe.txt",
-    "length": 15006
+    "length": 15006,
+    "words-split-spaces": 2587,
+    "words-split-regexp-words": 2590
   },
   {
     "file": "S049-il-reggimento-smarrito.txt",
-    "length": 10193
+    "length": 10193,
+    "words-split-spaces": 1603,
+    "words-split-regexp-words": 1611
   },
   {
     "file": "S050-l-avventura-di-una-bagnante.txt",
-    "length": 21333
+    "length": 21333,
+    "words-split-spaces": 3514,
+    "words-split-regexp-words": 3526
   },
   {
     "file": "S051-un-compagno-venuto-da-lontano.txt",
-    "length": 8251
+    "length": 8251,
+    "words-split-spaces": 1358,
+    "words-split-regexp-words": 1331
   },
   {
     "file": "S052-un-bel-gioco-dura-poco.txt",
-    "length": 11940
+    "length": 11940,
+    "words-split-spaces": 1943,
+    "words-split-regexp-words": 1919
   },
   {
     "file": "S053-funghi-in-citta.txt",
-    "length": 6506
+    "length": 6629,
+    "words-split-spaces": 1074,
+    "words-split-regexp-words": 1068
   },
   {
     "file": "S054-la-formica-argentina.txt",
-    "length": 71831
+    "length": 71831,
+    "words-split-spaces": 11967,
+    "words-split-regexp-words": 11769
   },
   {
     "file": "S055-il-piccione-comunale.txt",
-    "length": 4278
+    "length": 4278,
+    "words-split-spaces": 682,
+    "words-split-regexp-words": 683
   },
   {
     "file": "S056-la-pietanziera.txt",
-    "length": 7069
+    "length": 7069,
+    "words-split-spaces": 1161,
+    "words-split-regexp-words": 1156
   },
   {
     "file": "S057-gli-occhi-del-nemico.txt",
-    "length": 7070
+    "length": 7070,
+    "words-split-spaces": 1162,
+    "words-split-regexp-words": 1144
   },
   {
     "file": "S058-la-fabbrica-occupata.txt",
-    "length": 7735
+    "length": 7735,
+    "words-split-spaces": 1261,
+    "words-split-regexp-words": 1257
   },
   {
     "file": "S059-la-ragazza-licenziata.txt",
-    "length": 7919
+    "length": 7919,
+    "words-split-spaces": 1295,
+    "words-split-regexp-words": 1282
   },
   {
     "file": "S060-le-disgrazie-di-un-paese.txt",
-    "length": 6734
+    "length": 6734,
+    "words-split-spaces": 1075,
+    "words-split-regexp-words": 1080
   },
   {
     "file": "S061-il-bosco-sull-autostrada.txt",
-    "length": 5431
+    "length": 5431,
+    "words-split-spaces": 897,
+    "words-split-regexp-words": 890
   },
   {
     "file": "S062-la-cura-delle-vespe.txt",
-    "length": 8053
+    "length": 8053,
+    "words-split-spaces": 1291,
+    "words-split-regexp-words": 1291
   },
   {
     "file": "S063-la-storia-di-kim-ghi-u.txt",
-    "length": 10989
+    "length": 10989,
+    "words-split-spaces": 1814,
+    "words-split-regexp-words": 1826
   },
   {
     "file": "S064-paese-infido.txt",
-    "length": 17761
+    "length": 17761,
+    "words-split-spaces": 3006,
+    "words-split-regexp-words": 2940
   },
   {
     "file": "S065-gli-avanguardisti-a-mentone.txt",
-    "length": 51188
+    "length": 51188,
+    "words-split-spaces": 8320,
+    "words-split-regexp-words": 8269
   },
   {
     "file": "S066-l-aria-buona.txt",
-    "length": 7594
+    "length": 7594,
+    "words-split-spaces": 1257,
+    "words-split-regexp-words": 1217
   },
   {
     "file": "S067-l-entrata-in-guerra.txt",
-    "length": 27190
+    "length": 27190,
+    "words-split-spaces": 4478,
+    "words-split-regexp-words": 4453
   },
   {
     "file": "S068-l-avventura-di-un-impiegato.txt",
-    "length": 17132
+    "length": 17132,
+    "words-split-spaces": 2768,
+    "words-split-regexp-words": 2712
   },
   {
     "file": "S069-un-paese-disgraziato.txt",
-    "length": 5596
+    "length": 5596,
+    "words-split-spaces": 851,
+    "words-split-regexp-words": 866
   },
   {
     "file": "S070-il-generale-in-biblioteca.txt",
-    "length": 10429
+    "length": 10429,
+    "words-split-spaces": 1600,
+    "words-split-regexp-words": 1594
   },
   {
     "file": "S071-la-fabbrica-nella-montagna.txt",
-    "length": 10615
+    "length": 10615,
+    "words-split-spaces": 1716,
+    "words-split-regexp-words": 1700
   },
   {
     "file": "S072-le-notti-dell-unpa.txt",
-    "length": 39484
+    "length": 39484,
+    "words-split-spaces": 6448,
+    "words-split-regexp-words": 6361
   },
   {
     "file": "S073-la-bomba-addormentata-nel-bosco.txt",
-    "length": 8394
+    "length": 8394,
+    "words-split-spaces": 1353,
+    "words-split-regexp-words": 1350
   },
   {
     "file": "S074-liberta-liberta.txt",
-    "length": 4546
+    "length": 4546,
+    "words-split-spaces": 701,
+    "words-split-regexp-words": 702
   },
   {
     "file": "S075-i-mozzatori-di-nasi.txt",
-    "length": 3962
+    "length": 3962,
+    "words-split-spaces": 646,
+    "words-split-regexp-words": 644
   },
   {
     "file": "S076-dove-va-l-avvoltoio.txt",
-    "length": 4867
+    "length": 4867,
+    "words-split-spaces": 745,
+    "words-split-regexp-words": 767
   },
   {
     "file": "S077-il-dittatore.txt",
-    "length": 4114
+    "length": 4114,
+    "words-split-spaces": 635,
+    "words-split-regexp-words": 644
   },
   {
     "file": "S078-lo-jus-primae-noctis.txt",
-    "length": 7027
+    "length": 7027,
+    "words-split-spaces": 1167,
+    "words-split-regexp-words": 1134
   },
   {
     "file": "S079-l-adultera.txt",
-    "length": 6306
+    "length": 6306,
+    "words-split-spaces": 1056,
+    "words-split-regexp-words": 1044
   },
   {
     "file": "S080-la-lente-d-ingrandimento.txt",
-    "length": 4042
+    "length": 4042,
+    "words-split-spaces": 612,
+    "words-split-regexp-words": 613
   },
   {
     "file": "S081-i-marziani.txt",
-    "length": 4019
+    "length": 4019,
+    "words-split-spaces": 622,
+    "words-split-regexp-words": 613
   },
   {
     "file": "S082-la-domenica-delle-follie.txt",
-    "length": 6485
+    "length": 6485,
+    "words-split-spaces": 1040,
+    "words-split-regexp-words": 1048
   },
   {
     "file": "S083-il-coniglio-velenoso.txt",
-    "length": 16872
+    "length": 16872,
+    "words-split-spaces": 2803,
+    "words-split-regexp-words": 2755
   },
   {
     "file": "S084-l-avventura-di-un-fotografo.txt",
-    "length": 26301
+    "length": 26301,
+    "words-split-spaces": 4092,
+    "words-split-regexp-words": 4075
   },
   {
     "file": "S085-un-viaggio-con-le-mucche.txt",
-    "length": 8752
+    "length": 8752,
+    "words-split-spaces": 1439,
+    "words-split-regexp-words": 1438
   },
   {
     "file": "S086-luna-e-gnac.txt",
-    "length": 10513
+    "length": 10513,
+    "words-split-spaces": 1729,
+    "words-split-regexp-words": 1713
   },
   {
     "file": "S087-la-gran-bonaccia-delle-antille.txt",
-    "length": 8971
+    "length": 8971,
+    "words-split-spaces": 1458,
+    "words-split-regexp-words": 1449
   },
   {
     "file": "S088-la-speculazione-edilizia.txt",
-    "length": 168428
+    "length": 168428,
+    "words-split-spaces": 27518,
+    "words-split-regexp-words": 27115
   },
   {
     "file": "S089-dialogo-sul-satellite.txt",
-    "length": 8266
+    "length": 8266,
+    "words-split-spaces": 1340,
+    "words-split-regexp-words": 1318
   },
   {
     "file": "S090-monologo-notturno-d-un-nobile-scozzese.txt",
-    "length": 7421
+    "length": 7421,
+    "words-split-spaces": 1238,
+    "words-split-regexp-words": 1227
   },
   {
     "file": "S091-una-bella-giornata-di-marzo.txt",
-    "length": 6351
+    "length": 6351,
+    "words-split-spaces": 1101,
+    "words-split-regexp-words": 1086
   },
   {
     "file": "S092-la-gallina-di-reparto.txt",
-    "length": 17022
+    "length": 17022,
+    "words-split-spaces": 2752,
+    "words-split-regexp-words": 2761
   },
   {
     "file": "S093-la-notte-dei-numeri.txt",
-    "length": 21230
+    "length": 21230,
+    "words-split-spaces": 3553,
+    "words-split-regexp-words": 3490
   },
   {
     "file": "S094-l-avventura-di-un-lettore.txt",
-    "length": 29812
+    "length": 29812,
+    "words-split-spaces": 4938,
+    "words-split-regexp-words": 4886
   },
   {
     "file": "S095-la-nuvola-di-smog.txt",
-    "length": 101390
+    "length": 101390,
+    "words-split-spaces": 16490,
+    "words-split-regexp-words": 16413
   },
   {
     "file": "S096-la-signora-paulatim.txt",
-    "length": 15161
+    "length": 15161,
+    "words-split-spaces": 2253,
+    "words-split-regexp-words": 2206
   },
   {
     "file": "S097-l-avventura-di-un-viaggiatore.txt",
-    "length": 30293
+    "length": 30293,
+    "words-split-spaces": 4824,
+    "words-split-regexp-words": 4812
   },
   {
     "file": "S098-la-villeggiatura-in-panchina.txt",
-    "length": 14003
+    "length": 14003,
+    "words-split-spaces": 2221,
+    "words-split-regexp-words": 2269
   },
   {
     "file": "S099-va-cosi-che-vai-bene.txt",
-    "length": 27454
+    "length": 27454,
+    "words-split-spaces": 4598,
+    "words-split-regexp-words": 4532
   },
   {
     "file": "S100-un-letto-di-passaggio.txt",
-    "length": 10616
+    "length": 10616,
+    "words-split-spaces": 1773,
+    "words-split-regexp-words": 1750
   },
   {
     "file": "S101-l-avventura-di-un-miope.txt",
-    "length": 18975
+    "length": 18975,
+    "words-split-spaces": 3115,
+    "words-split-regexp-words": 3104
   },
   {
     "file": "S102-l-avventura-di-una-moglie.txt",
-    "length": 14457
+    "length": 14457,
+    "words-split-spaces": 2442,
+    "words-split-regexp-words": 2379
   },
   {
     "file": "S103-l-avventura-di-due-sposi.txt",
-    "length": 7814
+    "length": 7814,
+    "words-split-spaces": 1339,
+    "words-split-regexp-words": 1344
   },
   {
     "file": "S104-l-avventura-di-un-poeta.txt",
-    "length": 11830
+    "length": 11830,
+    "words-split-spaces": 1943,
+    "words-split-regexp-words": 1936
   },
   {
     "file": "S105-l-avventura-di-uno-sciatore.txt",
-    "length": 13850
+    "length": 13850,
+    "words-split-spaces": 2331,
+    "words-split-regexp-words": 2329
   },
   {
     "file": "S106-la-strada-di-san-giovanni.txt",
-    "length": 83344
+    "length": 39296,
+    "words-split-spaces": 6583,
+    "words-split-regexp-words": 6531
   },
   {
-    "file": "S107-diario-in-clinica.txt",
-    "length": 10815
+    "file": "S107-ENCODING SBAGLIATO-diario-in-clinica.txt",
+    "length": 10815,
+    "words-split-spaces": 1774,
+    "words-split-regexp-words": 1790
+  },
+  {
+    "file": "S107-diario-in-clinica (1).txt",
+    "length": 10816,
+    "words-split-spaces": 1774,
+    "words-split-regexp-words": 1738
   },
   {
     "file": "S108-marcovaldo-al-supermarket.txt",
-    "length": 10606
+    "length": 10606,
+    "words-split-spaces": 1707,
+    "words-split-regexp-words": 1729
   },
   {
     "file": "S109-la-pioggia-e-le-foglie.txt",
-    "length": 12518
+    "length": 12518,
+    "words-split-spaces": 1982,
+    "words-split-regexp-words": 2044
   },
   {
     "file": "S110-la-fermata-sbagliata.txt",
-    "length": 13030
+    "length": 13030,
+    "words-split-spaces": 2025,
+    "words-split-regexp-words": 2071
   },
   {
     "file": "S111-fumo-vento-e-bolle-di-sapone.txt",
-    "length": 12414
+    "length": 12414,
+    "words-split-spaces": 1914,
+    "words-split-regexp-words": 1970
   },
   {
     "file": "S112-un-sabato-di-sole-sabbia-e-sonno.txt",
-    "length": 7838
+    "length": 7838,
+    "words-split-spaces": 1258,
+    "words-split-regexp-words": 1288
   },
   {
     "file": "S113-la-citta-tutta-per-lui.txt",
-    "length": 6089
+    "length": 6089,
+    "words-split-spaces": 917,
+    "words-split-regexp-words": 943
   },
   {
     "file": "S114-il-giardino-dei-gatti-ostinati.txt",
-    "length": 20899
+    "length": 20899,
+    "words-split-spaces": 3324,
+    "words-split-regexp-words": 3373
   },
   {
     "file": "S115-i-figli-di-babbo-natale.txt",
-    "length": 15228
+    "length": 15228,
+    "words-split-spaces": 2340,
+    "words-split-regexp-words": 2409
   },
   {
     "file": "S116-dov-e-piu-azzurro-il-fiume.txt",
-    "length": 5787
+    "length": 5787,
+    "words-split-spaces": 942,
+    "words-split-regexp-words": 964
   },
   {
     "file": "S117-la-citta-smarrita-nella-neve.txt",
-    "length": 8741
+    "length": 8741,
+    "words-split-spaces": 1425,
+    "words-split-regexp-words": 1464
   },
   {
     "file": "S118-la-distanza-della-luna.txt",
-    "length": 29733
+    "length": 29733,
+    "words-split-spaces": 4980,
+    "words-split-regexp-words": 4966
   },
   {
     "file": "S119-sul-far-del-giorno.txt",
-    "length": 19463
+    "length": 19463,
+    "words-split-spaces": 3284,
+    "words-split-regexp-words": 3249
   },
   {
     "file": "S120-un-segno-nello-spazio.txt",
-    "length": 19237
+    "length": 19237,
+    "words-split-spaces": 3240,
+    "words-split-regexp-words": 3241
   },
   {
     "file": "S121-tutto-in-un-punto.txt",
-    "length": 9490
+    "length": 9490,
+    "words-split-spaces": 1592,
+    "words-split-regexp-words": 1592
   },
   {
     "file": "S122-senza-colori.txt",
-    "length": 18946
+    "length": 18946,
+    "words-split-spaces": 3128,
+    "words-split-regexp-words": 3109
   },
   {
     "file": "S123-fino-a-che-dura-il-sole.txt",
-    "length": 14692
+    "length": 14692,
+    "words-split-spaces": 2490,
+    "words-split-regexp-words": 2447
   },
   {
     "file": "S124-lo-zio-acquatico.txt",
-    "length": 21396
+    "length": 21396,
+    "words-split-spaces": 3587,
+    "words-split-regexp-words": 3546
   },
   {
     "file": "S125-la-luna-come-un-fungo.txt",
-    "length": 16925
+    "length": 16925,
+    "words-split-spaces": 2793,
+    "words-split-regexp-words": 2764
   },
   {
     "file": "S126-giochi-senza-fine.txt",
-    "length": 11691
+    "length": 11691,
+    "words-split-spaces": 1959,
+    "words-split-regexp-words": 1963
   },
   {
     "file": "S127-i-meteoriti.txt",
-    "length": 17758
+    "length": 17758,
+    "words-split-spaces": 2835,
+    "words-split-regexp-words": 2829
+  },
+  {
+    "file": "S128-NUOVO-ENCODING-la-forma-dello-spazio.txt",
+    "length": 20408,
+    "words-split-spaces": 3338,
+    "words-split-regexp-words": 3326
   },
   {
     "file": "S128-la-forma-dello-spazio.txt",
-    "length": 15776
+    "length": 20408,
+    "words-split-spaces": 3338,
+    "words-split-regexp-words": 3326
   },
   {
     "file": "S129-quanto-scommettiamo.txt",
-    "length": 16962
+    "length": 16962,
+    "words-split-spaces": 2742,
+    "words-split-regexp-words": 2758
   },
   {
     "file": "S130-i-dinosauri.txt",
-    "length": 32538
+    "length": 32538,
+    "words-split-spaces": 5375,
+    "words-split-regexp-words": 5324
   },
   {
     "file": "S131-gli-anni-luce.txt",
-    "length": 26660
+    "length": 26660,
+    "words-split-spaces": 4259,
+    "words-split-regexp-words": 4258
   },
   {
     "file": "S132-la-spirale.txt",
-    "length": 27755
+    "length": 27755,
+    "words-split-spaces": 4652,
+    "words-split-regexp-words": 4655
   },
   {
     "file": "S133-ti-con-zero.txt",
-    "length": 27727
+    "length": 27727,
+    "words-split-spaces": 4695,
+    "words-split-regexp-words": 4702
   },
   {
     "file": "S134-i-mitosi.txt",
-    "length": 27482
+    "length": 27482,
+    "words-split-spaces": 4558,
+    "words-split-regexp-words": 4533
   },
   {
     "file": "S135-l-inseguimento.txt",
-    "length": 26513
+    "length": 26513,
+    "words-split-spaces": 4316,
+    "words-split-regexp-words": 4270
   },
   {
     "file": "S136-i-cristalli.txt",
-    "length": 15771
+    "length": 15771,
+    "words-split-spaces": 2535,
+    "words-split-regexp-words": 2491
   },
   {
     "file": "S137-l-origine-degli-uccelli.txt",
-    "length": 21376
+    "length": 21376,
+    "words-split-spaces": 3473,
+    "words-split-regexp-words": 3453
   },
   {
     "file": "S138-la-memoria-del-mondo.txt",
-    "length": 13732
+    "length": 13732,
+    "words-split-spaces": 2184,
+    "words-split-regexp-words": 2143
   },
   {
     "file": "S139-il-sangue-il-mare.txt",
-    "length": 21043
+    "length": 21043,
+    "words-split-spaces": 3509,
+    "words-split-regexp-words": 3479
   },
   {
     "file": "S140-il-guidatore-notturno.txt",
-    "length": 14578
+    "length": 14578,
+    "words-split-spaces": 2506,
+    "words-split-regexp-words": 2469
   },
   {
     "file": "S141-la-molle-luna.txt",
-    "length": 16603
+    "length": 16603,
+    "words-split-spaces": 2707,
+    "words-split-regexp-words": 2659
   },
   {
     "file": "S142-ii-meiosi.txt",
-    "length": 18954
+    "length": 18954,
+    "words-split-spaces": 3183,
+    "words-split-regexp-words": 3138
   },
   {
     "file": "S143-iii-morte.txt",
-    "length": 9299
+    "length": 9299,
+    "words-split-spaces": 1529,
+    "words-split-regexp-words": 1516
   },
   {
     "file": "S144-il-conte-di-montecristo.txt",
-    "length": 22375
+    "length": 22375,
+    "words-split-spaces": 3620,
+    "words-split-regexp-words": 3620
   },
   {
     "file": "S145-le-figlie-della-luna.txt",
-    "length": 23452
+    "length": 23452,
+    "words-split-spaces": 3777,
+    "words-split-regexp-words": 3792
   },
   {
     "file": "S146-il-cielo-di-pietra.txt",
-    "length": 13895
+    "length": 13895,
+    "words-split-spaces": 2249,
+    "words-split-regexp-words": 2240
   },
   {
     "file": "S147-tempesta-solare.txt",
-    "length": 18603
+    "length": 18603,
+    "words-split-spaces": 2995,
+    "words-split-regexp-words": 2945
   },
   {
     "file": "S148-le-conchiglie-e-il-tempo.txt",
-    "length": 7831
+    "length": 7831,
+    "words-split-spaces": 1258,
+    "words-split-regexp-words": 1259
   },
   {
     "file": "S149-la-decapitazione-dei-capi.txt",
-    "length": 25519
+    "length": 25519,
+    "words-split-spaces": 4046,
+    "words-split-regexp-words": 3973
   },
   {
     "file": "S150-dall-opaco.txt",
-    "length": 22085
+    "length": 22085,
+    "words-split-spaces": 3754,
+    "words-split-regexp-words": 3743
   },
   {
     "file": "S151-il-nome-il-naso.txt",
-    "length": 25010
+    "length": 25010,
+    "words-split-spaces": 4251,
+    "words-split-regexp-words": 4244
   },
   {
     "file": "S152-la-taverna-dei-destini-incrociati.txt",
-    "length": 98779
+    "length": 98779,
+    "words-split-spaces": 16348,
+    "words-split-regexp-words": 16208
   },
   {
     "file": "S152-la-taverna-dei-destini-incrociati_spaces.txt",
-    "length": 98848
+    "length": 98848,
+    "words-split-spaces": 16348,
+    "words-split-regexp-words": 16208
   },
   {
     "file": "S153-ricordo-di-una-battaglia.txt",
-    "length": 15654
+    "length": 15654,
+    "words-split-spaces": 2642,
+    "words-split-regexp-words": 2629
   },
   {
     "file": "S154-autobiografia-di-uno-spettatore.txt",
-    "length": 44046
+    "length": 44046,
+    "words-split-spaces": 6994,
+    "words-split-regexp-words": 6965
   },
   {
     "file": "S155-la-pompa-di-benzina.txt",
-    "length": 12331
+    "length": 12331,
+    "words-split-spaces": 2000,
+    "words-split-regexp-words": 1987
   },
   {
     "file": "S156-la-glaciazione.txt",
-    "length": 6231
+    "length": 6231,
+    "words-split-spaces": 1026,
+    "words-split-regexp-words": 1021
   },
   {
     "file": "S157-l-uomo-di-neanderthal.txt",
-    "length": 15168
+    "length": 15168,
+    "words-split-spaces": 2590,
+    "words-split-regexp-words": 2548
   },
   {
     "file": "S158-montezuma.txt",
-    "length": 20699
+    "length": 20699,
+    "words-split-spaces": 3387,
+    "words-split-regexp-words": 3362
   },
   {
     "file": "S159-prima-che-tu-dica-pronto.txt",
-    "length": 16064
+    "length": 16064,
+    "words-split-spaces": 2603,
+    "words-split-regexp-words": 2586
   },
   {
     "file": "S160-la-corsa-delle-giraffe.txt",
-    "length": 2780
+    "length": 2780,
+    "words-split-spaces": 452,
+    "words-split-regexp-words": 451
   },
   {
     "file": "S161-del-modersi-la-lingua.txt",
-    "length": 3124
+    "length": 3124,
+    "words-split-spaces": 532,
+    "words-split-regexp-words": 525
   },
   {
     "file": "S162-il-fischio-del-merlo.txt",
-    "length": 9784
+    "length": 9784,
+    "words-split-spaces": 1587,
+    "words-split-regexp-words": 1572
   },
   {
     "file": "S163-del-prendersela-coi-giovani.txt",
-    "length": 3072
+    "length": 3072,
+    "words-split-spaces": 494,
+    "words-split-regexp-words": 496
   },
   {
     "file": "S164-lettura-di-un-onda.txt",
-    "length": 8420
+    "length": 8420,
+    "words-split-spaces": 1361,
+    "words-split-regexp-words": 1357
   },
   {
     "file": "S165-la-pantofola-spaiata.txt",
-    "length": 2992
+    "length": 2992,
+    "words-split-spaces": 479,
+    "words-split-regexp-words": 477
   },
   {
     "file": "S166-un-chilo-e-mezzo-di-grasso-d-oca.txt",
-    "length": 4952
+    "length": 4952,
+    "words-split-spaces": 792,
+    "words-split-regexp-words": 801
   },
   {
     "file": "S167-altre-citta.txt",
-    "length": 6749
+    "length": 6749,
+    "words-split-spaces": 1148,
+    "words-split-regexp-words": 1151
   },
   {
     "file": "S168-serpenti-e-teschi.txt",
-    "length": 5772
+    "length": 5772,
+    "words-split-spaces": 927,
+    "words-split-regexp-words": 925
   },
   {
     "file": "S169-il-richiamo-dell-acqua.txt",
-    "length": 8736
+    "length": 8736,
+    "words-split-spaces": 1387,
+    "words-split-regexp-words": 1387
   },
   {
     "file": "S170-l-aiola-di-sabbia.txt",
-    "length": 5037
+    "length": 5037,
+    "words-split-spaces": 767,
+    "words-split-regexp-words": 767
   },
   {
     "file": "S171-la-poubelle-agreee.txt",
-    "length": 41079
+    "length": 41079,
+    "words-split-spaces": 6522,
+    "words-split-regexp-words": 6458
   },
   {
     "file": "S172-il-seno-nudo.txt",
-    "length": 5137
+    "length": 5137,
+    "words-split-spaces": 803,
+    "words-split-regexp-words": 797
   },
   {
     "file": "S173-il-crollo-del-tempo.txt",
-    "length": 8431
+    "length": 8431,
+    "words-split-spaces": 1395,
+    "words-split-regexp-words": 1398
   },
   {
     "file": "S174-parafrasi.txt",
-    "length": 3825
+    "length": 3825,
+    "words-split-spaces": 615,
+    "words-split-regexp-words": 613
   },
   {
     "file": "S175-lo-specchio-e-il-bersaglio.txt",
-    "length": 12906
+    "length": 12906,
+    "words-split-spaces": 2050,
+    "words-split-regexp-words": 2051
   },
   {
     "file": "S176-la-coscienza-a-posto.txt",
-    "length": 7552
+    "length": 7552,
+    "words-split-spaces": 1166,
+    "words-split-regexp-words": 1173
   },
   {
     "file": "S177-quattro-favole-d-esopo-per-valerio-adami.txt",
-    "length": 7490
+    "length": 7490,
+    "words-split-spaces": 1266,
+    "words-split-regexp-words": 1261
   },
   {
     "file": "S178-il-gorilla-albino.txt",
-    "length": 4684
+    "length": 4684,
+    "words-split-spaces": 769,
+    "words-split-regexp-words": 764
   },
   {
     "file": "S179-l-altra-euridice.txt",
-    "length": 16915
+    "length": 16915,
+    "words-split-spaces": 2734,
+    "words-split-regexp-words": 2733
   },
   {
     "file": "S180-essere-pietra-per-alberto-magnelli.txt",
-    "length": 4167
+    "length": 4167,
+    "words-split-spaces": 669,
+    "words-split-regexp-words": 668
   },
   {
     "file": "S181-le-memorie-di-casanova.txt",
-    "length": 18849
+    "length": 18849,
+    "words-split-spaces": 3022,
+    "words-split-regexp-words": 3059
   },
   {
     "file": "S182-l-invasione-degli-storni.txt",
-    "length": 9054
+    "length": 9054,
+    "words-split-spaces": 1458,
+    "words-split-regexp-words": 1450
   },
   {
     "file": "S183-il-silenzio-e-la-citta.txt",
-    "length": 12343
+    "length": 12343,
+    "words-split-spaces": 1976,
+    "words-split-regexp-words": 1976
   },
   {
     "file": "S184-l-occhio-e-i-pianeti.txt",
-    "length": 8184
+    "length": 8184,
+    "words-split-spaces": 1308,
+    "words-split-regexp-words": 1305
   },
   {
     "file": "S185-sapore-sapere.txt",
-    "length": 41220
+    "length": 41220,
+    "words-split-spaces": 6320,
+    "words-split-regexp-words": 6404
   },
   {
     "file": "S186-il-mondo-guarda-il-mondo.txt",
-    "length": 3938
+    "length": 3938,
+    "words-split-spaces": 671,
+    "words-split-regexp-words": 664
   },
   {
     "file": "S187-la-pancia-del-geco.txt",
-    "length": 6400
+    "length": 6400,
+    "words-split-spaces": 1040,
+    "words-split-regexp-words": 1043
   },
   {
     "file": "S188-quattro-studi-dal-vero.txt",
-    "length": 14889
+    "length": 14889,
+    "words-split-spaces": 2323,
+    "words-split-regexp-words": 2307
   },
   {
     "file": "S189-viaggio-nelle-citta-di-de-chirico.txt",
-    "length": 17663
+    "length": 17663,
+    "words-split-spaces": 2908,
+    "words-split-regexp-words": 2883
   },
   {
     "file": "S190-la-spada-del-sole.txt",
-    "length": 9267
+    "length": 9267,
+    "words-split-spaces": 1551,
+    "words-split-regexp-words": 1540
   },
   {
     "file": "S191-la-contemplazione-delle-stelle.txt",
-    "length": 8612
+    "length": 8612,
+    "words-split-spaces": 1397,
+    "words-split-regexp-words": 1384
   },
   {
     "file": "S192-gli-amori-delle-tartarughe.txt",
-    "length": 3998
+    "length": 3998,
+    "words-split-spaces": 652,
+    "words-split-regexp-words": 644
   },
   {
     "file": "S193-il-prato-infinito.txt",
-    "length": 6978
+    "length": 6978,
+    "words-split-spaces": 1120,
+    "words-split-regexp-words": 1113
   },
   {
     "file": "S194-luna-di-pomeriggio.txt",
-    "length": 4615
+    "length": 4615,
+    "words-split-spaces": 783,
+    "words-split-regexp-words": 767
   },
   {
     "file": "S195-dal-terrazzo.txt",
-    "length": 7605
+    "length": 7605,
+    "words-split-spaces": 1207,
+    "words-split-regexp-words": 1202
   },
   {
     "file": "S196-il-museo-dei-formaggi.txt",
-    "length": 6229
+    "length": 6229,
+    "words-split-spaces": 970,
+    "words-split-regexp-words": 964
   },
   {
     "file": "S197-il-marmo-e-il-sangue.txt",
-    "length": 4138
+    "length": 4138,
+    "words-split-spaces": 638,
+    "words-split-regexp-words": 638
   },
   {
     "file": "S198-l-ordine-degli-squamati.txt",
-    "length": 6634
+    "length": 6634,
+    "words-split-spaces": 1065,
+    "words-split-regexp-words": 1056
   },
   {
     "file": "S199-il-modello-dei-modelli.txt",
-    "length": 6836
+    "length": 6836,
+    "words-split-spaces": 1080,
+    "words-split-regexp-words": 1074
   },
   {
     "file": "S200-l-universo-come-specchio.txt",
-    "length": 7002
+    "length": 7002,
+    "words-split-spaces": 1125,
+    "words-split-regexp-words": 1115
   },
   {
     "file": "S201-come-imparare-a-essere-morto.txt",
-    "length": 9295
+    "length": 9295,
+    "words-split-spaces": 1554,
+    "words-split-regexp-words": 1539
   },
   {
     "file": "S202-l-ultimo-canale.txt",
-    "length": 12804
+    "length": 12804,
+    "words-split-spaces": 2099,
+    "words-split-regexp-words": 2076
   },
   {
     "file": "S203-il-ricordo-e-bendato.txt",
-    "length": 11582
+    "length": 11582,
+    "words-split-spaces": 1867,
+    "words-split-regexp-words": 1850
   },
   {
     "file": "S204-un-re-in-ascolto.txt",
-    "length": 46528
+    "length": 46528,
+    "words-split-spaces": 7658,
+    "words-split-regexp-words": 7631
   },
   {
     "file": "S205-il-niente-e-il-poco.txt",
-    "length": 15867
+    "length": 15867,
+    "words-split-spaces": 2523,
+    "words-split-regexp-words": 2505
   },
   {
     "file": "S206-l-implosione.txt",
-    "length": 9364
+    "length": 9364,
+    "words-split-spaces": 1471,
+    "words-split-regexp-words": 1443
   },
   {
     "file": "V001-il-sentiero-dei-nidi-di-ragno.txt",
-    "length": 249888
+    "length": 249888,
+    "words-split-spaces": 41704,
+    "words-split-regexp-words": 42728
   },
   {
     "file": "V003-il-visconte-dimezzato.txt",
-    "length": 138103
+    "length": 138103,
+    "words-split-spaces": 22316,
+    "words-split-regexp-words": 22949
   },
   {
     "file": "V005-il-barone-rampante.txt",
-    "length": 416815
+    "length": 416815,
+    "words-split-spaces": 67577,
+    "words-split-regexp-words": 69150
   },
   {
     "file": "V007-la-formica-argentina.txt",
-    "length": 71854
+    "length": 71854,
+    "words-split-spaces": 11969,
+    "words-split-regexp-words": 11772
   },
   {
     "file": "V008-il-cavaliere-inesistente.txt",
-    "length": 197268
+    "length": 197268,
+    "words-split-spaces": 31349,
+    "words-split-regexp-words": 32011
   },
   {
     "file": "V009-la-giornata-di-uno-scrutatore.txt",
-    "length": 121328
+    "length": 121328,
+    "words-split-spaces": 19647,
+    "words-split-regexp-words": 19412
   },
   {
     "file": "V010-la-speculazione-edilizia.txt",
-    "length": 191068
+    "length": 191068,
+    "words-split-spaces": 31048,
+    "words-split-regexp-words": 30656
   },
   {
     "file": "V016-il-castello-dei-destini-incrociati.txt",
-    "length": 62895
+    "length": 62895,
+    "words-split-spaces": 10138,
+    "words-split-regexp-words": 10094
   },
   {
     "file": "V018-le-citta-invisibili.txt",
-    "length": 146738
+    "length": 146738,
+    "words-split-spaces": 24327,
+    "words-split-regexp-words": 24026
+  },
+  {
+    "file": "V020-eremita-a-parigi (1).txt",
+    "length": 16246,
+    "words-split-spaces": 2702,
+    "words-split-regexp-words": 2686
   },
   {
     "file": "V020-eremita-a-parigi.txt",
-    "length": 430338
+    "length": 16246,
+    "words-split-spaces": 2702,
+    "words-split-regexp-words": 2686
   },
   {
     "file": "V021-se-una-notte-d-inverno-un-viaggiatore.txt",
-    "length": 458335
+    "length": 458335,
+    "words-split-spaces": 74434,
+    "words-split-regexp-words": 73513
   },
   {
     "file": "__Allez-hop.txt",
-    "length": 8468
+    "length": 8468,
+    "words-split-spaces": 1342,
+    "words-split-regexp-words": 1426
   },
   {
     "file": "__Arie per l’opera buffa Il visconte dimezzato.txt",
-    "length": 3959
+    "length": 3959,
+    "words-split-spaces": 539,
+    "words-split-regexp-words": 678
   },
   {
     "file": "__Chi si contenta.txt",
-    "length": 1405
+    "length": 1405,
+    "words-split-spaces": 227,
+    "words-split-regexp-words": 228
   },
   {
     "file": "__Coscienza.txt",
-    "length": 2987
+    "length": 2987,
+    "words-split-spaces": 527,
+    "words-split-regexp-words": 514
   },
   {
     "file": "__Disorganizzazione.txt",
-    "length": 1720
+    "length": 1720,
+    "words-split-spaces": 288,
+    "words-split-regexp-words": 274
   },
   {
     "file": "__Dove vola l’avvoltoio?.txt",
-    "length": 1948
+    "length": 1948,
+    "words-split-spaces": 258,
+    "words-split-regexp-words": 328
   },
   {
     "file": "__Fiume asciutto.txt",
-    "length": 7943
+    "length": 7943,
+    "words-split-spaces": 1297,
+    "words-split-regexp-words": 1316
   },
   {
     "file": "__Il giudice sul mulo.txt",
-    "length": 4710
+    "length": 4710,
+    "words-split-spaces": 840,
+    "words-split-regexp-words": 806
   },
   {
     "file": "__Il lampo.txt",
-    "length": 2066
+    "length": 2066,
+    "words-split-spaces": 339,
+    "words-split-regexp-words": 333
   },
   {
     "file": "__Il naufrago Valdemaro.txt",
-    "length": 11775
+    "length": 11775,
+    "words-split-spaces": 1852,
+    "words-split-regexp-words": 1895
   },
   {
     "file": "__Il padrone del mondo.txt",
-    "length": 1120
+    "length": 1120,
+    "words-split-spaces": 181,
+    "words-split-regexp-words": 201
   },
   {
     "file": "__Il profeta muto.txt",
-    "length": 2805
+    "length": 2805,
+    "words-split-spaces": 486,
+    "words-split-regexp-words": 496
   },
   {
     "file": "__Importanza di ognuno.txt",
-    "length": 3822
+    "length": 3822,
+    "words-split-spaces": 722,
+    "words-split-regexp-words": 677
   },
   {
     "file": "__La caduta di Sparta.txt",
-    "length": 3903
+    "length": 3903,
+    "words-split-spaces": 629,
+    "words-split-regexp-words": 624
   },
   {
     "file": "__La fila.txt",
-    "length": 2420
+    "length": 2420,
+    "words-split-spaces": 416,
+    "words-split-regexp-words": 414
   },
   {
     "file": "__La serva.txt",
-    "length": 1482
+    "length": 1482,
+    "words-split-spaces": 251,
+    "words-split-regexp-words": 252
   },
   {
     "file": "__La siepe.txt",
-    "length": 1940
+    "length": 1940,
+    "words-split-spaces": 307,
+    "words-split-regexp-words": 320
   },
   {
     "file": "__La tigre.txt",
-    "length": 1139
+    "length": 1139,
+    "words-split-spaces": 164,
+    "words-split-regexp-words": 197
   },
   {
     "file": "__La tribu con gli occhi al cielo.txt",
-    "length": 5321
+    "length": 5321,
+    "words-split-spaces": 875,
+    "words-split-regexp-words": 872
   },
   {
     "file": "__Lo spaventapasseri e il poeta.txt",
-    "length": 8920
+    "length": 8920,
+    "words-split-spaces": 1443,
+    "words-split-regexp-words": 1464
   },
   {
     "file": "__L’autista incerto.txt",
-    "length": 1737
+    "length": 1737,
+    "words-split-spaces": 296,
+    "words-split-regexp-words": 270
   },
   {
     "file": "__L’uomo che chiamava Teresa.txt",
-    "length": 2835
+    "length": 2835,
+    "words-split-spaces": 474,
+    "words-split-regexp-words": 475
   },
   {
     "file": "__L’uomo delle palafitte.txt",
-    "length": 3260
+    "length": 3260,
+    "words-split-spaces": 519,
+    "words-split-regexp-words": 511
   },
   {
     "file": "__Non fidarsi è meglio.txt",
-    "length": 2985
+    "length": 2985,
+    "words-split-spaces": 541,
+    "words-split-regexp-words": 515
   },
   {
     "file": "__Oltre il ponte.txt",
-    "length": 1489
+    "length": 1489,
+    "words-split-spaces": 210,
+    "words-split-regexp-words": 250
   },
   {
     "file": "__Per Un re in ascolto di Berio- arie di Prospero.txt",
-    "length": 2794
+    "length": 2794,
+    "words-split-spaces": 433,
+    "words-split-regexp-words": 498
   },
   {
     "file": "__Per Un re in ascolto di Berio- coro di congiurati.txt",
-    "length": 635
+    "length": 635,
+    "words-split-spaces": 80,
+    "words-split-regexp-words": 99
   },
   {
     "file": "__Per Un re in ascolto di Berio- libretto originale 1979.txt",
-    "length": 34279
+    "length": 34279,
+    "words-split-spaces": 5515,
+    "words-split-regexp-words": 5521
   },
   {
     "file": "__Per Un re in ascolto di Berio- trattamento 1980 .txt",
-    "length": 3792
+    "length": 3792,
+    "words-split-spaces": 597,
+    "words-split-regexp-words": 615
   },
   {
     "file": "__Solidarietà.txt",
-    "length": 3569
+    "length": 3569,
+    "words-split-spaces": 625,
+    "words-split-regexp-words": 602
   },
   {
     "file": "__Sul verde fiume Po.txt",
-    "length": 3444
+    "length": 3444,
+    "words-split-spaces": 506,
+    "words-split-regexp-words": 623
   },
   {
     "file": "__Ti con Zero Parte seconda Priscilla.txt",
-    "length": 5635
+    "length": 5635,
+    "words-split-spaces": 888,
+    "words-split-regexp-words": 889
   },
   {
     "file": "__Tikò e il pescecane.txt",
-    "length": 27253
+    "length": 27253,
+    "words-split-spaces": 4554,
+    "words-split-regexp-words": 4487
   },
   {
     "file": "__Turin-la-nuit o Rome by night.txt",
-    "length": 850
+    "length": 850,
+    "words-split-spaces": 102,
+    "words-split-regexp-words": 133
   },
   {
     "file": "__Un dio sul pero.txt",
-    "length": 5575
+    "length": 5575,
+    "words-split-spaces": 965,
+    "words-split-regexp-words": 938
   },
   {
     "file": "__amore lontano da casa.txt",
-    "length": 14886
+    "length": 14886,
+    "words-split-spaces": 2538,
+    "words-split-regexp-words": 2490
   },
   {
     "file": "__canzone triste.txt",
-    "length": 697
+    "length": 697,
+    "words-split-spaces": 106,
+    "words-split-regexp-words": 122
   },
   {
     "file": "__dall-u-2.txt",
-    "length": 1173
+    "length": 1173,
+    "words-split-spaces": 168,
+    "words-split-regexp-words": 192
   },
   {
     "file": "__georges perec oulipien.txt",
-    "length": 639
+    "length": 639,
+    "words-split-spaces": 89,
+    "words-split-regexp-words": 105
   },
   {
     "file": "__giuda.txt",
-    "length": 2313
+    "length": 2313,
+    "words-split-spaces": 388,
+    "words-split-regexp-words": 391
   },
   {
     "file": "__henry ford.txt",
-    "length": 33345
+    "length": 33345,
+    "words-split-spaces": 5294,
+    "words-split-regexp-words": 5228
   },
   {
     "file": "__hommes illustres +7.txt",
-    "length": 2034
+    "length": 2034,
+    "words-split-spaces": 356,
+    "words-split-regexp-words": 362
   },
   {
     "file": "__i disegni arrabbiati.txt",
-    "length": 7349
+    "length": 7349,
+    "words-split-spaces": 1218,
+    "words-split-regexp-words": 1207
   },
   {
     "file": "__i fratelli di caponero.txt",
-    "length": 81345
+    "length": 81345,
+    "words-split-spaces": 13951,
+    "words-split-regexp-words": 14379
   },
   {
     "file": "__il drago e le farfalle.txt",
-    "length": 8774
+    "length": 8774,
+    "words-split-spaces": 1442,
+    "words-split-regexp-words": 1431
   },
   {
     "file": "__il funerale.txt",
-    "length": 3217
+    "length": 3217,
+    "words-split-spaces": 525,
+    "words-split-regexp-words": 537
   },
   {
     "file": "__incendio nella casa abominevole.txt",
-    "length": 26986
+    "length": 26986,
+    "words-split-spaces": 4091,
+    "words-split-regexp-words": 4062
   },
   {
     "file": "__l'ussaro e la luna.txt",
-    "length": 8534
+    "length": 8534,
+    "words-split-spaces": 1353,
+    "words-split-regexp-words": 1352
   },
   {
     "file": "__la città abbandonata.txt",
-    "length": 13477
+    "length": 13477,
+    "words-split-spaces": 2086,
+    "words-split-regexp-words": 2172
   },
   {
     "file": "__la foresta radice labirinto.txt",
-    "length": 19266
+    "length": 19266,
+    "words-split-spaces": 3203,
+    "words-split-regexp-words": 3140
   },
   {
     "file": "__la panchina.txt",
-    "length": 18408
+    "length": 18408,
+    "words-split-spaces": 2468,
+    "words-split-regexp-words": 2929
   },
   {
     "file": "__la pecora nera.txt",
-    "length": 3398
+    "length": 3398,
+    "words-split-spaces": 579,
+    "words-split-regexp-words": 592
   },
   {
     "file": "__la vera storia.txt",
-    "length": 15289
+    "length": 15289,
+    "words-split-spaces": 2241,
+    "words-split-regexp-words": 2584
   },
   {
     "file": "__le porte di bagdad.txt",
-    "length": 7179
+    "length": 7179,
+    "words-split-spaces": 1084,
+    "words-split-regexp-words": 1122
   },
   {
     "file": "__le tre isole lontane.txt",
-    "length": 14096
+    "length": 14096,
+    "words-split-spaces": 2334,
+    "words-split-regexp-words": 2325
   },
   {
     "file": "__marco polo.txt",
-    "length": 124090
+    "length": 124090,
+    "words-split-spaces": 20945,
+    "words-split-regexp-words": 20849
   },
   {
     "file": "__piccolo sillabario illustrato.txt",
-    "length": 5566
+    "length": 5566,
+    "words-split-spaces": 844,
+    "words-split-regexp-words": 863
   },
   {
     "file": "__poesia a lipogrammi vocalici progressivi.txt",
-    "length": 335
+    "length": 335,
+    "words-split-spaces": 39,
+    "words-split-regexp-words": 45
   },
   {
     "file": "__ricevimento al castello del bardbaj.txt",
-    "length": 5849
+    "length": 5849,
+    "words-split-spaces": 892,
+    "words-split-regexp-words": 906
   },
   {
     "file": "__tre soldati e un generale.txt",
-    "length": 12259
+    "length": 12259,
+    "words-split-spaces": 1998,
+    "words-split-regexp-words": 1990
   },
   {
     "file": "__tutte bugie.txt",
-    "length": 4139
+    "length": 4139,
+    "words-split-spaces": 663,
+    "words-split-regexp-words": 694
   },
   {
     "file": "__vento in una citta.txt",
-    "length": 12663
+    "length": 12663,
+    "words-split-spaces": 2222,
+    "words-split-regexp-words": 2167
   },
   {
     "file": "__viaggio in camion.txt",
-    "length": 17859
+    "length": 17859,
+    "words-split-spaces": 3013,
+    "words-split-regexp-words": 3019
   },
   {
     "file": "__visitando necropoli con donne.txt",
-    "length": 363
+    "length": 363,
+    "words-split-spaces": 46,
+    "words-split-regexp-words": 58
   },
   {
     "file": "__zaide.txt",
-    "length": 33290
+    "length": 33290,
+    "words-split-spaces": 5094,
+    "words-split-regexp-words": 5343
   }
 ]

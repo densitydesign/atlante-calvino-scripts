@@ -18,13 +18,18 @@ fs.readdirSync(directory_of_txt).forEach(file => {
 })
 
 files.forEach(file => {
-  let length = fs.readFileSync(`${directory_of_txt}/${file}`).toString().length;
-  // console.log(file, length);
+  let text = fs.readFileSync(`${directory_of_txt}/${file}`).toString();
+  let length = text.length;
+  let words = text.split(' ').length;
+  let words2 = text.match(/[\w\d\’\'-]+/gi).length; // things such as "l’Università" count as 1 word"
   let obj = {
     'file': file,
-    'length': length
+    'length': length,
+    'words-split-spaces': words,
+    'words-split-regexp-words': words2
   }
-  output.push(obj)
+  console.log(obj);
+  output.push(obj);
 })
 
 fs.writeFileSync(output_file, JSON.stringify(output,null,2));
