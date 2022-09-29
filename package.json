@@ -18,7 +18,7 @@
   "homepage": "https://github.com/densitydesign/atlante-calvino-scripts#readme",
   "dependencies": {
     "colors": "^1.2.1",
-    "d3": "^5.1.0",
+    "d3": "^7.6.1",
     "json2csv": "^4.5.1",
     "lodash": "^4.17.10",
     "xls-to-json": "^0.5.0",
